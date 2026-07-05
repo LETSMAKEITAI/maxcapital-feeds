@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+  <generation-date>2026-07-04T00:00:00+03:00</generation-date>
+  <offer>{'internal-id': 'mk7d9de3d22b'}<type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <location>
+      <country>Россия</country>
+      <address>Рочдельская 11/5</address>
+    </location>
+    <price>
+      <value>399999</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>192.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <description>Коммерческое помещение 192 м² в самом сердце Москвы на Рочдельской улице — редкое предложение в одном из самых живых и востребованных районов города. Просторный формат открывает возможности для офиса, шоурума, студии или представительства компании, которой важен статусный адрес. Рочдельская, 11/5 — это узнаваемая локация с развитой инфраструктурой, пешеходным трафиком и удобной транспортной доступностью. 400 000 ₽ в месяц за 192 м² в этой локации — цена, которую стоит зафиксировать прямо сейчас, пока объект не ушёл. Свяжитесь с нами сегодня, чтобы согласовать просмотр и обсудить условия аренды.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+  </offer>
+  <offer>{'internal-id': 'mk1604df031b'}<type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <location>
+      <country>Россия</country>
+      <address>Новоуральск М.Горького 2а</address>
+    </location>
+    <price>
+      <value>99997</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>861.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <description>Коммерческое помещение 861 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+  </offer>
+  <offer>{'internal-id': 'mk7d492a85de'}<type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <location>
+      <country>Россия</country>
+      <address>Новоуральск Л.Толстого 8а</address>
+    </location>
+    <price>
+      <value>29997</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>943.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <description>Коммерческое помещение 943 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+  </offer>
+  <offer>{'internal-id': 'mk92eadad2d2'}<type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <location>
+      <country>Россия</country>
+      <address>Березники Деменева 4а</address>
+    </location>
+    <price>
+      <value>199998</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>614.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <description>Коммерческое помещение 614 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+  </offer>
+  <offer>{'internal-id': 'mkbb811c99e8'}<type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <location>
+      <country>Россия</country>
+      <address>Приволжск Фридриха Энгельса 4а</address>
+    </location>
+    <price>
+      <value>49998</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>1095.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <description>Коммерческое помещение 1095 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+  </offer>
+  <offer>{'internal-id': 'mkaa3be0d44b'}<type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <location>
+      <country>Россия</country>
+      <address>Жирновск Ломоносова 54</address>
+    </location>
+    <price>
+      <value>5000</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>18.6</value>
+      <unit>кв.м</unit>
+    </area>
+    <description>Компактное торговое или офисное помещение 18,6 м² в самом центре Жирновска на ул. Ломоносова, 54 — идеальный старт для малого бизнеса без лишних расходов. Всего 5 000 ₽ в месяц: минимальные вложения, максимальная свобода для развития вашего дела. Часть большого здания площадью 1 405 м² — значит, рядом деловая активность и постоянный поток людей. Небольшой метраж означает низкие коммунальные платежи и быструю окупаемость. Подходит для офиса, шоу-рума, пункта выдачи или небольшой студии. Звоните сейчас — такие ставки в центре города долго не держатся!</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+  </offer>
+  <offer>{'internal-id': 'mk80528e90f7'}<type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <location>
+      <country>Россия</country>
+      <address>Жирновск Ломоносова 54</address>
+    </location>
+    <price>
+      <value>49998</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>657.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <description>Коммерческое помещение 657 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+  </offer>
+  <offer>{'internal-id': 'mk8eed197896'}<type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <location>
+      <country>Россия</country>
+      <address>Новосибирск Окружная 29</address>
+    </location>
+    <price>
+      <value>99996</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>1200.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <description>Коммерческое помещение 1200 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+  </offer>
+</realty-feed>
