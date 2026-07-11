@@ -2,13 +2,13 @@
 <feed>
   <feed_version>2</feed_version>
   <object>
-    <ExternalId>mka1ab3f31a9</ExternalId>
+    <ExternalId>mk201 К</ExternalId>
     <Category>commercialRent</Category>
-    <Address>008 Рочдельская</Address>
-    <TotalArea>192.0</TotalArea>
-    <Description>Коммерческое помещение 192 м² в самом сердце Москвы на Рочдельской улице — редкое предложение в одном из самых живых и востребованных районов города. Просторный формат открывает возможности для офиса, шоурума, студии или представительства компании, которой важен статусный адрес. Рочдельская, 11/5 — это узнаваемая локация с развитой инфраструктурой, пешеходным трафиком и удобной транспортной доступностью. 440 000 ₽ в месяц за 192 м² в этой локации — цена, которую стоит зафиксировать прямо сейчас, пока объект не ушёл. Свяжитесь с нами сегодня, чтобы согласовать просмотр и обсудить условия аренды.</Description>
+    <Address>201 Купино</Address>
+    <TotalArea>40.0</TotalArea>
+    <Description>Коммерческое помещение 40 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
     <BargainTerms>
-      <Price>440001</Price>
+      <Price>25000</Price>
       <Currency>rur</Currency>
       <PriceType>all</PriceType>
       <VatType>usn</VatType>
@@ -21,17 +21,68 @@
     </Phones>
     <Photos>
       <PhotoSchema>
-        <FullUrl>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ABn2xHvGqBk99YW-g3ExWFY/008%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%20%D0%A0%D0%BE%D1%87%D0%B4%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20192%D0%BC/cfc3593da67bb6749d0b625296bd302a.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</FullUrl>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kupino/00.jpg</FullUrl>
       </PhotoSchema>
       <PhotoSchema>
-        <FullUrl>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ANq-oHRXyywWKxB82RNVLkI/008%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%20%D0%A0%D0%BE%D1%87%D0%B4%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20192%D0%BC/d9dd8060da95c390909648fbe939ef80.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</FullUrl>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kupino/01.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kupino/02.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kupino/03.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kupino/04.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kupino/05.jpg</FullUrl>
       </PhotoSchema>
     </Photos>
   </object>
   <object>
-    <ExternalId>mk50093fbc3b</ExternalId>
+    <ExternalId>mk202 З</ExternalId>
     <Category>commercialRent</Category>
-    <Address>206 М.Горького</Address>
+    <Address>202 Здвинск</Address>
+    <TotalArea>60.0</TotalArea>
+    <Description>Просторное помещение 60 м² в центре села Здвинск на улице Карла Маркса, 11 — готово принять ваш бизнес уже сегодня. Выгодная арендная ставка всего 5 000 ₽ в месяц делает этот объект одним из самых доступных в районе. Подходит для магазина, офиса, мастерской или склада — большая площадь даёт свободу для любого формата. Адресная локация на главной улице обеспечивает узнаваемость и удобный доступ для клиентов и партнёров. Звоните прямо сейчас — по такой цене объект долго не задержится!</Description>
+    <BargainTerms>
+      <Price>5000</Price>
+      <Currency>rur</Currency>
+      <PriceType>all</PriceType>
+      <VatType>usn</VatType>
+    </BargainTerms>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>9858332439</Number>
+      </PhoneSchema>
+    </Phones>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zdvinsk/00.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zdvinsk/01.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zdvinsk/02.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zdvinsk/03.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zdvinsk/04.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zdvinsk/05.jpg</FullUrl>
+      </PhotoSchema>
+    </Photos>
+  </object>
+  <object>
+    <ExternalId>mk206 Н</ExternalId>
+    <Category>commercialRent</Category>
+    <Address>206 Новоуральск, М.Горького 2а</Address>
     <TotalArea>861.0</TotalArea>
     <Description>Коммерческое помещение 861 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
     <BargainTerms>
@@ -71,9 +122,9 @@
     </Photos>
   </object>
   <object>
-    <ExternalId>mkc38b8b245a</ExternalId>
+    <ExternalId>mk207 Н</ExternalId>
     <Category>commercialRent</Category>
-    <Address>207 Л.Толстого</Address>
+    <Address>207 Новоуральск, Л.Толстого 8а</Address>
     <TotalArea>943.0</TotalArea>
     <Description>Коммерческое помещение 943 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
     <BargainTerms>
@@ -109,6 +160,45 @@
       </PhotoSchema>
       <PhotoSchema>
         <FullUrl>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AHGVqWWcfTrDcLcAdKoAefU/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%209%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</FullUrl>
+      </PhotoSchema>
+    </Photos>
+  </object>
+  <object>
+    <ExternalId>mk.008 </ExternalId>
+    <Category>commercialRent</Category>
+    <Address>.008 Рочдельская 11/5</Address>
+    <TotalArea>192.0</TotalArea>
+    <Description>Коммерческое помещение 192 м² в самом сердце Москвы на Рочдельской улице — редкое предложение в одном из самых живых и востребованных районов города. Просторный формат открывает возможности для офиса, шоурума, студии или представительства компании, которой важен статусный адрес. Рочдельская, 11/5 — это узнаваемая локация с развитой инфраструктурой, пешеходным трафиком и удобной транспортной доступностью. 440 000 ₽ в месяц за 192 м² в этой локации — цена, которую стоит зафиксировать прямо сейчас, пока объект не ушёл. Свяжитесь с нами сегодня, чтобы согласовать просмотр и обсудить условия аренды.</Description>
+    <BargainTerms>
+      <Price>440001</Price>
+      <Currency>rur</Currency>
+      <PriceType>all</PriceType>
+      <VatType>usn</VatType>
+    </BargainTerms>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>9858332439</Number>
+      </PhoneSchema>
+    </Phones>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/00.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/01.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/02.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/03.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/04.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/05.jpg</FullUrl>
       </PhotoSchema>
     </Photos>
   </object>
