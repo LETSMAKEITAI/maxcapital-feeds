@@ -8,7 +8,6 @@
     <Address>201 Купино</Address>
     <Title>Аренда 40 м² · 201 Купино</Title>
     <Description>Коммерческое помещение 40 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
-    <Price>25000</Price>
     <Square>40.0</Square>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
@@ -29,7 +28,6 @@
     <Address>202 Здвинск</Address>
     <Title>Аренда 60 м² · 202 Здвинск</Title>
     <Description>Просторное помещение 60 м² в центре села Здвинск на улице Карла Маркса, 11 — готово принять ваш бизнес уже сегодня. Выгодная арендная ставка всего 5 000 ₽ в месяц делает этот объект одним из самых доступных в районе. Подходит для магазина, офиса, мастерской или склада — большая площадь даёт свободу для любого формата. Адресная локация на главной улице обеспечивает узнаваемость и удобный доступ для клиентов и партнёров. Звоните прямо сейчас — по такой цене объект долго не задержится!</Description>
-    <Price>5000</Price>
     <Square>60.0</Square>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
@@ -43,28 +41,6 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>mk7b61ed59dd</Id>
-    <Category>Коммерческая недвижимость</Category>
-    <OperationType>Сдам</OperationType>
-    <PropertyRights>Собственник</PropertyRights>
-    <Address>206 Новоуральск, М.Горького 2а</Address>
-    <Title>Аренда 861 м² · 206 Новоуральск, М.Горького 2а</Title>
-    <Description>Коммерческое помещение 861 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
-    <Price>206640</Price>
-    <Square>861.0</Square>
-    <ContactPhone>+7 985 833 2439</ContactPhone>
-    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
-    <Images>
-      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ACZtUsNYxmTjiO1WtkLZF6Y/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%201%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
-      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AKibaYuG1156QZrolavuPS8/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%202%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
-      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AI3FQldNamg9dL6mjVjILMQ/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%203%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
-      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AG2vB2Pk9MR7SaN7vXE4K2g/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%204%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
-      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AHnVToMoaTH_CFcDNvSjqmU/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%205%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
-      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ALveGkjruDsCOy6vvLioH0M/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%207%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
-      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ABGlc25iZkc6d4NRnmdRx3k/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%208%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
-    </Images>
-  </Ad>
-  <Ad>
     <Id>mkab6b8c3f77</Id>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
@@ -72,7 +48,7 @@
     <Address>207 Новоуральск, Л.Толстого 8а</Address>
     <Title>Аренда 943 м² · 207 Новоуральск, Л.Толстого 8а</Title>
     <Description>Коммерческое помещение 943 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
-    <Price>207460</Price>
+    <Price>5099999</Price>
     <Square>943.0</Square>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
@@ -87,14 +63,85 @@
     </Images>
   </Ad>
   <Ad>
+    <Id>mk9f7cf0ac57</Id>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Сдам</OperationType>
+    <PropertyRights>Собственник</PropertyRights>
+    <Address>211 Пучеж</Address>
+    <Title>Аренда 832 м² · 211 Пучеж</Title>
+    <Description>Коммерческое помещение 832 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
+    <Square>832.0</Square>
+    <ContactPhone>+7 985 833 2439</ContactPhone>
+    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+  </Ad>
+  <Ad>
+    <Id>mk7f5c66edfe</Id>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Сдам</OperationType>
+    <PropertyRights>Собственник</PropertyRights>
+    <Address>.001 Хорошёвский</Address>
+    <Title>Аренда 128 м² · .001 Хорошёвский</Title>
+    <Description>Коммерческое помещение 128 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
+    <Square>127.8</Square>
+    <ContactPhone>+7 985 833 2439</ContactPhone>
+    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+  </Ad>
+  <Ad>
+    <Id>mk6eda6a6942</Id>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Сдам</OperationType>
+    <PropertyRights>Собственник</PropertyRights>
+    <Address>.003 Шмитовский-155</Address>
+    <Title>Аренда 165 м² · .003 Шмитовский-155</Title>
+    <Description>Коммерческое помещение 165 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
+    <Square>165.0</Square>
+    <ContactPhone>+7 985 833 2439</ContactPhone>
+    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+  </Ad>
+  <Ad>
+    <Id>mk2704be67d5</Id>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Сдам</OperationType>
+    <PropertyRights>Собственник</PropertyRights>
+    <Address>.004 Бронницкий</Address>
+    <Title>Аренда 153 м² · .004 Бронницкий</Title>
+    <Description>Коммерческое помещение 153 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
+    <Square>153.1</Square>
+    <ContactPhone>+7 985 833 2439</ContactPhone>
+    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+  </Ad>
+  <Ad>
+    <Id>mk746b4de70b</Id>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Сдам</OperationType>
+    <PropertyRights>Собственник</PropertyRights>
+    <Address>.005 Кутузовский</Address>
+    <Title>Аренда 146 м² · .005 Кутузовский</Title>
+    <Description>Коммерческое помещение 146 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
+    <Square>146.0</Square>
+    <ContactPhone>+7 985 833 2439</ContactPhone>
+    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+  </Ad>
+  <Ad>
+    <Id>mk77671883d0</Id>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Сдам</OperationType>
+    <PropertyRights>Собственник</PropertyRights>
+    <Address>.006 Стрельбищенский</Address>
+    <Title>Аренда 60 м² · .006 Стрельбищенский</Title>
+    <Description>Коммерческое помещение 60 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
+    <Square>60.4</Square>
+    <ContactPhone>+7 985 833 2439</ContactPhone>
+    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+  </Ad>
+  <Ad>
     <Id>mkb0985f58f3</Id>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>.008 Рочдельская 11/5</Address>
     <Title>Аренда 192 м² · .008 Рочдельская 11/5</Title>
-    <Description>Коммерческое помещение 192 м² в самом сердце Москвы на Рочдельской улице — редкое предложение в одном из самых живых и востребованных районов города. Просторный формат открывает возможности для офиса, шоурума, студии или представительства компании, которой важен статусный адрес. Рочдельская, 11/5 — это узнаваемая локация с развитой инфраструктурой, пешеходным трафиком и удобной транспортной доступностью. 440 000 ₽ в месяц за 192 м² в этой локации — цена, которую стоит зафиксировать прямо сейчас, пока объект не ушёл. Свяжитесь с нами сегодня, чтобы согласовать просмотр и обсудить условия аренды.</Description>
-    <Price>440001</Price>
+    <Description>Цокольное коммерческое помещение 192 м² в центре — Москва, ул. Рочдельская, 11/5 (Пресненский р-н, у Экспоцентра и Краснопресненской наб., рядом «Москва-Сити»). Отдельный вход с улицы, потолки 3 м, электричество 15 кВт, центральное отопление. Прямая аренда от собственника (MAXCAPITAL), без комиссии. Сдаётся под ваш ремонт — с арендными каникулами. Есть готовый дизайн-проект лофт-офиса (кирпич, металл, открытая планировка) — реализуйте концепцию или свою. Под офис, шоурум, студию, коворкинг, услуги. 300 000 ₽/мес. Договор в день обращения, показ на месте или по видеосвязи.</Description>
     <Square>192.0</Square>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
