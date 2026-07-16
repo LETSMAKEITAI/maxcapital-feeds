@@ -7,6 +7,7 @@
     <PropertyRights>Собственник</PropertyRights>
     <Address>201 Купино</Address>
     <Title>Аренда 40 м² · 201 Купино</Title>
+    <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Коммерческое помещение 40 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
     <Square>40.0</Square>
     <ContactPhone>+7 985 833 2439</ContactPhone>
@@ -27,6 +28,7 @@
     <PropertyRights>Собственник</PropertyRights>
     <Address>202 Здвинск</Address>
     <Title>Аренда 60 м² · 202 Здвинск</Title>
+    <ObjectType>Склад</ObjectType>
     <Description>Просторное помещение 60 м² в центре села Здвинск на улице Карла Маркса, 11 — готово принять ваш бизнес уже сегодня. Выгодная арендная ставка всего 5 000 ₽ в месяц делает этот объект одним из самых доступных в районе. Подходит для магазина, офиса, мастерской или склада — большая площадь даёт свободу для любого формата. Адресная локация на главной улице обеспечивает узнаваемость и удобный доступ для клиентов и партнёров. Звоните прямо сейчас — по такой цене объект долго не задержится!</Description>
     <Square>60.0</Square>
     <ContactPhone>+7 985 833 2439</ContactPhone>
@@ -47,6 +49,7 @@
     <PropertyRights>Собственник</PropertyRights>
     <Address>207 Новоуральск, Л.Толстого 8а</Address>
     <Title>Аренда 943 м² · 207 Новоуральск, Л.Толстого 8а</Title>
+    <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Коммерческое помещение 943 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
     <Price>5099999</Price>
     <Square>943.0</Square>
@@ -69,6 +72,7 @@
     <PropertyRights>Собственник</PropertyRights>
     <Address>211 Пучеж</Address>
     <Title>Аренда 832 м² · 211 Пучеж</Title>
+    <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Коммерческое помещение 832 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
     <Square>832.0</Square>
     <ContactPhone>+7 985 833 2439</ContactPhone>
@@ -81,6 +85,7 @@
     <PropertyRights>Собственник</PropertyRights>
     <Address>.001 Хорошёвский</Address>
     <Title>Аренда 128 м² · .001 Хорошёвский</Title>
+    <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Коммерческое помещение 128 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
     <Square>127.8</Square>
     <ContactPhone>+7 985 833 2439</ContactPhone>
@@ -93,6 +98,7 @@
     <PropertyRights>Собственник</PropertyRights>
     <Address>.003 Шмитовский-155</Address>
     <Title>Аренда 165 м² · .003 Шмитовский-155</Title>
+    <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Коммерческое помещение 165 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
     <Square>165.0</Square>
     <ContactPhone>+7 985 833 2439</ContactPhone>
@@ -105,6 +111,7 @@
     <PropertyRights>Собственник</PropertyRights>
     <Address>.004 Бронницкий</Address>
     <Title>Аренда 153 м² · .004 Бронницкий</Title>
+    <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Коммерческое помещение 153 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
     <Square>153.1</Square>
     <ContactPhone>+7 985 833 2439</ContactPhone>
@@ -117,6 +124,7 @@
     <PropertyRights>Собственник</PropertyRights>
     <Address>.005 Кутузовский</Address>
     <Title>Аренда 146 м² · .005 Кутузовский</Title>
+    <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Коммерческое помещение 146 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
     <Square>146.0</Square>
     <ContactPhone>+7 985 833 2439</ContactPhone>
@@ -129,6 +137,7 @@
     <PropertyRights>Собственник</PropertyRights>
     <Address>.006 Стрельбищенский</Address>
     <Title>Аренда 60 м² · .006 Стрельбищенский</Title>
+    <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Коммерческое помещение 60 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
     <Square>60.4</Square>
     <ContactPhone>+7 985 833 2439</ContactPhone>
@@ -141,7 +150,9 @@
     <PropertyRights>Собственник</PropertyRights>
     <Address>.008 Рочдельская 11/5</Address>
     <Title>Аренда 192 м² · .008 Рочдельская 11/5</Title>
-    <Description>Цокольное коммерческое помещение 192 м² в центре — Москва, ул. Рочдельская, 11/5 (Пресненский р-н, у Экспоцентра и Краснопресненской наб., рядом «Москва-Сити»). Отдельный вход с улицы, потолки 3 м, электричество 15 кВт, центральное отопление. Прямая аренда от собственника (MAXCAPITAL), без комиссии. Сдаётся под ваш ремонт — с арендными каникулами. Есть готовый дизайн-проект лофт-офиса (кирпич, металл, открытая планировка) — реализуйте концепцию или свою. Под офис, шоурум, студию, коворкинг, услуги. 300 000 ₽/мес. Договор в день обращения, показ на месте или по видеосвязи.</Description>
+    <ObjectType>Помещение свободного назначения</ObjectType>
+    <Description>192 м² в аренду, Москва, Рочдельская ул., 11с5 — цоколь на Пресне, рядом Трёхгорная мануфактура (220 м), метро «Улица 1905 года» / «Краснопресненская» — 10-12 минут пешком. Вход через презентабельный общий тамбур с отдельной дверью в помещение — жёсткое преимущество для солидного бизнеса: естественный фильтр от случайных прохожих, приватность и контроль доступа без охраны на входе. Именно такой формат выбирают закрытые представительства, юридические и финансовые компании. Статус дома подтверждён его же арендаторами: на первом этаже — кондитерская Wolkonsky (рейтинг 4.6), в цоколе — ресторан Boemi (рейтинг 4.9, больше 2500 отзывов) и медцентр Vesna. Состояние — активная стадия черновых работ (перегородки демонтированы, санузлы в работе). Уже есть готовый дизайн-проект чистовой отделки под VIP-офис (визуализации прилагаются) — можно реализовать его или адаптировать под свой бизнес. Прямая аренда от собственника, без комиссии. Договор в день обращения, показ на месте или по видеосвязи.</Description>
+    <Price>380000</Price>
     <Square>192.0</Square>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
@@ -152,6 +163,8 @@
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/03.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/04.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/05.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/06.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/07.jpg" />
     </Images>
   </Ad>
 </Ads>
