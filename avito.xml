@@ -6,10 +6,18 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>201 Купино</Address>
+    <Title>Помещение свободного назначения, 40 м²</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Коммерческое помещение 40 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
     <Price>1271792</Price>
     <Square>40.0</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>Нет</ParkingType>
+    <Decoration>Без отделки</Decoration>
+    <RentalType>Прямая</RentalType>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
     <Images>
@@ -27,10 +35,18 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>202 Здвинск</Address>
+    <Title>Складское помещение, 60 м²</Title>
     <ObjectType>Складское помещение</ObjectType>
     <Description>Просторное помещение 60 м² в центре села Здвинск на улице Карла Маркса, 11 — готово принять ваш бизнес уже сегодня. Выгодная арендная ставка всего 5 000 ₽ в месяц делает этот объект одним из самых доступных в районе. Подходит для магазина, офиса, мастерской или склада — большая площадь даёт свободу для любого формата. Адресная локация на главной улице обеспечивает узнаваемость и удобный доступ для клиентов и партнёров. Звоните прямо сейчас — по такой цене объект долго не задержится!</Description>
     <Price>178468</Price>
     <Square>60.0</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>Нет</ParkingType>
+    <Decoration>Без отделки</Decoration>
+    <RentalType>Прямая</RentalType>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
     <Images>
@@ -48,10 +64,18 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>205 Жирновск — АРЕНДА (кабинет/этаж/здание)</Address>
+    <Title>Помещение свободного назначения, 1123 м²</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Аренда в здании 1123 м² в центре Жирновска (ул. Ломоносова, 54): от кабинета до этажа/здания целиком. Кабинеты 2-го этажа и цоколя — от 11 м², готовы к въезду, с ремонтом и санузлами, от 350 ₽/м²/мес — подходит малому бизнесу. Этаж или здание целиком — для якорного арендатора (сеть, клиника, гостиничный оператор, производство/склад), цель — от 200 000 ₽/мес за пул площадей. Отопление и электричество в порядке, заезд под кабинет/офис — сразу; для гостиницы/общепита/производства потребуется дооборудование канализации — компенсируем арендными каникулами на срок работ. Напрямую от собственника, без комиссии.</Description>
     <Price>199995</Price>
     <Square>1123.0</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>Нет</ParkingType>
+    <Decoration>Без отделки</Decoration>
+    <RentalType>Прямая</RentalType>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
     <Images>
@@ -71,10 +95,18 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>207 Новоуральск, Л.Толстого 8а</Address>
+    <Title>Помещение свободного назначения, 943 м²</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Коммерческое помещение 943 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
     <Price>298676</Price>
     <Square>943.0</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>Нет</ParkingType>
+    <Decoration>Без отделки</Decoration>
+    <RentalType>Прямая</RentalType>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
     <Images>
@@ -93,9 +125,17 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>211 Пучеж</Address>
+    <Title>Помещение свободного назначения, 832 м²</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Коммерческое помещение 832 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
     <Square>832.0</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>Нет</ParkingType>
+    <Decoration>Без отделки</Decoration>
+    <RentalType>Прямая</RentalType>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
   </Ad>
@@ -105,10 +145,18 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>.001 Хорошёвский</Address>
+    <Title>Помещение свободного назначения, 128 м²</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Коммерческое помещение 128 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
     <Price>235000</Price>
     <Square>127.8</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>Нет</ParkingType>
+    <Decoration>Без отделки</Decoration>
+    <RentalType>Прямая</RentalType>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
   </Ad>
@@ -118,10 +166,18 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>.003 Шмитовский-155</Address>
+    <Title>Помещение свободного назначения, 165 м²</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Коммерческое помещение 165 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
     <Price>300000</Price>
     <Square>165.0</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>Нет</ParkingType>
+    <Decoration>Без отделки</Decoration>
+    <RentalType>Прямая</RentalType>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
   </Ad>
@@ -131,10 +187,18 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>.004 Бронницкий</Address>
+    <Title>Помещение свободного назначения, 153 м²</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Коммерческое помещение 153 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
     <Price>280000</Price>
     <Square>153.1</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>Нет</ParkingType>
+    <Decoration>Без отделки</Decoration>
+    <RentalType>Прямая</RentalType>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
   </Ad>
@@ -144,10 +208,18 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>.005 Кутузовский</Address>
+    <Title>Помещение свободного назначения, 146 м²</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Коммерческое помещение 146 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
     <Price>225001</Price>
     <Square>146.0</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>Нет</ParkingType>
+    <Decoration>Без отделки</Decoration>
+    <RentalType>Прямая</RentalType>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
   </Ad>
@@ -157,10 +229,18 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>.006 Стрельбищенский</Address>
+    <Title>Помещение свободного назначения, 60 м²</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Коммерческое помещение 60 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
     <Price>300000</Price>
     <Square>60.4</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>Нет</ParkingType>
+    <Decoration>Без отделки</Decoration>
+    <RentalType>Прямая</RentalType>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
   </Ad>
@@ -170,10 +250,18 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>.008 Рочдельская 11/5</Address>
+    <Title>Помещение свободного назначения, 192 м²</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Приватный VIP-офис 192 м² в цоколе — Москва, ул. Рочдельская, 11с5 (м. Улица 1905 года), рядом Москва-Сити и Трёхгорная мануфактура. Статус дома подтверждён соседями: на 1-м этаже — кондитерская Wolkonsky, в цоколе через отдельные приватные входы — ресторан Boemi (рейтинг 4.9) и медцентр Vesna. Свой отдельный вход, тишина и контроль доступа — формат для закрытых представительств и юридических/финансовых компаний. 380 000 ₽/мес: 1–2 месяца — 0 ₽, 3-й месяц — скидка 50%. Готовый дизайн-проект чистовой отделки. Напрямую от собственника, без комиссии.</Description>
     <Price>380000</Price>
     <Square>192.0</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>0</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>Нет</ParkingType>
+    <Decoration>Без отделки</Decoration>
+    <RentalType>Прямая</RentalType>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
     <Images>
