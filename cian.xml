@@ -8,6 +8,7 @@
     <TotalArea>40.0</TotalArea>
     <Description>Коммерческое помещение 40 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
     <BargainTerms>
+      <Price>1271792</Price>
       <Currency>rur</Currency>
       <PriceType>all</PriceType>
       <VatType>usn</VatType>
@@ -46,6 +47,7 @@
     <TotalArea>60.0</TotalArea>
     <Description>Просторное помещение 60 м² в центре села Здвинск на улице Карла Маркса, 11 — готово принять ваш бизнес уже сегодня. Выгодная арендная ставка всего 5 000 ₽ в месяц делает этот объект одним из самых доступных в районе. Подходит для магазина, офиса, мастерской или склада — большая площадь даёт свободу для любого формата. Адресная локация на главной улице обеспечивает узнаваемость и удобный доступ для клиентов и партнёров. Звоните прямо сейчас — по такой цене объект долго не задержится!</Description>
     <BargainTerms>
+      <Price>178468</Price>
       <Currency>rur</Currency>
       <PriceType>all</PriceType>
       <VatType>usn</VatType>
@@ -78,13 +80,58 @@
     </Photos>
   </object>
   <object>
+    <ExternalId>mka5237b459f</ExternalId>
+    <Category>commercialRent</Category>
+    <Address>205 Жирновск — АРЕНДА (кабинет/этаж/здание)</Address>
+    <TotalArea>1123.0</TotalArea>
+    <Description>Аренда в здании 1123 м² в центре Жирновска (ул. Ломоносова, 54): от кабинета до этажа/здания целиком. Кабинеты 2-го этажа и цоколя — от 11 м², готовы к въезду, с ремонтом и санузлами, от 350 ₽/м²/мес — подходит малому бизнесу. Этаж или здание целиком — для якорного арендатора (сеть, клиника, гостиничный оператор, производство/склад), цель — от 200 000 ₽/мес за пул площадей. Отопление и электричество в порядке, заезд под кабинет/офис — сразу; для гостиницы/общепита/производства потребуется дооборудование канализации — компенсируем арендными каникулами на срок работ. Напрямую от собственника, без комиссии.</Description>
+    <BargainTerms>
+      <Price>199995</Price>
+      <Currency>rur</Currency>
+      <PriceType>all</PriceType>
+      <VatType>usn</VatType>
+    </BargainTerms>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>9858332439</Number>
+      </PhoneSchema>
+    </Phones>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/00.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/01.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/02.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/03.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/04.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/05.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/06.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/07.jpg</FullUrl>
+      </PhotoSchema>
+    </Photos>
+  </object>
+  <object>
     <ExternalId>mkab6b8c3f77</ExternalId>
     <Category>commercialRent</Category>
     <Address>207 Новоуральск, Л.Толстого 8а</Address>
     <TotalArea>943.0</TotalArea>
     <Description>Коммерческое помещение 943 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
     <BargainTerms>
-      <Price>5099999</Price>
+      <Price>298676</Price>
       <Currency>rur</Currency>
       <PriceType>all</PriceType>
       <VatType>usn</VatType>
@@ -144,6 +191,7 @@
     <TotalArea>127.8</TotalArea>
     <Description>Коммерческое помещение 128 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
     <BargainTerms>
+      <Price>235000</Price>
       <Currency>rur</Currency>
       <PriceType>all</PriceType>
       <VatType>usn</VatType>
@@ -162,6 +210,7 @@
     <TotalArea>165.0</TotalArea>
     <Description>Коммерческое помещение 165 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
     <BargainTerms>
+      <Price>300000</Price>
       <Currency>rur</Currency>
       <PriceType>all</PriceType>
       <VatType>usn</VatType>
@@ -180,6 +229,7 @@
     <TotalArea>153.1</TotalArea>
     <Description>Коммерческое помещение 153 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
     <BargainTerms>
+      <Price>280000</Price>
       <Currency>rur</Currency>
       <PriceType>all</PriceType>
       <VatType>usn</VatType>
@@ -198,6 +248,7 @@
     <TotalArea>146.0</TotalArea>
     <Description>Коммерческое помещение 146 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
     <BargainTerms>
+      <Price>225001</Price>
       <Currency>rur</Currency>
       <PriceType>all</PriceType>
       <VatType>usn</VatType>
@@ -216,6 +267,7 @@
     <TotalArea>60.4</TotalArea>
     <Description>Коммерческое помещение 60 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
     <BargainTerms>
+      <Price>300000</Price>
       <Currency>rur</Currency>
       <PriceType>all</PriceType>
       <VatType>usn</VatType>

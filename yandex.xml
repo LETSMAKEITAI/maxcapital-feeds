@@ -9,6 +9,7 @@
       <address>201 Купино</address>
     </location>
     <price>
+      <value>1271792</value>
       <currency>RUB</currency>
       <period>month</period>
     </price>
@@ -38,6 +39,7 @@
       <address>202 Здвинск</address>
     </location>
     <price>
+      <value>178468</value>
       <currency>RUB</currency>
       <period>month</period>
     </price>
@@ -59,6 +61,38 @@
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zdvinsk/04.jpg</image>
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zdvinsk/05.jpg</image>
   </offer>
+  <offer>{'internal-id': 'mka5237b459f'}<type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <location>
+      <country>Россия</country>
+      <address>205 Жирновск — АРЕНДА (кабинет/этаж/здание)</address>
+    </location>
+    <price>
+      <value>199995</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>1123.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <description>Аренда в здании 1123 м² в центре Жирновска (ул. Ломоносова, 54): от кабинета до этажа/здания целиком. Кабинеты 2-го этажа и цоколя — от 11 м², готовы к въезду, с ремонтом и санузлами, от 350 ₽/м²/мес — подходит малому бизнесу. Этаж или здание целиком — для якорного арендатора (сеть, клиника, гостиничный оператор, производство/склад), цель — от 200 000 ₽/мес за пул площадей. Отопление и электричество в порядке, заезд под кабинет/офис — сразу; для гостиницы/общепита/производства потребуется дооборудование канализации — компенсируем арендными каникулами на срок работ. Напрямую от собственника, без комиссии.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/00.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/01.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/02.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/03.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/04.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/05.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/06.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/07.jpg</image>
+  </offer>
   <offer>{'internal-id': 'mkab6b8c3f77'}<type>аренда</type>
     <property-type>commercial</property-type>
     <category>commercial</category>
@@ -67,7 +101,7 @@
       <address>207 Новоуральск, Л.Толстого 8а</address>
     </location>
     <price>
-      <value>5099999</value>
+      <value>298676</value>
       <currency>RUB</currency>
       <period>month</period>
     </price>
@@ -121,6 +155,7 @@
       <address>.001 Хорошёвский</address>
     </location>
     <price>
+      <value>235000</value>
       <currency>RUB</currency>
       <period>month</period>
     </price>
@@ -144,6 +179,7 @@
       <address>.003 Шмитовский-155</address>
     </location>
     <price>
+      <value>300000</value>
       <currency>RUB</currency>
       <period>month</period>
     </price>
@@ -167,6 +203,7 @@
       <address>.004 Бронницкий</address>
     </location>
     <price>
+      <value>280000</value>
       <currency>RUB</currency>
       <period>month</period>
     </price>
@@ -190,6 +227,7 @@
       <address>.005 Кутузовский</address>
     </location>
     <price>
+      <value>225001</value>
       <currency>RUB</currency>
       <period>month</period>
     </price>
@@ -213,6 +251,7 @@
       <address>.006 Стрельбищенский</address>
     </location>
     <price>
+      <value>300000</value>
       <currency>RUB</currency>
       <period>month</period>
     </price>
