@@ -595,7 +595,7 @@
   </object>
   <object>
     <ExternalId>mkeaeb2b4c4</ExternalId>
-    <Category>officeRent</Category>
+    <Category>freeAppointmentObjectRent</Category>
     <Address>Москва, Бронницкий пер., 2</Address>
     <TotalArea>25.0</TotalArea>
     <FloorNumber>-1</FloorNumber>
