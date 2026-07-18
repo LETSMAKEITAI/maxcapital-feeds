@@ -7,7 +7,7 @@
     <category>commercial</category>
     <location>
       <country>Россия</country>
-      <address>107 25 лет Октября 9</address>
+      <address>Новосибирск, ул. 25 лет Октября, 9</address>
     </location>
     <price>
       <value>2710000</value>
@@ -31,7 +31,7 @@
     <category>commercial</category>
     <location>
       <country>Россия</country>
-      <address>110 Кирова 162</address>
+      <address>Новосибирск, ул. Кирова, 152</address>
     </location>
     <price>
       <value>74994</value>
@@ -70,7 +70,7 @@
     <category>commercial</category>
     <location>
       <country>Россия</country>
-      <address>201 Купино</address>
+      <address>Купино, ул. Советов, 80</address>
     </location>
     <price>
       <value>5714</value>
@@ -101,7 +101,7 @@
     <category>commercial</category>
     <location>
       <country>Россия</country>
-      <address>202 Здвинск</address>
+      <address>Здвинск, ул. Карла Маркса, 11</address>
     </location>
     <price>
       <value>35000</value>
@@ -132,7 +132,7 @@
     <category>commercial</category>
     <location>
       <country>Россия</country>
-      <address>205 Жирновск — ПРОДАЖА ЗДАНИЯ</address>
+      <address>г. Жирновск, ул. Ломоносова, 54</address>
     </location>
     <price>
       <value>9999999</value>
@@ -164,7 +164,7 @@
     <category>commercial</category>
     <location>
       <country>Россия</country>
-      <address>205 Жирновск — АРЕНДА (кабинет/этаж/здание)</address>
+      <address>г. Жирновск, ул. Ломоносова, 54</address>
     </location>
     <price>
       <value>199995</value>
@@ -197,7 +197,7 @@
     <category>commercial</category>
     <location>
       <country>Россия</country>
-      <address>206 Новоуральск, М.Горького 2а</address>
+      <address>Новоуральск, ул. М. Горького, 2а</address>
     </location>
     <price>
       <value>7500000</value>
@@ -228,7 +228,7 @@
     <category>commercial</category>
     <location>
       <country>Россия</country>
-      <address>207 Новоуральск, Л.Толстого 8а</address>
+      <address>Новоуральск, ул. Л. Толстого, 8а</address>
     </location>
     <price>
       <value>6100000</value>
@@ -259,7 +259,7 @@
     <category>commercial</category>
     <location>
       <country>Россия</country>
-      <address>210 Приволжск, М.Московская 37Б</address>
+      <address>Ивановская обл., г. Приволжск, ул. Малая Московская, 37Б</address>
     </location>
     <price>
       <value>7000000</value>
@@ -289,10 +289,10 @@
     <category>commercial</category>
     <location>
       <country>Россия</country>
-      <address>211 Пучеж — АРЕНДА</address>
+      <address>Ивановская обл., г. Пучеж, ул. Заводская, 3</address>
     </location>
     <price>
-      <value>100000</value>
+      <value>50003</value>
       <currency>RUB</currency>
       <period>month</period>
     </price>
@@ -330,7 +330,7 @@
     <category>commercial</category>
     <location>
       <country>Россия</country>
-      <address>.001 Хорошёвский</address>
+      <address>Москва, 1-й Хорошёвский проезд, 14к2</address>
     </location>
     <price>
       <value>199000</value>
@@ -370,7 +370,7 @@
     <category>commercial</category>
     <location>
       <country>Россия</country>
-      <address>.007 Шмитовский 17</address>
+      <address>Москва, Шмитовский проезд, 17</address>
     </location>
     <price>
       <value>300001</value>
@@ -411,7 +411,7 @@
     <category>commercial</category>
     <location>
       <country>Россия</country>
-      <address>.004 Бронницкий</address>
+      <address>Москва, Бронницкий пер., 2</address>
     </location>
     <price>
       <value>30000</value>
@@ -453,7 +453,7 @@
     <category>commercial</category>
     <location>
       <country>Россия</country>
-      <address>.008 Рочдельская 11/5</address>
+      <address>Москва, Рочдельская, 11/5</address>
     </location>
     <price>
       <value>380000</value>
