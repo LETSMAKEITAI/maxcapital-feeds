@@ -503,7 +503,7 @@
     <Category>freeAppointmentObjectSale</Category>
     <Address>Москва, ул. Енисейская, 16/21</Address>
     <TotalArea>80.0</TotalArea>
-    <FloorNumber>1</FloorNumber>
+    <FloorNumber>-1</FloorNumber>
     <Building>
       <FloorsCount>1</FloorsCount>
     </Building>
