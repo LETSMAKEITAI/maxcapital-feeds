@@ -345,6 +345,41 @@
     </Images>
   </Ad>
   <Ad>
+    <Id>mkac6003131s</Id>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Продам</OperationType>
+    <PropertyRights>Собственник</PropertyRights>
+    <Address>Москва, ул. Енисейская, 16/21</Address>
+    <Title>Складское помещение, 80 м²</Title>
+    <ObjectType>Складское помещение</ObjectType>
+    <Description>Свободного назначения 79,7 м² (цоколь) — Москва, ул. Енисейская, д. 16/21 (СВАО, Бабушкинский р-н, м. «Бабушкинская» ~6-7 мин пешком)
+
+Эффектный вход через просторный подъезд-«колодец» со светом, видовая лестница к квартирам. Несколько смежных комнат (по плану БТИ), тёплое, с окнами, готовый санузел. Без ремонта — под апартаменты, склад или офис под отделку новым владельцем.
+
+• Площадь: 79,7 м² (по ЕГРН), цоколь жилого дома, несколько комнат
+• Окна есть, санузел готов, без ремонта (черновая отделка)
+• Электричество ограничено (1-2 кВт) — под энергоёмкие форматы нужно доп. согласование мощности
+• Продажа 12 000 000 ₽ — напрямую от собственника
+• ЕГРН 77:02:0014008:3345
+
+Покажем в удобное время. Звоните — согласуем показ и условия.</Description>
+    <Price>12000000</Price>
+    <Square>80.0</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>Нет</ParkingType>
+    <Decoration>Без отделки</Decoration>
+    <RentalType>Прямая</RentalType>
+    <ContactPhone>+7 985 833 2439</ContactPhone>
+    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/00.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/01.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
     <Id>mk764a9eaa9</Id>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
