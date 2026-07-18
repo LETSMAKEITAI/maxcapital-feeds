@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
-    <Id>mk758aecb24d</Id>
+    <Id>mk13e27c897s</Id>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Продам</OperationType>
+    <PropertyRights>Собственник</PropertyRights>
+    <Address>107 25 лет Октября 9</Address>
+    <Title>Офисное помещение, 27 м²</Title>
+    <ObjectType>Офисное помещение</ObjectType>
+    <Description>Помещение на первом этаже дома на ул. 25 лет Октября, 9 (Дзержинский район, Новосибирск): две удобные комнаты прямо от входа + небольшое подвальное помещение. Под небольшой офис, кладовую, мастерскую или вложение. Метро «Берёзовая Роща». Продажа от 1 000 000 ₽. Напрямую от собственника.</Description>
+    <Price>1000000</Price>
+    <Square>27.1</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>Нет</ParkingType>
+    <Decoration>Без отделки</Decoration>
+    <RentalType>Прямая</RentalType>
+    <ContactPhone>+7 985 833 2439</ContactPhone>
+    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+  </Ad>
+  <Ad>
+    <Id>mk758aecb24</Id>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -20,9 +41,17 @@
     <RentalType>Прямая</RentalType>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/00.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/01.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/02.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/03.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/04.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/05.jpg" />
+    </Images>
   </Ad>
   <Ad>
-    <Id>mk95a0d88774</Id>
+    <Id>mk95a0d8877</Id>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -51,7 +80,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>mk87956664e6</Id>
+    <Id>mk87956664e</Id>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -80,7 +109,38 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>mka5237b459f</Id>
+    <Id>mkce78f7d90s</Id>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Продам</OperationType>
+    <PropertyRights>Собственник</PropertyRights>
+    <Address>205 Жирновск — ПРОДАЖА ЗДАНИЯ</Address>
+    <Title>Помещение свободного назначения, 1123 м²</Title>
+    <ObjectType>Помещение свободного назначения</ObjectType>
+    <Description>Отдельно стоящее 3-этажное здание 1123 м² в самом центре Жирновска — над отделением Почты России, на ул. Ломоносова, 54. 2-й этаж и цоколь — с ремонтом, тёплые, часть кабинетов уже сдаётся малому бизнесу — действующий денежный поток с первого дня владения. 3-й этаж — черновая отделка (бетон), апсайд под гостиницу, апартаменты или доп. офисы. Рядом на той же улице — пункты выдачи Wildberries и Ozon, трафик подтверждён рынком. Жирновск — нефтяной райцентр (ЖНГДУ «Лукойл», РИТЭК), стабильный спрос на организованные помещения в центре. Продажа строго целиком, напрямую от собственника, без комиссии, возможен торг. 9 999 999 ₽ (≈8 900 ₽/м²).</Description>
+    <Price>9999999</Price>
+    <Square>1123.0</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>Нет</ParkingType>
+    <Decoration>Без отделки</Decoration>
+    <RentalType>Прямая</RentalType>
+    <ContactPhone>+7 985 833 2439</ContactPhone>
+    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/00.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/01.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/02.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/03.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/04.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/05.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/06.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/07.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>mka5237b459</Id>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -111,15 +171,45 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>mkab6b8c3f77</Id>
+    <Id>mk7b61ed59ds</Id>
     <Category>Коммерческая недвижимость</Category>
-    <OperationType>Сдам</OperationType>
+    <OperationType>Продам</OperationType>
+    <PropertyRights>Собственник</PropertyRights>
+    <Address>206 Новоуральск, М.Горького 2а</Address>
+    <Title>Здание, 861 м²</Title>
+    <ObjectType>Здание</ObjectType>
+    <Description>Отдельное здание в Новоуральске (ул. М. Горького, 2а) под хостел, мини-отель, спортивный или сервисный объект. Цельный объект в центре ЗАТО. Напрямую от собственника, без комиссии.</Description>
+    <Price>6500000</Price>
+    <Square>861.0</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>Нет</ParkingType>
+    <Decoration>Без отделки</Decoration>
+    <RentalType>Прямая</RentalType>
+    <ContactPhone>+7 985 833 2439</ContactPhone>
+    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <Images>
+      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ACZtUsNYxmTjiO1WtkLZF6Y/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%201%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
+      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AKibaYuG1156QZrolavuPS8/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%202%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
+      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AI3FQldNamg9dL6mjVjILMQ/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%203%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
+      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AG2vB2Pk9MR7SaN7vXE4K2g/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%204%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
+      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AHnVToMoaTH_CFcDNvSjqmU/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%205%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
+      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ALveGkjruDsCOy6vvLioH0M/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%207%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
+      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ABGlc25iZkc6d4NRnmdRx3k/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%208%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>mkab6b8c3f7s</Id>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Продам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>207 Новоуральск, Л.Толстого 8а</Address>
     <Title>Здание, 943 м²</Title>
     <ObjectType>Здание</ObjectType>
     <Description>Отдельное здание в Новоуральске (ул. Л. Толстого, 8а) под хостел, мини-отель, спортивный или сервисный объект. Цельный объект в центре ЗАТО. Напрямую от собственника, без комиссии.</Description>
-    <Price>298676</Price>
+    <Price>5100000</Price>
     <Square>943.0</Square>
     <Entrance>С улицы</Entrance>
     <Floor>1</Floor>
@@ -141,7 +231,36 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>mk9f7cf0ac57</Id>
+    <Id>mk14919d7b9s</Id>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Продам</OperationType>
+    <PropertyRights>Собственник</PropertyRights>
+    <Address>210 Приволжск, М.Московская 37Б</Address>
+    <Title>Складское помещение, 1095 м²</Title>
+    <ObjectType>Складское помещение</ObjectType>
+    <Description>Отдельно стоящее двухэтажное здание с большим благоустроенным участком в Приволжске, ул. Малая Московская, 37Б. Хороший асфальтированный подъезд, участок с зеленью. Крепкий каркас, крыша, электричество; свободная планировка — под производство, склад, швейное, базу. Продажа: старт 7 000 000 ₽, торг.</Description>
+    <Price>7000000</Price>
+    <Square>1095.0</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>Нет</ParkingType>
+    <Decoration>Без отделки</Decoration>
+    <RentalType>Прямая</RentalType>
+    <ContactPhone>+7 985 833 2439</ContactPhone>
+    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/00.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/01.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/02.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/03.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/04.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/05.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>mk9f7cf0ac5</Id>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -149,6 +268,7 @@
     <Title>Гостиница, 832 м²</Title>
     <ObjectType>Гостиница</ObjectType>
     <Description>Отдельное здание 1000 м² на берегу Волги с большим двором и просторным огороженным участком с красивыми деревьями — рядом городской пляж, туризм, рыбалка. В городе почти нет мест размещения — ниша под гостиницу/базу отдыха. Сдаём отельному оператору: мин. 100 000 ₽/мес + % оборота (ремонт и КУ на арендаторе). Рассмотрим продажу от 12 000 000 ₽. Напрямую от собственника.</Description>
+    <Price>100000</Price>
     <Square>832.0</Square>
     <Entrance>С улицы</Entrance>
     <Floor>1</Floor>
@@ -159,9 +279,19 @@
     <RentalType>Прямая</RentalType>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/00.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/01.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/02.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/03.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/04.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/05.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/06.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/07.jpg" />
+    </Images>
   </Ad>
   <Ad>
-    <Id>mk7f5c66edfe</Id>
+    <Id>mk7f5c66edf</Id>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -180,30 +310,17 @@
     <RentalType>Прямая</RentalType>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/00.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/01.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/02.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/03.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/04.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/05.jpg" />
+    </Images>
   </Ad>
   <Ad>
-    <Id>mk6eda6a6942</Id>
-    <Category>Коммерческая недвижимость</Category>
-    <OperationType>Сдам</OperationType>
-    <PropertyRights>Собственник</PropertyRights>
-    <Address>.003 Шмитовский-155</Address>
-    <Title>Помещение свободного назначения, 165 м²</Title>
-    <ObjectType>Помещение свободного назначения</ObjectType>
-    <Description>Коммерческое помещение 165 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
-    <Price>300000</Price>
-    <Square>165.0</Square>
-    <Entrance>С улицы</Entrance>
-    <Floor>1</Floor>
-    <Heating>Центральное</Heating>
-    <BuildingType>Другой</BuildingType>
-    <ParkingType>Нет</ParkingType>
-    <Decoration>Без отделки</Decoration>
-    <RentalType>Прямая</RentalType>
-    <ContactPhone>+7 985 833 2439</ContactPhone>
-    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
-  </Ad>
-  <Ad>
-    <Id>mk2704be67d5</Id>
+    <Id>mk2704be67d</Id>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -222,51 +339,19 @@
     <RentalType>Прямая</RentalType>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/00.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/01.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/02.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/03.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/04.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/05.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/06.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/07.jpg" />
+    </Images>
   </Ad>
   <Ad>
-    <Id>mk746b4de70b</Id>
-    <Category>Коммерческая недвижимость</Category>
-    <OperationType>Сдам</OperationType>
-    <PropertyRights>Собственник</PropertyRights>
-    <Address>.005 Кутузовский</Address>
-    <Title>Помещение свободного назначения, 146 м²</Title>
-    <ObjectType>Помещение свободного назначения</ObjectType>
-    <Description>Коммерческое помещение 146 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
-    <Price>225001</Price>
-    <Square>146.0</Square>
-    <Entrance>С улицы</Entrance>
-    <Floor>1</Floor>
-    <Heating>Центральное</Heating>
-    <BuildingType>Другой</BuildingType>
-    <ParkingType>Нет</ParkingType>
-    <Decoration>Без отделки</Decoration>
-    <RentalType>Прямая</RentalType>
-    <ContactPhone>+7 985 833 2439</ContactPhone>
-    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
-  </Ad>
-  <Ad>
-    <Id>mk77671883d0</Id>
-    <Category>Коммерческая недвижимость</Category>
-    <OperationType>Сдам</OperationType>
-    <PropertyRights>Собственник</PropertyRights>
-    <Address>.006 Стрельбищенский</Address>
-    <Title>Помещение свободного назначения, 60 м²</Title>
-    <ObjectType>Помещение свободного назначения</ObjectType>
-    <Description>Коммерческое помещение 60 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
-    <Price>300000</Price>
-    <Square>60.4</Square>
-    <Entrance>С улицы</Entrance>
-    <Floor>1</Floor>
-    <Heating>Центральное</Heating>
-    <BuildingType>Другой</BuildingType>
-    <ParkingType>Нет</ParkingType>
-    <Decoration>Без отделки</Decoration>
-    <RentalType>Прямая</RentalType>
-    <ContactPhone>+7 985 833 2439</ContactPhone>
-    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
-  </Ad>
-  <Ad>
-    <Id>mkb0985f58f3</Id>
+    <Id>mkb0985f58f</Id>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
