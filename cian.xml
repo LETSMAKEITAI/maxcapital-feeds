@@ -2,7 +2,7 @@
 <feed>
   <feed_version>2</feed_version>
   <object>
-    <ExternalId>mk91dbb8939s</ExternalId>
+    <ExternalId>mk107s</ExternalId>
     <Category>officeSale</Category>
     <Address>Новосибирск, ул. 25 лет Октября, 9</Address>
     <TotalArea>27.0</TotalArea>
@@ -24,7 +24,7 @@
     </Phones>
   </object>
   <object>
-    <ExternalId>mk758aecb24</ExternalId>
+    <ExternalId>mk110</ExternalId>
     <Category>freeAppointmentObjectRent</Category>
     <Address>Новосибирск, ул. Кирова, 152</Address>
     <TotalArea>1222.0</TotalArea>
@@ -75,7 +75,7 @@
     </Photos>
   </object>
   <object>
-    <ExternalId>mk95a0d8877</ExternalId>
+    <ExternalId>mk201</ExternalId>
     <Category>freeAppointmentObjectRent</Category>
     <Address>Купино, ул. Советов, 80</Address>
     <TotalArea>40.0</TotalArea>
@@ -118,7 +118,7 @@
     </Photos>
   </object>
   <object>
-    <ExternalId>mk87956664e</ExternalId>
+    <ExternalId>mk202</ExternalId>
     <Category>freeAppointmentObjectRent</Category>
     <Address>Здвинск, ул. Карла Маркса, 11</Address>
     <TotalArea>60.0</TotalArea>
@@ -161,7 +161,7 @@
     </Photos>
   </object>
   <object>
-    <ExternalId>mkce78f7d90s</ExternalId>
+    <ExternalId>mk205s</ExternalId>
     <Category>freeAppointmentObjectSale</Category>
     <Address>г. Жирновск, ул. Ломоносова, 54</Address>
     <TotalArea>1123.0</TotalArea>
@@ -209,7 +209,7 @@
     </Photos>
   </object>
   <object>
-    <ExternalId>mka5237b459</ExternalId>
+    <ExternalId>mk205</ExternalId>
     <Category>freeAppointmentObjectRent</Category>
     <Address>г. Жирновск, ул. Ломоносова, 54</Address>
     <TotalArea>1123.0</TotalArea>
@@ -258,7 +258,7 @@
     </Photos>
   </object>
   <object>
-    <ExternalId>mk7b61ed59ds</ExternalId>
+    <ExternalId>mk206s</ExternalId>
     <Category>buildingSale</Category>
     <Address>Новоуральск, ул. М. Горького, 2а</Address>
     <TotalArea>861.0</TotalArea>
@@ -303,7 +303,7 @@
     </Photos>
   </object>
   <object>
-    <ExternalId>mkab6b8c3f7s</ExternalId>
+    <ExternalId>mk207s</ExternalId>
     <Category>buildingSale</Category>
     <Address>Новоуральск, ул. Л. Толстого, 8а</Address>
     <TotalArea>943.0</TotalArea>
@@ -348,7 +348,7 @@
     </Photos>
   </object>
   <object>
-    <ExternalId>mk14919d7b9s</ExternalId>
+    <ExternalId>mk210s</ExternalId>
     <Category>freeAppointmentObjectSale</Category>
     <Address>Ивановская обл., г. Приволжск, ул. Малая Московская, 37Б</Address>
     <TotalArea>1095.0</TotalArea>
@@ -390,7 +390,7 @@
     </Photos>
   </object>
   <object>
-    <ExternalId>mk5dd5c0d5e</ExternalId>
+    <ExternalId>mk211</ExternalId>
     <Category>freeAppointmentObjectRent</Category>
     <Address>Ивановская обл., г. Пучеж, ул. Заводская, 3</Address>
     <TotalArea>832.0</TotalArea>
@@ -447,7 +447,7 @@
     </Photos>
   </object>
   <object>
-    <ExternalId>mk7f5c66edf</ExternalId>
+    <ExternalId>mkd001</ExternalId>
     <Category>freeAppointmentObjectRent</Category>
     <Address>Москва, 1-й Хорошёвский проезд, 14к2</Address>
     <TotalArea>127.8</TotalArea>
@@ -499,7 +499,7 @@
     </Photos>
   </object>
   <object>
-    <ExternalId>mkac6003131s</ExternalId>
+    <ExternalId>mkd002s</ExternalId>
     <Category>freeAppointmentObjectSale</Category>
     <Address>Москва, ул. Енисейская, 16/21</Address>
     <TotalArea>80.0</TotalArea>
@@ -539,7 +539,7 @@
     </Photos>
   </object>
   <object>
-    <ExternalId>mk764a9eaa9</ExternalId>
+    <ExternalId>mkd007</ExternalId>
     <Category>freeAppointmentObjectRent</Category>
     <Address>Москва, Шмитовский проезд, 17</Address>
     <TotalArea>287.0</TotalArea>
@@ -594,7 +594,7 @@
     </Photos>
   </object>
   <object>
-    <ExternalId>mkeaeb2b4c4</ExternalId>
+    <ExternalId>mkd004</ExternalId>
     <Category>freeAppointmentObjectRent</Category>
     <Address>Москва, Бронницкий пер., 2</Address>
     <TotalArea>25.0</TotalArea>
@@ -652,7 +652,7 @@
     </Photos>
   </object>
   <object>
-    <ExternalId>mkb0985f58f</ExternalId>
+    <ExternalId>mkd008</ExternalId>
     <Category>freeAppointmentObjectRent</Category>
     <Address>Москва, Рочдельская, 11/5</Address>
     <TotalArea>192.0</TotalArea>
