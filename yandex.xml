@@ -5,6 +5,7 @@
     <type>продажа</type>
     <property-type>commercial</property-type>
     <category>commercial</category>
+    <commercial-type>office</commercial-type>
     <location>
       <country>Россия</country>
       <address>Новосибирск, ул. 25 лет Октября, 9</address>
@@ -17,6 +18,8 @@
       <value>27.0</value>
       <unit>кв.м</unit>
     </area>
+    <floor>1</floor>
+    <floors-total>1</floors-total>
     <description>Помещение на первом этаже дома на ул. 25 лет Октября, 9 (Дзержинский район, Новосибирск): две удобные комнаты прямо от входа + небольшое подвальное помещение. Под небольшой офис, кладовую, мастерскую или вложение. Метро «Берёзовая Роща». Продажа от 1 000 000 ₽. Напрямую от собственника.</description>
     <sales-agent>
       <name>Отдел аренды MAXCAPITAL</name>
@@ -29,6 +32,7 @@
     <type>аренда</type>
     <property-type>commercial</property-type>
     <category>commercial</category>
+    <commercial-type>retail</commercial-type>
     <location>
       <country>Россия</country>
       <address>Новосибирск, ул. Кирова, 152</address>
@@ -42,6 +46,8 @@
       <value>1222.0</value>
       <unit>кв.м</unit>
     </area>
+    <floor>1</floor>
+    <floors-total>1</floors-total>
     <description>Асфальтированная площадка 1222 м² — Новосибирск, ул. Кирова, 152 (Октябрьский р-н, рядом м. «Октябрьская»)
 
 Площадка полностью заасфальтирована, удобный въезд/выезд. Подходит под автомойку, автостоянку, размещение техники, торговые киоски — на площадке стоит ваганчик по продаже питания - удобный заезд и выезд на участок уже сделаны с улицы Кирова 
@@ -68,6 +74,7 @@
     <type>аренда</type>
     <property-type>commercial</property-type>
     <category>commercial</category>
+    <commercial-type>retail</commercial-type>
     <location>
       <country>Россия</country>
       <address>Купино, ул. Советов, 80</address>
@@ -81,6 +88,8 @@
       <value>40.0</value>
       <unit>кв.м</unit>
     </area>
+    <floor>1</floor>
+    <floors-total>3</floors-total>
     <description>Первый этаж здания гостиницы «Сибирь» на центральной площади Купино (ул. Советов, 80): две торговые площади с отдельным входом с улицы + просторный холл под кафе/столовую. Рядом администрация, полиция, Дом культуры, банки — максимальный пешеходный трафик. Также сдаются кабинеты 14–34 м² на 2 и 3 этажах (3-й — под общежитие/студентов или офисы). Напрямую от собственника.</description>
     <sales-agent>
       <name>Отдел аренды MAXCAPITAL</name>
@@ -99,6 +108,7 @@
     <type>аренда</type>
     <property-type>commercial</property-type>
     <category>commercial</category>
+    <commercial-type>warehouse</commercial-type>
     <location>
       <country>Россия</country>
       <address>Здвинск, ул. Карла Маркса, 11</address>
@@ -112,6 +122,8 @@
       <value>60.0</value>
       <unit>кв.м</unit>
     </area>
+    <floor>1</floor>
+    <floors-total>1</floors-total>
     <description>Помещения на 1 этаже здания гостиницы «Сибирь» в центре села Здвинск (ул. Карла Маркса, 11): комнаты 11–56 м² и подвал 26 м² — под офис, услуги, торговлю, склад. Рядом администрация, банк, библиотека, Дом культуры. Напрямую от собственника.</description>
     <sales-agent>
       <name>Отдел аренды MAXCAPITAL</name>
@@ -130,6 +142,7 @@
     <type>продажа</type>
     <property-type>commercial</property-type>
     <category>commercial</category>
+    <commercial-type>free purpose</commercial-type>
     <location>
       <country>Россия</country>
       <address>г. Жирновск, ул. Ломоносова, 54</address>
@@ -142,6 +155,8 @@
       <value>1123.0</value>
       <unit>кв.м</unit>
     </area>
+    <floor>1</floor>
+    <floors-total>3</floors-total>
     <description>Отдельно стоящее 3-этажное здание 1123 м² в самом центре Жирновска — над отделением Почты России, на ул. Ломоносова, 54. 2-й этаж и цоколь — с ремонтом, тёплые, часть кабинетов уже сдаётся малому бизнесу — действующий денежный поток с первого дня владения. 3-й этаж — черновая отделка (бетон), апсайд под гостиницу, апартаменты или доп. офисы. Рядом на той же улице — пункты выдачи Wildberries и Ozon, трафик подтверждён рынком. Жирновск — нефтяной райцентр (ЖНГДУ «Лукойл», РИТЭК), стабильный спрос на организованные помещения в центре. Продажа строго целиком, напрямую от собственника, без комиссии, возможен торг. 9 999 999 ₽ (≈8 900 ₽/м²).</description>
     <sales-agent>
       <name>Отдел аренды MAXCAPITAL</name>
@@ -162,6 +177,7 @@
     <type>аренда</type>
     <property-type>commercial</property-type>
     <category>commercial</category>
+    <commercial-type>free purpose</commercial-type>
     <location>
       <country>Россия</country>
       <address>г. Жирновск, ул. Ломоносова, 54</address>
@@ -175,6 +191,8 @@
       <value>1123.0</value>
       <unit>кв.м</unit>
     </area>
+    <floor>1</floor>
+    <floors-total>3</floors-total>
     <description>Аренда в здании 1123 м² в центре Жирновска (ул. Ломоносова, 54): от кабинета до этажа/здания целиком. Кабинеты 2-го этажа и цоколя — от 11 м², готовы к въезду, с ремонтом и санузлами, от 350 ₽/м²/мес — подходит малому бизнесу. Этаж или здание целиком — для якорного арендатора (сеть, клиника, гостиничный оператор, производство/склад), цель — от 200 000 ₽/мес за пул площадей. Отопление и электричество в порядке, заезд под кабинет/офис — сразу; для гостиницы/общепита/производства потребуется дооборудование канализации — компенсируем арендными каникулами на срок работ. Напрямую от собственника, без комиссии.</description>
     <sales-agent>
       <name>Отдел аренды MAXCAPITAL</name>
@@ -195,6 +213,7 @@
     <type>продажа</type>
     <property-type>commercial</property-type>
     <category>commercial</category>
+    <commercial-type>free purpose</commercial-type>
     <location>
       <country>Россия</country>
       <address>Новоуральск, ул. М. Горького, 2а</address>
@@ -207,6 +226,8 @@
       <value>861.0</value>
       <unit>кв.м</unit>
     </area>
+    <floor>1</floor>
+    <floors-total>3</floors-total>
     <description>Отдельное здание в Новоуральске (ул. М. Горького, 2а) под хостел, мини-отель, спортивный или сервисный объект. Цельный объект в центре ЗАТО. Напрямую от собственника, без комиссии.</description>
     <sales-agent>
       <name>Отдел аренды MAXCAPITAL</name>
@@ -226,6 +247,7 @@
     <type>продажа</type>
     <property-type>commercial</property-type>
     <category>commercial</category>
+    <commercial-type>free purpose</commercial-type>
     <location>
       <country>Россия</country>
       <address>Новоуральск, ул. Л. Толстого, 8а</address>
@@ -238,6 +260,8 @@
       <value>943.0</value>
       <unit>кв.м</unit>
     </area>
+    <floor>1</floor>
+    <floors-total>3</floors-total>
     <description>Отдельное здание в Новоуральске (ул. Л. Толстого, 8а) под хостел, мини-отель, спортивный или сервисный объект. Цельный объект в центре ЗАТО. Напрямую от собственника, без комиссии.</description>
     <sales-agent>
       <name>Отдел аренды MAXCAPITAL</name>
@@ -257,6 +281,7 @@
     <type>продажа</type>
     <property-type>commercial</property-type>
     <category>commercial</category>
+    <commercial-type>free purpose</commercial-type>
     <location>
       <country>Россия</country>
       <address>Ивановская обл., г. Приволжск, ул. Малая Московская, 37Б</address>
@@ -269,6 +294,8 @@
       <value>1095.0</value>
       <unit>кв.м</unit>
     </area>
+    <floor>1</floor>
+    <floors-total>1</floors-total>
     <description>Отдельно стоящее двухэтажное здание с большим благоустроенным участком в Приволжске, ул. Малая Московская, 37Б. Хороший асфальтированный подъезд, участок с зеленью. Крепкий каркас, крыша, электричество; свободная планировка — под производство, склад, швейное, базу. Продажа: старт 7 000 000 ₽, торг.</description>
     <sales-agent>
       <name>Отдел аренды MAXCAPITAL</name>
@@ -287,6 +314,7 @@
     <type>аренда</type>
     <property-type>commercial</property-type>
     <category>commercial</category>
+    <commercial-type>free purpose</commercial-type>
     <location>
       <country>Россия</country>
       <address>Ивановская обл., г. Пучеж, ул. Заводская, 3</address>
@@ -300,6 +328,8 @@
       <value>832.0</value>
       <unit>кв.м</unit>
     </area>
+    <floor>1</floor>
+    <floors-total>1</floors-total>
     <description>Отдельное здание 1000 м² на берегу Волги — г. Пучеж (Ивановская обл.), ул. Заводская, 3, участок 832 м²
 
 Бывший детский сад №5 «Малышок», большой двор с деревьями, рядом городской пляж. В городе почти нет мест размещения — ниша под гостиницу/базу отдыха для туризма и рыбалки.
@@ -328,6 +358,7 @@
     <type>аренда</type>
     <property-type>commercial</property-type>
     <category>commercial</category>
+    <commercial-type>retail</commercial-type>
     <location>
       <country>Россия</country>
       <address>Москва, 1-й Хорошёвский проезд, 14к2</address>
@@ -341,6 +372,8 @@
       <value>127.8</value>
       <unit>кв.м</unit>
     </area>
+    <floor>1</floor>
+    <floors-total>1</floors-total>
     <description>Помещение свободного назначения 128 м² в аренду — Москва, 1-й Хорошёвский проезд, 14к2
 
 Отдельный вход с красивой входной группой и тамбуром — полностью изолирован от подъезда жилого дома. Отличная транспортная доступность — 2 минуты пешком до метро. Большая парковка в удобном дворе с автоматическим въездом. Свободная планировка под офис, услуги или шоурум.
@@ -368,6 +401,7 @@
     <type>продажа</type>
     <property-type>commercial</property-type>
     <category>commercial</category>
+    <commercial-type>warehouse</commercial-type>
     <location>
       <country>Россия</country>
       <address>Москва, ул. Енисейская, 16/21</address>
@@ -380,6 +414,8 @@
       <value>80.0</value>
       <unit>кв.м</unit>
     </area>
+    <floor>1</floor>
+    <floors-total>1</floors-total>
     <description>Свободного назначения 79,7 м² (цоколь) — Москва, ул. Енисейская, д. 16/21 (СВАО, Бабушкинский р-н, м. «Бабушкинская» ~6-7 мин пешком)
 
 Эффектный вход через просторный подъезд-«колодец» со светом, видовая лестница к квартирам. Несколько смежных комнат (по плану БТИ), тёплое, с окнами, готовый санузел. Без ремонта — под апартаменты, склад или офис под отделку новым владельцем.
@@ -404,6 +440,7 @@
     <type>аренда</type>
     <property-type>commercial</property-type>
     <category>commercial</category>
+    <commercial-type>retail</commercial-type>
     <location>
       <country>Россия</country>
       <address>Москва, Шмитовский проезд, 17</address>
@@ -417,6 +454,8 @@
       <value>287.0</value>
       <unit>кв.м</unit>
     </area>
+    <floor>1</floor>
+    <floors-total>1</floors-total>
     <description>Свободного назначения 287 м² — Москва, Шмитовский проезд, 17 (Пресненский район)
 
 Открытая планировка под любой формат: стены снесены, потолок усилен, высота потолков ~4 м. Три отдельных входа — центральный со Шмитовского проезда + два боковых, можно сдать единым блоком или разделить под несколько арендаторов. Подходит под офис, шоурум, коворкинг, услуги, представительство.
@@ -445,6 +484,7 @@
     <type>аренда</type>
     <property-type>commercial</property-type>
     <category>commercial</category>
+    <commercial-type>free purpose</commercial-type>
     <location>
       <country>Россия</country>
       <address>Москва, Бронницкий пер., 2</address>
@@ -458,6 +498,8 @@
       <value>25.0</value>
       <unit>кв.м</unit>
     </area>
+    <floor>1</floor>
+    <floors-total>1</floors-total>
     <description>Офисный кабинет №6, тёплый, с окном — Москва, Бронницкий пер., д. 2, пом. 2П (цоколь, м. «Нижегородская» ~7 мин пешком)
 
 Спокойный блок небольших офисов в цоколе жилого дома, тихий переулок, рядом ТЦ, парковка во дворах. Подходит ИП и малым компаниям на 1–3 сотрудников.
@@ -487,6 +529,7 @@
     <type>аренда</type>
     <property-type>commercial</property-type>
     <category>commercial</category>
+    <commercial-type>free purpose</commercial-type>
     <location>
       <country>Россия</country>
       <address>Москва, Рочдельская, 11/5</address>
@@ -500,6 +543,8 @@
       <value>192.0</value>
       <unit>кв.м</unit>
     </area>
+    <floor>0</floor>
+    <floors-total>1</floors-total>
     <description>VIP-офис/ПСН 192 м² — Москва, ул. Рочдельская, 11с5, цоколь (м. «Улица 1905 года», ~10–12 мин пешком)
 
 Первое здание от Дома Правительства РФ по улице Рочдельская, в шаговой доступности от Трёхгорной мануфактуры (220 м) — статусная локация на Пресне. Приватный вход через общий тамбур в отдельную дверь — закрытое представительство без охраны на входе. Статус дома подтверждён соседями: кондитерская Wolkonsky, ресторан Boemi и медцентр Vesna. Подходит под юридическую/финансовую компанию, закрытое представительство.
