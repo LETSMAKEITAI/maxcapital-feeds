@@ -96,7 +96,7 @@
     <Title>Складское помещение, 60 м²</Title>
     <ObjectType>Складское помещение</ObjectType>
     <Description>Помещения на 1 этаже здания гостиницы «Сибирь» в центре села Здвинск (ул. Карла Маркса, 11): комнаты 11–56 м² и подвал 26 м² — под офис, услуги, торговлю, склад. Рядом администрация, банк, библиотека, Дом культуры. Напрямую от собственника.</Description>
-    <Price>16000</Price>
+    <Price>35000</Price>
     <Square>60.0</Square>
     <Entrance>С улицы</Entrance>
     <Floor>1</Floor>
@@ -345,12 +345,51 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>mk2704be67d</Id>
+    <Id>mk764a9eaa9</Id>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Сдам</OperationType>
+    <PropertyRights>Собственник</PropertyRights>
+    <Address>.007 Шмитовский 17</Address>
+    <Title>Торговое помещение, 287 м²</Title>
+    <ObjectType>Торговое помещение</ObjectType>
+    <Description>Свободного назначения 287 м² — Москва, Шмитовский проезд, 17 (Пресненский район)
+
+Открытая планировка под любой формат: стены снесены, потолок усилен, высота потолков ~4 м. Три отдельных входа — центральный со Шмитовского проезда + два боковых, можно сдать единым блоком или разделить под несколько арендаторов. Подходит под офис, шоурум, коворкинг, услуги, представительство.
+
+• Площадь: 287 м² (по БТИ), потолки ~4 м
+• Отделка черновая; при подписании договора возможна чистовая «под ключ» под арендатора — ставка пересчитывается отдельно
+• 300 000 ₽/мес — напрямую от собственника, без комиссии
+• Договор в день обращения
+
+Покажем в удобное время. Звоните — согласуем показ и условия.</Description>
+    <Price>300001</Price>
+    <Square>287.0</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>Нет</ParkingType>
+    <Decoration>Без отделки</Decoration>
+    <RentalType>Прямая</RentalType>
+    <ContactPhone>+7 985 833 2439</ContactPhone>
+    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/00.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/01.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/02.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/03.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/04.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/05.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/06.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>mkeaeb2b4c4</Id>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>.004 Бронницкий</Address>
-    <Title>Офисное помещение, 153 м²</Title>
+    <Title>Офисное помещение, 25 м²</Title>
     <ObjectType>Офисное помещение</ObjectType>
     <Description>Офисный кабинет №6, тёплый, с окном — Москва, Бронницкий пер., д. 2, пом. 2П (цоколь, м. «Нижегородская» ~7 мин пешком)
 
@@ -363,7 +402,7 @@
 
 Покажем в удобное время. Звоните — согласуем показ и условия.</Description>
     <Price>30000</Price>
-    <Square>153.1</Square>
+    <Square>25.0</Square>
     <Entrance>С улицы</Entrance>
     <Floor>1</Floor>
     <Heating>Центральное</Heating>
