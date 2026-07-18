@@ -499,6 +499,46 @@
     </Photos>
   </object>
   <object>
+    <ExternalId>mkac6003131s</ExternalId>
+    <Category>freeAppointmentObjectSale</Category>
+    <Address>Москва, ул. Енисейская, 16/21</Address>
+    <TotalArea>80.0</TotalArea>
+    <FloorNumber>1</FloorNumber>
+    <Building>
+      <FloorsCount>1</FloorsCount>
+    </Building>
+    <Description>Свободного назначения 79,7 м² (цоколь) — Москва, ул. Енисейская, д. 16/21 (СВАО, Бабушкинский р-н, м. «Бабушкинская» ~6-7 мин пешком)
+
+Эффектный вход через просторный подъезд-«колодец» со светом, видовая лестница к квартирам. Несколько смежных комнат (по плану БТИ), тёплое, с окнами, готовый санузел. Без ремонта — под апартаменты, склад или офис под отделку новым владельцем.
+
+• Площадь: 79,7 м² (по ЕГРН), цоколь жилого дома, несколько комнат
+• Окна есть, санузел готов, без ремонта (черновая отделка)
+• Электричество ограничено (1-2 кВт) — под энергоёмкие форматы нужно доп. согласование мощности
+• Продажа 12 000 000 ₽ — напрямую от собственника
+• ЕГРН 77:02:0014008:3345
+
+Покажем в удобное время. Звоните — согласуем показ и условия.</Description>
+    <BargainTerms>
+      <Price>12000000</Price>
+      <Currency>rur</Currency>
+      <VatType>usn</VatType>
+    </BargainTerms>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>9858332439</Number>
+      </PhoneSchema>
+    </Phones>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/00.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/01.jpg</FullUrl>
+      </PhotoSchema>
+    </Photos>
+  </object>
+  <object>
     <ExternalId>mk764a9eaa9</ExternalId>
     <Category>freeAppointmentObjectRent</Category>
     <Address>Москва, Шмитовский проезд, 17</Address>
