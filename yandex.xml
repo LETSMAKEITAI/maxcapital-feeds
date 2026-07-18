@@ -37,7 +37,9 @@
     <commercial-type>retail</commercial-type>
     <location>
       <country>Россия</country>
-      <address>Новосибирск, ул. Кирова, 152</address>
+      <address>Новосибирск, Октябрьский район, ул. Кирова</address>
+      <latitude>55.0039798</latitude>
+      <longitude>82.9748652</longitude>
     </location>
     <price>
       <value>74994</value>
