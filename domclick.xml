@@ -9,6 +9,8 @@
     <location>
       <country>Россия</country>
       <address>Новосибирск, ул. 25 лет Октября, 9</address>
+      <latitude>55.071925</latitude>
+      <longitude>82.9656049</longitude>
     </location>
     <price>
       <value>2710000</value>
@@ -78,6 +80,8 @@
     <location>
       <country>Россия</country>
       <address>Купино, ул. Советов, 80</address>
+      <latitude>54.3630213</latitude>
+      <longitude>77.2935593</longitude>
     </location>
     <price>
       <value>5714</value>
@@ -112,6 +116,8 @@
     <location>
       <country>Россия</country>
       <address>Здвинск, ул. Карла Маркса, 11</address>
+      <latitude>54.7004642</latitude>
+      <longitude>78.6595087</longitude>
     </location>
     <price>
       <value>35000</value>
@@ -146,6 +152,8 @@
     <location>
       <country>Россия</country>
       <address>г. Жирновск, ул. Ломоносова, 54</address>
+      <latitude>50.9757641</latitude>
+      <longitude>44.7777224</longitude>
     </location>
     <price>
       <value>9999999</value>
@@ -181,6 +189,8 @@
     <location>
       <country>Россия</country>
       <address>г. Жирновск, ул. Ломоносова, 54</address>
+      <latitude>50.9757641</latitude>
+      <longitude>44.7777224</longitude>
     </location>
     <price>
       <value>199995</value>
@@ -217,6 +227,8 @@
     <location>
       <country>Россия</country>
       <address>Новоуральск, ул. М. Горького, 2а</address>
+      <latitude>57.2583571</latitude>
+      <longitude>60.1094424</longitude>
     </location>
     <price>
       <value>7500000</value>
@@ -251,6 +263,8 @@
     <location>
       <country>Россия</country>
       <address>Новоуральск, ул. Л. Толстого, 8а</address>
+      <latitude>57.2389733</latitude>
+      <longitude>60.0852822</longitude>
     </location>
     <price>
       <value>6100000</value>
@@ -285,6 +299,8 @@
     <location>
       <country>Россия</country>
       <address>Ивановская обл., г. Приволжск, ул. Малая Московская, 37Б</address>
+      <latitude>57.3867219</latitude>
+      <longitude>41.2877925</longitude>
     </location>
     <price>
       <value>7000000</value>
@@ -318,6 +334,8 @@
     <location>
       <country>Россия</country>
       <address>Ивановская обл., г. Пучеж, ул. Заводская, 3</address>
+      <latitude>56.9721346</latitude>
+      <longitude>43.1706229</longitude>
     </location>
     <price>
       <value>50003</value>
@@ -362,6 +380,8 @@
     <location>
       <country>Россия</country>
       <address>Москва, 1-й Хорошёвский проезд, 14к2</address>
+      <latitude>55.7751047</latitude>
+      <longitude>37.5445036</longitude>
     </location>
     <price>
       <value>199000</value>
@@ -405,6 +425,8 @@
     <location>
       <country>Россия</country>
       <address>Москва, ул. Енисейская, 16/21</address>
+      <latitude>55.864169</latitude>
+      <longitude>37.6623119</longitude>
     </location>
     <price>
       <value>12000000</value>
@@ -444,6 +466,8 @@
     <location>
       <country>Россия</country>
       <address>Москва, Шмитовский проезд, 17</address>
+      <latitude>55.7573566</latitude>
+      <longitude>37.5486015</longitude>
     </location>
     <price>
       <value>300001</value>
@@ -488,6 +512,8 @@
     <location>
       <country>Россия</country>
       <address>Москва, Бронницкий пер., 2</address>
+      <latitude>55.7301235</latitude>
+      <longitude>37.7513227</longitude>
     </location>
     <price>
       <value>30000</value>
@@ -533,6 +559,8 @@
     <location>
       <country>Россия</country>
       <address>Москва, Рочдельская, 11/5</address>
+      <latitude>55.7561961</latitude>
+      <longitude>37.5708632</longitude>
     </location>
     <price>
       <value>380000</value>
