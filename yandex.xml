@@ -364,6 +364,42 @@
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/04.jpg</image>
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/05.jpg</image>
   </offer>
+  <offer internal-id="mkac6003131s">
+    <type>продажа</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <location>
+      <country>Россия</country>
+      <address>Москва, ул. Енисейская, 16/21</address>
+    </location>
+    <price>
+      <value>12000000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>80.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <description>Свободного назначения 79,7 м² (цоколь) — Москва, ул. Енисейская, д. 16/21 (СВАО, Бабушкинский р-н, м. «Бабушкинская» ~6-7 мин пешком)
+
+Эффектный вход через просторный подъезд-«колодец» со светом, видовая лестница к квартирам. Несколько смежных комнат (по плану БТИ), тёплое, с окнами, готовый санузел. Без ремонта — под апартаменты, склад или офис под отделку новым владельцем.
+
+• Площадь: 79,7 м² (по ЕГРН), цоколь жилого дома, несколько комнат
+• Окна есть, санузел готов, без ремонта (черновая отделка)
+• Электричество ограничено (1-2 кВт) — под энергоёмкие форматы нужно доп. согласование мощности
+• Продажа 12 000 000 ₽ — напрямую от собственника
+• ЕГРН 77:02:0014008:3345
+
+Покажем в удобное время. Звоните — согласуем показ и условия.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/00.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/01.jpg</image>
+  </offer>
   <offer internal-id="mk764a9eaa9">
     <type>аренда</type>
     <property-type>commercial</property-type>
