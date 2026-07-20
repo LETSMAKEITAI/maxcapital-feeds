@@ -42,7 +42,7 @@
 
 Покажем в удобное время. Звоните — согласуем показ и условия.</Description>
     <BargainTerms>
-      <Price>74994</Price>
+      <Price>120000</Price>
       <Currency>rur</Currency>
       <PriceType>all</PriceType>
       <VatType>usn</VatType>
@@ -77,7 +77,7 @@
   <object>
     <ExternalId>mk201</ExternalId>
     <Category>freeAppointmentObjectRent</Category>
-    <Address>Купино, ул. Советов, 80</Address>
+    <Address>Купино, ул. Советов, 80А</Address>
     <TotalArea>40.0</TotalArea>
     <FloorNumber>1</FloorNumber>
     <Building>
