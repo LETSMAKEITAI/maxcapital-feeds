@@ -198,6 +198,8 @@
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/05.jpg</image>
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/06.jpg</image>
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/07.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/08.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/09.jpg</image>
   </offer>
   <offer internal-id="mk205">
     <type>аренда</type>
@@ -211,7 +213,7 @@
       <longitude>44.7777224</longitude>
     </location>
     <price>
-      <value>199995</value>
+      <value>9995</value>
       <currency>RUB</currency>
       <period>month</period>
     </price>
@@ -240,6 +242,8 @@
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/05.jpg</image>
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/06.jpg</image>
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/07.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/08.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/09.jpg</image>
   </offer>
   <offer internal-id="mk206s">
     <type>продажа</type>
