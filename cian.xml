@@ -224,6 +224,12 @@
       <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/07.jpg</FullUrl>
       </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/08.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/09.jpg</FullUrl>
+      </PhotoSchema>
     </Photos>
   </object>
   <object>
@@ -241,7 +247,7 @@
 
 Отопление и электричество в порядке, заезд под кабинет/офис — сразу; для гостиницы/общепита/производства потребуется дооборудование канализации — компенсируем арендными каникулами на срок работ. Напрямую от собственника, без комиссии.</Description>
     <BargainTerms>
-      <Price>199995</Price>
+      <Price>9995</Price>
       <Currency>rur</Currency>
       <PriceType>all</PriceType>
       <VatType>usn</VatType>
@@ -276,6 +282,12 @@
       </PhotoSchema>
       <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/07.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/08.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/09.jpg</FullUrl>
       </PhotoSchema>
     </Photos>
   </object>
