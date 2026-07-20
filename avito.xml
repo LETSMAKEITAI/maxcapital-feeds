@@ -67,7 +67,7 @@
     <Address>Купино, ул. Советов, 80А</Address>
     <Title>Помещение свободного назначения, 40 м²</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
-    <Description>Первый этаж здания гостиницы «Сибирь» на центральной площади Купино (ул. Советов, 80): две торговые площади с отдельным входом с улицы + просторный холл под кафе/столовую. Рядом администрация, полиция, Дом культуры, банки — максимальный пешеходный трафик. Также сдаются кабинеты 14–34 м² на 2 и 3 этажах (3-й — под общежитие/студентов или офисы). Напрямую от собственника.</Description>
+    <Description>Первый этаж здания гостиницы «МАКСРУМС Сибирь» на центральной площади Купино (ул. Советов, 80): торговые площади с отдельным входом с улицы + просторный холл под кафе/кофейню. Центральная площадь города — максимальный пешеходный трафик, рядом администрация, полиция, банки, Дом культуры; огромная бесплатная парковка прямо перед зданием. Также в здании: комнаты под офис на 2 этаже и комнаты для проживания на 3 этаже. Половину здания занимает гостиница «МАКСРУМС Сибирь» — дополнительный постоянный поток гостей мимо витрин. Напрямую от собственника.</Description>
     <Price>10000</Price>
     <Square>40.0</Square>
     <Entrance>С улицы</Entrance>
@@ -463,7 +463,7 @@
     <Heating>Центральное</Heating>
     <BuildingType>Другой</BuildingType>
     <ParkingType>Нет</ParkingType>
-    <Decoration>Без отделки</Decoration>
+    <Decoration>Чистовая</Decoration>
     <RentalType>Прямая</RentalType>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
@@ -476,6 +476,7 @@
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/05.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/06.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/07.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/08.jpg" />
     </Images>
   </Ad>
   <Ad>
