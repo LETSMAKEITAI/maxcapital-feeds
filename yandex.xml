@@ -96,7 +96,7 @@
     </area>
     <floor>1</floor>
     <floors-total>3</floors-total>
-    <description>Первый этаж здания гостиницы «Сибирь» на центральной площади Купино (ул. Советов, 80): две торговые площади с отдельным входом с улицы + просторный холл под кафе/столовую. Рядом администрация, полиция, Дом культуры, банки — максимальный пешеходный трафик. Также сдаются кабинеты 14–34 м² на 2 и 3 этажах (3-й — под общежитие/студентов или офисы). Напрямую от собственника.</description>
+    <description>Первый этаж здания гостиницы «МАКСРУМС Сибирь» на центральной площади Купино (ул. Советов, 80): торговые площади с отдельным входом с улицы + просторный холл под кафе/кофейню. Центральная площадь города — максимальный пешеходный трафик, рядом администрация, полиция, банки, Дом культуры; огромная бесплатная парковка прямо перед зданием. Также в здании: комнаты под офис на 2 этаже и комнаты для проживания на 3 этаже. Половину здания занимает гостиница «МАКСРУМС Сибирь» — дополнительный постоянный поток гостей мимо витрин. Напрямую от собственника.</description>
     <sales-agent>
       <name>Отдел аренды MAXCAPITAL</name>
       <phone>+7 985 833 2439</phone>
@@ -566,6 +566,7 @@
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/05.jpg</image>
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/06.jpg</image>
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/07.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/08.jpg</image>
   </offer>
   <offer internal-id="mkd008">
     <type>аренда</type>
