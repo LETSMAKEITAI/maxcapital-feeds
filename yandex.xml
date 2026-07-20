@@ -5,7 +5,7 @@
     <type>продажа</type>
     <property-type>commercial</property-type>
     <category>commercial</category>
-    <commercial-type>office</commercial-type>
+    <commercial-type>free purpose</commercial-type>
     <location>
       <country>Россия</country>
       <address>Новосибирск, ул. 25 лет Октября, 9</address>
@@ -22,13 +22,26 @@
     </area>
     <floor>1</floor>
     <floors-total>1</floors-total>
-    <description>Помещение на первом этаже дома на ул. 25 лет Октября, 9 (Дзержинский район, Новосибирск): две удобные комнаты прямо от входа. Под небольшой офис, кладовую, мастерскую или вложение. Метро «Берёзовая Роща». Продажа от 2 710 000 ₽. Напрямую от собственника.</description>
+    <description>Два смежных помещения с санузлом, 27,1 м², на 1 этаже — Новосибирск, ул. 25 лет Октября, 9 (Дзержинский район, м. «Берёзовая Роща»), прямо от входа в подъезд, тёплый дом.
+
+Уникальная возможность купить полноценные квадратные метры в этом доме по цене в разы ниже рынка: квартиры здесь продаются от 115 000 до 205 000 ₽/м², а здесь — около 100 000 ₽/м². Два отдельных помещения (11,5 м² и 15,6 м²) смежные — можно пользоваться каждым отдельно (у каждого свой вход) или объединить проёмом в одно пространство. Санузел в наличии. Сейчас в помещениях действует пост консьержей ТСЖ — готовый порядок, дом ухоженный, всё функционирует.
+
+• Площадь: 27,1 м² (по ЕГРН) — 2 смежных помещения + санузел
+• 1 этаж, прямо от входа в подъезд, тёплый дом
+• Можно пользоваться раздельно или объединить в одно помещение
+• 2 710 000 ₽ — напрямую от собственника, без комиссии
+
+Покажем в удобное время. Звоните — согласуем показ и условия.</description>
     <sales-agent>
       <name>Отдел аренды MAXCAPITAL</name>
       <phone>+7 985 833 2439</phone>
       <organization>MAXCAPITAL</organization>
       <category>agency</category>
     </sales-agent>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25/00.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25/01.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25/02.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25/03.jpg</image>
   </offer>
   <offer internal-id="mk110">
     <type>аренда</type>
@@ -500,7 +513,7 @@
     <type>продажа</type>
     <property-type>commercial</property-type>
     <category>commercial</category>
-    <commercial-type>warehouse</commercial-type>
+    <commercial-type>office</commercial-type>
     <location>
       <country>Россия</country>
       <address>Москва, ул. Енисейская, 16/21</address>
@@ -512,22 +525,12 @@
       <currency>RUB</currency>
     </price>
     <area>
-      <value>80.0</value>
+      <value>79.0</value>
       <unit>кв.м</unit>
     </area>
     <floor>1</floor>
     <floors-total>1</floors-total>
-    <description>Свободного назначения 79,7 м² (цоколь) — Москва, ул. Енисейская, д. 16/21 (СВАО, Бабушкинский р-н, м. «Бабушкинская» ~6-7 мин пешком)
-
-Эффектный вход через просторный подъезд-«колодец» со светом, видовая лестница к квартирам. Несколько смежных комнат (по плану БТИ), тёплое, с окнами, готовый санузел. Без ремонта — под апартаменты, склад или офис под отделку новым владельцем.
-
-• Площадь: 79,7 м² (по ЕГРН), цоколь жилого дома, несколько комнат
-• Окна есть, санузел готов, без ремонта (черновая отделка)
-• Электричество ограничено (1-2 кВт) — под энергоёмкие форматы нужно доп. согласование мощности
-• Продажа 12 000 000 ₽ — напрямую от собственника
-• ЕГРН 77:02:0014008:3345
-
-Покажем в удобное время. Звоните — согласуем показ и условия.</description>
+    <description>Свободного назначения 79,3 м² (цоколь) — Москва, ул. Енисейская, д. 16/21 (Бабушкинский район). Полноценно готовое помещение: планировка повторяет квартиру этажом выше, тёплое, со своими окнами и готовым санузлом. Вход через просторный подъезд-«колодец», перед помещением тамбур отсекает шум из подъезда. Идеально под апартаменты или офис. Метро «Бабушкинская» ~5 мин. Напрямую от собственника, без комиссии.</description>
     <sales-agent>
       <name>Отдел аренды MAXCAPITAL</name>
       <phone>+7 985 833 2439</phone>
