@@ -42,7 +42,7 @@
       <longitude>82.9748652</longitude>
     </location>
     <price>
-      <value>74994</value>
+      <value>120000</value>
       <currency>RUB</currency>
       <period>month</period>
     </price>
@@ -81,7 +81,7 @@
     <commercial-type>retail</commercial-type>
     <location>
       <country>Россия</country>
-      <address>Купино, ул. Советов, 80</address>
+      <address>Купино, ул. Советов, 80А</address>
       <latitude>54.3630213</latitude>
       <longitude>77.2935593</longitude>
     </location>
