@@ -3,14 +3,23 @@
   <feed_version>2</feed_version>
   <object>
     <ExternalId>mk107s</ExternalId>
-    <Category>officeSale</Category>
+    <Category>freeAppointmentObjectSale</Category>
     <Address>Новосибирск, ул. 25 лет Октября, 9</Address>
     <TotalArea>27.0</TotalArea>
     <FloorNumber>1</FloorNumber>
     <Building>
       <FloorsCount>1</FloorsCount>
     </Building>
-    <Description>Помещение на первом этаже дома на ул. 25 лет Октября, 9 (Дзержинский район, Новосибирск): две удобные комнаты прямо от входа. Под небольшой офис, кладовую, мастерскую или вложение. Метро «Берёзовая Роща». Продажа от 2 710 000 ₽. Напрямую от собственника.</Description>
+    <Description>Два смежных помещения с санузлом, 27,1 м², на 1 этаже — Новосибирск, ул. 25 лет Октября, 9 (Дзержинский район, м. «Берёзовая Роща»), прямо от входа в подъезд, тёплый дом.
+
+Уникальная возможность купить полноценные квадратные метры в этом доме по цене в разы ниже рынка: квартиры здесь продаются от 115 000 до 205 000 ₽/м², а здесь — около 100 000 ₽/м². Два отдельных помещения (11,5 м² и 15,6 м²) смежные — можно пользоваться каждым отдельно (у каждого свой вход) или объединить проёмом в одно пространство. Санузел в наличии. Сейчас в помещениях действует пост консьержей ТСЖ — готовый порядок, дом ухоженный, всё функционирует.
+
+• Площадь: 27,1 м² (по ЕГРН) — 2 смежных помещения + санузел
+• 1 этаж, прямо от входа в подъезд, тёплый дом
+• Можно пользоваться раздельно или объединить в одно помещение
+• 2 710 000 ₽ — напрямую от собственника, без комиссии
+
+Покажем в удобное время. Звоните — согласуем показ и условия.</Description>
     <BargainTerms>
       <Price>2710000</Price>
       <Currency>rur</Currency>
@@ -22,6 +31,20 @@
         <Number>9858332439</Number>
       </PhoneSchema>
     </Phones>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25/00.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25/01.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25/02.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25/03.jpg</FullUrl>
+      </PhotoSchema>
+    </Photos>
   </object>
   <object>
     <ExternalId>mk110</ExternalId>
@@ -608,24 +631,14 @@
   </object>
   <object>
     <ExternalId>mkd002s</ExternalId>
-    <Category>freeAppointmentObjectSale</Category>
+    <Category>officeSale</Category>
     <Address>Москва, ул. Енисейская, 16/21</Address>
-    <TotalArea>80.0</TotalArea>
+    <TotalArea>79.0</TotalArea>
     <FloorNumber>-1</FloorNumber>
     <Building>
       <FloorsCount>1</FloorsCount>
     </Building>
-    <Description>Свободного назначения 79,7 м² (цоколь) — Москва, ул. Енисейская, д. 16/21 (СВАО, Бабушкинский р-н, м. «Бабушкинская» ~6-7 мин пешком)
-
-Эффектный вход через просторный подъезд-«колодец» со светом, видовая лестница к квартирам. Несколько смежных комнат (по плану БТИ), тёплое, с окнами, готовый санузел. Без ремонта — под апартаменты, склад или офис под отделку новым владельцем.
-
-• Площадь: 79,7 м² (по ЕГРН), цоколь жилого дома, несколько комнат
-• Окна есть, санузел готов, без ремонта (черновая отделка)
-• Электричество ограничено (1-2 кВт) — под энергоёмкие форматы нужно доп. согласование мощности
-• Продажа 12 000 000 ₽ — напрямую от собственника
-• ЕГРН 77:02:0014008:3345
-
-Покажем в удобное время. Звоните — согласуем показ и условия.</Description>
+    <Description>Свободного назначения 79,3 м² (цоколь) — Москва, ул. Енисейская, д. 16/21 (Бабушкинский район). Полноценно готовое помещение: планировка повторяет квартиру этажом выше, тёплое, со своими окнами и готовым санузлом. Вход через просторный подъезд-«колодец», перед помещением тамбур отсекает шум из подъезда. Идеально под апартаменты или офис. Метро «Бабушкинская» ~5 мин. Напрямую от собственника, без комиссии.</Description>
     <BargainTerms>
       <Price>12000000</Price>
       <Currency>rur</Currency>
