@@ -4,6 +4,7 @@
     <Id>mk107s</Id>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Продам</OperationType>
+    <TransactionType>Продажа</TransactionType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Новосибирск, ул. 25 лет Октября, 9</Address>
     <Title>Помещение свободного назначения, 27 м²</Title>
@@ -38,7 +39,7 @@
 • Договор в день обращения
 
 Покажем в удобное время. Звоните — согласуем показ и условия.</Description>
-    <Price>74994</Price>
+    <Price>120000</Price>
     <Square>1222.0</Square>
     <Entrance>С улицы</Entrance>
     <Floor>1</Floor>
@@ -63,7 +64,7 @@
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
-    <Address>Купино, ул. Советов, 80</Address>
+    <Address>Купино, ул. Советов, 80А</Address>
     <Title>Помещение свободного назначения, 40 м²</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Первый этаж здания гостиницы «Сибирь» на центральной площади Купино (ул. Советов, 80): две торговые площади с отдельным входом с улицы + просторный холл под кафе/столовую. Рядом администрация, полиция, Дом культуры, банки — максимальный пешеходный трафик. Также сдаются кабинеты 14–34 м² на 2 и 3 этажах (3-й — под общежитие/студентов или офисы). Напрямую от собственника.</Description>
@@ -120,6 +121,7 @@
     <Id>mk205s</Id>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Продам</OperationType>
+    <TransactionType>Продажа</TransactionType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>г. Жирновск, ул. Ломоносова, 54</Address>
     <Title>Помещение свободного назначения, 1123 м²</Title>
@@ -182,6 +184,7 @@
     <Id>mk206s</Id>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Продам</OperationType>
+    <TransactionType>Продажа</TransactionType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Новоуральск, ул. М. Горького, 2а</Address>
     <Title>Помещение свободного назначения, 861 м²</Title>
@@ -212,6 +215,7 @@
     <Id>mk207s</Id>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Продам</OperationType>
+    <TransactionType>Продажа</TransactionType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Новоуральск, ул. Л. Толстого, 8а</Address>
     <Title>Помещение свободного назначения, 943 м²</Title>
@@ -242,6 +246,7 @@
     <Id>mk210s</Id>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Продам</OperationType>
+    <TransactionType>Продажа</TransactionType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Ивановская обл., г. Приволжск, ул. Малая Московская, 37Б</Address>
     <Title>Помещение свободного назначения, 1095 м²</Title>
@@ -348,6 +353,7 @@
     <Id>mkd002s</Id>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Продам</OperationType>
+    <TransactionType>Продажа</TransactionType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Москва, ул. Енисейская, 16/21</Address>
     <Title>Помещение свободного назначения, 80 м²</Title>
@@ -479,7 +485,7 @@
     <Price>380000</Price>
     <Square>192.0</Square>
     <Entrance>С улицы</Entrance>
-    <Floor>0</Floor>
+    <Floor>Цокольный</Floor>
     <Heating>Центральное</Heating>
     <BuildingType>Другой</BuildingType>
     <ParkingType>Нет</ParkingType>
