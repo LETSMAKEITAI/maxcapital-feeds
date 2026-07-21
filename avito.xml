@@ -7,9 +7,9 @@
     <TransactionType>Продажа</TransactionType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Новосибирск, ул. 25 лет Октября, 9</Address>
-    <Title>Помещение свободного назначения, 27 м²</Title>
+    <Title>Аппартаменты на первом высоком этаже две комнаты - 27 м² с санузлом - под офис или проживание</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
-    <Description>Два смежных помещения с санузлом, 27,1 м², на 1 этаже — Новосибирск, ул. 25 лет Октября, 9 (Дзержинский район, м. «Берёзовая Роща»), прямо от входа в подъезд, тёплый дом.
+    <Description>Полноценные аппартаменты с туалетом прямо на первом этаже с большим окном - уникальная возможность! Два смежных помещения с санузлом, 27,1 м², на 1 этаже — Новосибирск, ул. 25 лет Октября, 9 (Дзержинский район, м. «Берёзовая Роща»), прямо от входа в подъезд, тёплый дом.
 
 Уникальная возможность купить полноценные квадратные метры в этом доме по цене в разы ниже рынка: квартиры здесь продаются от 115 000 до 205 000 ₽/м², а здесь — около 100 000 ₽/м². Два отдельных помещения (11,5 м² и 15,6 м²) смежные — можно пользоваться каждым отдельно (у каждого свой вход) или объединить проёмом в одно пространство. Санузел в наличии. Сейчас в помещениях действует пост консьержей ТСЖ — готовый порядок, дом ухоженный, всё функционирует.
 
@@ -43,7 +43,7 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Новосибирск, Октябрьский район, ул. Кирова</Address>
-    <Title>Помещение свободного назначения, 1222 м²</Title>
+    <Title>Асфальтированная площадка 1222 м² под автомойку, стоянку или склад техники с двумя вьездами с Кирова на первой линии</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Асфальтированная площадка 1222 м² — Новосибирск, ул. Кирова (Октябрьский р-н, рядом м. «Октябрьская»)
 
@@ -66,12 +66,12 @@
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
     <Images>
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/04.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/05.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/00.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/01.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/02.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/03.jpg" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/04.jpg" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/05.jpg" />
     </Images>
   </Ad>
   <Ad>
@@ -80,7 +80,7 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Купино, ул. Советов, 80А</Address>
-    <Title>Помещение свободного назначения, 40 м²</Title>
+    <Title>Торговые площади на главной площади — под кафе или магазин</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Первый этаж здания гостиницы «МАКСРУМС Сибирь» на центральной площади Купино (ул. Советов, 80А): торговые площади с отдельным входом с улицы + просторный холл под кафе/кофейню. Центральная площадь города — максимальный пешеходный трафик, рядом администрация, полиция, банки, Дом культуры; огромная бесплатная парковка прямо перед зданием. Также в здании: комнаты под офис на 2 этаже и комнаты для проживания на 3 этаже. Половину здания занимает гостиница «МАКСРУМС Сибирь» — дополнительный постоянный поток гостей мимо витрин. Напрямую от собственника.</Description>
     <Price>10000</Price>
@@ -95,13 +95,13 @@
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
     <Images>
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kupino/05.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kupino/06.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kupino/00.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kupino/01.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kupino/02.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kupino/03.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kupino/04.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kupino/05.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kupino/06.jpg?v=2" />
     </Images>
   </Ad>
   <Ad>
@@ -110,7 +110,7 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Здвинск, ул. Карла Маркса, 11</Address>
-    <Title>Помещение свободного назначения, 76 м²</Title>
+    <Title>Помещение в центре Здвинска — под магазин, бар или сервис с удобной большой парковкой</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Помещение с отдельным входом ~50 м² + подвал 26 м² — Здвинск (Новосибирская обл.), ул. Карла Маркса, 11, центр села, в здании гостиницы «Отель Сибирия Инн» (сеть MAXROOMS, действующий отель работает в этом же здании).
 
@@ -136,13 +136,15 @@
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
     <Images>
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zdvinsk/00.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zdvinsk/01.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zdvinsk/02.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zdvinsk/03.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zdvinsk/04.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zdvinsk/05.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zdvinsk/06.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zdvinsk/04.jpg?v=3" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zdvinsk/05.jpg?v=3" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zdvinsk/06.jpg?v=3" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zdvinsk/07.jpg?v=3" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zdvinsk/08.jpg?v=3" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zdvinsk/00.jpg?v=3" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zdvinsk/01.jpg?v=3" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zdvinsk/02.jpg?v=3" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zdvinsk/03.jpg?v=3" />
     </Images>
   </Ad>
   <Ad>
@@ -152,7 +154,7 @@
     <TransactionType>Продажа</TransactionType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>г. Жирновск, ул. Ломоносова, 54</Address>
-    <Title>Помещение свободного назначения, 1123 м²</Title>
+    <Title>Здание 1123 м² под отель, медицинский центр, торговые офисы — центр Жирновска первая линия</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Отдельно стоящее 3-этажное здание 1123 м² в самом центре Жирновска — над отделением Почты России, на ул. Ломоносова, 54. 2-й этаж и цоколь — с ремонтом, тёплые, часть кабинетов уже сдаётся малому бизнесу — действующий денежный поток с первого дня владения. 3-й этаж — черновая отделка (бетон), апсайд под гостиницу, апартаменты или доп. офисы.
 
@@ -189,10 +191,9 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>г. Жирновск, ул. Ломоносова, 54</Address>
-    <Title>Помещение свободного назначения, 1123 м²</Title>
+    <Title>Кабинеты под офисы или аппартаменты — центр Жирновска</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
-    <Description>Аренда в здании 1123 м² в центре Жирновска (ул. Ломоносова, 54): от кабинета до этажа/здания целиком. Кабинеты 2-го этажа и цоколя — от 20 м², готовы к въезду, с ремонтом и санузлами — от 10 000 ₽/мес за кабинет, подходит малому бизнесу. Этаж или здание целиком — для якорного арендатора (сеть, клиника, гостиничный оператор, производство/склад), цель — от 200 000 ₽/мес за пул площадей.
-
+    <Description>Аренда в здании в центре Жирновска (ул. Ломоносова, 54): от кабинета до этажа/здания целиком. Кабинеты 2-го этажа и цоколя — от 20 м², готовы к въезду, с ремонтом и санузлами — от 10 000 ₽/мес за кабинет, подходит малому бизнесу. Этаж или здание целиком — для якорного арендатора (сеть, клиника, гостиничный оператор, производство/склад)
 Идеально под отель: самый центр города, рядом деловая часть и администрация; вахтовики и командированные специалисты (Лукойл, РИТЭК) регулярно нуждаются в организованном размещении рядом с центром. 3-й этаж — черновая отделка, готовый чистый лист под номера. Есть эскизный дизайн-проект переоборудования под гостиницу/бизнес-центр (см. фото в галерее). Также рассматриваем формат «апартаменты» — за % от выручки, с партнёром-оператором.
 
 Отопление и электричество в порядке, заезд под кабинет/офис — сразу; для гостиницы/общепита/производства потребуется дооборудование канализации — компенсируем арендными каникулами на срок работ. Напрямую от собственника, без комиссии.</Description>
@@ -227,7 +228,7 @@
     <TransactionType>Продажа</TransactionType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Новоуральск, ул. М. Горького, 2а</Address>
-    <Title>Помещение свободного назначения, 861 м²</Title>
+    <Title>Здание под гостиницу, частную клинику или спортцентр, 861 м²</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Отдельное здание в Новоуральске (ул. М. Горького, 2а) под хостел, мини-отель, спортивный или сервисный объект. Цельный объект в центре ЗАТО. Напрямую от собственника, без комиссии. Участок ≈47,7 сотки (4771 м², по ЕГРН).</Description>
     <Price>7500000</Price>
@@ -242,13 +243,13 @@
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
     <Images>
+      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ALveGkjruDsCOy6vvLioH0M/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%207%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
+      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ABGlc25iZkc6d4NRnmdRx3k/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%208%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
       <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ACZtUsNYxmTjiO1WtkLZF6Y/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%201%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
       <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AKibaYuG1156QZrolavuPS8/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%202%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
       <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AI3FQldNamg9dL6mjVjILMQ/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%203%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
       <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AG2vB2Pk9MR7SaN7vXE4K2g/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%204%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
       <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AHnVToMoaTH_CFcDNvSjqmU/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%205%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
-      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ALveGkjruDsCOy6vvLioH0M/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%207%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
-      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ABGlc25iZkc6d4NRnmdRx3k/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%208%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
     </Images>
   </Ad>
   <Ad>
@@ -258,7 +259,7 @@
     <TransactionType>Продажа</TransactionType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Новоуральск, ул. Л. Толстого, 8а</Address>
-    <Title>Помещение свободного назначения, 943 м²</Title>
+    <Title>Здание под хостел, клинику или спортивный центр, 943 м²</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Отдельное здание в Новоуральске (ул. Л. Толстого, 8а) под хостел, мини-отель, спортивный или сервисный объект. Цельный объект в центре ЗАТО. Напрямую от собственника, без комиссии. Участок ≈49,3 сотки (4929 м², по ЕГРН).</Description>
     <Price>6100000</Price>
@@ -273,13 +274,13 @@
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
     <Images>
+      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ANa_pq2A0t1z2Cu9yHKEBr0/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%206%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
+      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AHGVqWWcfTrDcLcAdKoAefU/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%209%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
       <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AGklJyN5q-X4pOQE46pIOi8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%201%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
       <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ADWqU2G4MLkDsscl96HfvN8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%202%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
       <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AOcBWdM5OH3hZo1hU2eVHXI/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%203%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
       <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AOuWv9_atKVf6f1R_plpZe8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%204%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
       <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AGHrzqpx-QNNtV_ibMecXNc/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%205%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
-      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ANa_pq2A0t1z2Cu9yHKEBr0/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%206%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
-      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AHGVqWWcfTrDcLcAdKoAefU/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%209%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
     </Images>
   </Ad>
   <Ad>
@@ -289,7 +290,7 @@
     <TransactionType>Продажа</TransactionType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Ивановская обл., г. Приволжск, ул. Малая Московская, 37Б</Address>
-    <Title>Помещение свободного назначения, 1095 м²</Title>
+    <Title>Здание под производство, склад или швейный цех — с участком</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Отдельно стоящее двухэтажное здание с большим благоустроенным участком в Приволжске, ул. Малая Московская, 37Б. Хороший асфальтированный подъезд, участок с зеленью. Крепкий каркас, крыша, электричество; свободная планировка — под производство, склад, швейное, базу. Продажа: старт 7 000 000 ₽, торг. Участок при здании — кадастровый номер известен, точная площадь в сотках уточняется. Отопление сейчас не подключено, но здание ранее было на центральном отоплении — ввод/тепловой узел сохранён, подключение технически возможно (по информации Координатора).</Description>
     <Price>7000000</Price>
@@ -304,12 +305,12 @@
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
     <Images>
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/04.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/05.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/00.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/01.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/02.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/03.jpg" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/04.jpg" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/05.jpg" />
     </Images>
   </Ad>
   <Ad>
@@ -318,7 +319,7 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Ивановская обл., г. Пучеж, ул. Заводская, 3</Address>
-    <Title>Помещение свободного назначения, 1000 м²</Title>
+    <Title>Здание 832 м² на Волге — под гостиницу или базу отдыха</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Отдельное здание 1000 м² на берегу Волги — г. Пучеж (Ивановская обл.), ул. Заводская, 3, участок 832 м²
 
@@ -344,15 +345,15 @@
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
     <Images>
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/00.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/01.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/02.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/03.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/04.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/05.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/06.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/07.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/08.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/00.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/01.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/02.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/03.jpg?v=2" />
     </Images>
   </Ad>
   <Ad>
@@ -362,7 +363,7 @@
     <TransactionType>Продажа</TransactionType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Ивановская обл., г. Пучеж, ул. Заводская, 3</Address>
-    <Title>Помещение свободного назначения, 1000 м²</Title>
+    <Title>Здание 832 м² на Волге — под усадьбу или гостиницу</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Отдельное здание 1000 м² на берегу Волги — г. Пучеж (Ивановская обл.), ул. Заводская, 3, участок 832 м²
 
@@ -385,15 +386,15 @@
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
     <Images>
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/00.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/01.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/02.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/03.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/04.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/05.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/06.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/07.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/08.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/00.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/01.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/02.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/03.jpg?v=2" />
     </Images>
   </Ad>
   <Ad>
@@ -402,7 +403,7 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Москва, 1-й Хорошёвский проезд, 14к2</Address>
-    <Title>Помещение свободного назначения, 128 м²</Title>
+    <Title>Помещение с отдельным входом у метро — под офис или шоурум</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Помещение свободного назначения 128 м² в аренду — Москва, 1-й Хорошёвский проезд, 14к2
 
@@ -445,7 +446,7 @@
     <TransactionType>Продажа</TransactionType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Москва, ул. Енисейская, 16/21</Address>
-    <Title>Помещение свободного назначения, 79 м²</Title>
+    <Title>Готовая квартира-цоколь 79 м² с санузлом — под апартаменты или офис</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Свободного назначения 79,3 м² (цоколь) — Москва, ул. Енисейская, д. 16/21 (Бабушкинский район). Полноценно готовое помещение: планировка повторяет квартиру этажом выше, тёплое, со своими окнами и готовым санузлом. Вход через просторный подъезд-«колодец», перед помещением тамбур отсекает шум из подъезда. Идеально под апартаменты или офис. Метро «Бабушкинская» ~5 мин. Напрямую от собственника, без комиссии.</Description>
     <Price>12000000</Price>
@@ -460,9 +461,9 @@
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
     <Images>
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/00.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/01.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/02.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/00.jpg?v=2" />
     </Images>
   </Ad>
   <Ad>
@@ -471,9 +472,23 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Москва, Шмитовский проезд, 17</Address>
-    <Title>Помещение свободного назначения, 287 м²</Title>
+    <Title>Помещение 287 м² под шоурум, офис или коворкинг на первой линии — Шмитовский проезд</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
-    <Description>Свободного назначения 287 м² — Москва, Шмитовский проезд, 17 (Пресненский район). Отдельный вход прямо на Шмитовский проезд (всего 3 входа — единым блоком или разделить). Открытая планировка (потолки ~4 м) — и под шоурум, и под офисы. Рядом премиальный квартал RedSide и новый дом «Шмитовский 16» у парка Красная Пресня — район с одним из самых высоких темпов роста цен на элитную недвижимость Москвы. Черновая отделка, мусор вывезен — готово под отделку по своему проекту, есть готовый дизайн-проект офис/коворкинг. Возможна долгосрочная аренда. Напрямую от собственника, без комиссии.</Description>
+    <Description>Свободного назначения 287 м² — в одной из самых растущих локаций центра Москвы.
+
+Вход через общий подъезд на Шмитовский проезд, но сразу за ним — своя отдельная дверь в помещение (в жилую часть не заходите). Всего у здания три подъезда: центральный со Шмитовского проезда + два боковых — можно сдать единым блоком под одного арендатора или разделить на несколько, у каждого блока свой вход с улицы через подъезд.
+
+Уникальное пространство: подходит и под шоурум, и под офисы одновременно — открытая планировка (стены снесены, потолок усилен, высота потолков ~4 м) позволяет организовать и презентационную зону, и рабочие кабинеты в одном помещении.
+
+Локация — то, что делает адрес по-настоящему статусным: прямо по Шмитовскому проезду — подъезд к премиальному кварталу RedSide (8 корпусов 7–21 этажей, 950 квартир, закрытая охраняемая территория, 5 га, из них 3 га зелени). В соседнем доме, Шмитовский проезд 16, — новый 22-этажный дом «Шмитовский 16» с квартирами от 70 до 312 м², расположенный прямо напротив парка Красная Пресня. Рядом — Краснопресненская набережная и Москва-река, 5 минут пешком. Пресненский район — один из лидеров Москвы по росту цен на элитную недвижимость и инвестиционной привлекательности: сюда приходят покупатели с «живыми» деньгами, а не в кредит. Постоянный приток новых жителей премиум-класса рядом — это стабильный поток платёжеспособных клиентов для вашего бизнеса.
+
+Редкая возможность сделать отделку полностью под себя: сейчас черновая отделка, весь мусор и старые перегородки уже вывезены — заезжайте и стройте по своему проекту без затрат на демонтаж. Есть готовый дизайн-проект под офис/коворкинг — можно взять за основу или разработать своё.
+
+Возможна долгосрочная аренда — стабильные условия для тех, кто планирует развивать пространство под себя.
+
+300 000 ₽/мес — напрямую от собственника, без комиссии. Договор в день обращения.
+
+Покажем в удобное время. Звоните — согласуем показ и условия.</Description>
     <Price>300001</Price>
     <Square>287.0</Square>
     <Entrance>С улицы</Entrance>
@@ -486,15 +501,15 @@
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
     <Images>
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/00.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/01.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/02.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/03.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/04.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/05.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/06.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/07.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/08.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/00.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/01.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/02.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/03.jpg?v=2" />
     </Images>
   </Ad>
   <Ad>
@@ -503,7 +518,7 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Москва, Бронницкий пер., 2</Address>
-    <Title>Помещение свободного назначения, 25 м²</Title>
+    <Title>Тёплый кабинет с окном — под студию услуг или мини-офис</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Офисный кабинет №6, тёплый, с окном — Москва, Бронницкий пер., д. 2, пом. 2П (цоколь, м. «Нижегородская»/«Стахановская» ~13 мин пешком)
 
@@ -527,15 +542,15 @@
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
     <Images>
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/00.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/01.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/02.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/03.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/04.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/05.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/06.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/07.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/08.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/00.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/01.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/02.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/03.jpg?v=2" />
     </Images>
   </Ad>
   <Ad>
@@ -544,7 +559,7 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Москва, Рочдельская, 11/5</Address>
-    <Title>Помещение свободного назначения, 192 м²</Title>
+    <Title>VIP-офис или частная резиденция 192 м² у Дома Правительства РФ</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>VIP-офис/ПСН 192 м² — Москва, ул. Рочдельская, 11с5, цоколь (м. «Улица 1905 года», ~10–12 мин пешком)
 
@@ -568,13 +583,13 @@
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
     <Images>
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/05.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/06.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/00.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/01.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/02.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/03.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/04.jpg" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/05.jpg" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/06.jpg" />
     </Images>
   </Ad>
 </Ads>
