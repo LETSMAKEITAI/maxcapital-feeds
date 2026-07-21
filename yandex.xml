@@ -43,6 +43,45 @@
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25/02.jpg?v=2</image>
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25/03.jpg?v=2</image>
   </offer>
+  <offer internal-id="mk107vs">
+    <type>продажа</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>free purpose</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>Новосибирск, ул. 25 лет Октября, 9</address>
+      <latitude>55.071925</latitude>
+      <longitude>82.9656049</longitude>
+    </location>
+    <price>
+      <value>600000</value>
+      <currency>RUB</currency>
+    </price>
+    <area>
+      <value>6.5</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>0</floor>
+    <floors-total>1</floors-total>
+    <description>Цокольное помещение 6,5 м² — Новосибирск, ул. 25 лет Октября, 9 (Дзержинский район). Удобный отдельный вход — прямая лестница с перилами прямо из подъезда, спускаться недалеко. Техническое помещение под склад, кладовую или иные цели хранения — крепкие стены, сухое. Компактный формат — удобно для хранения вещей, мебели, шин, инструмента. • Площадь: 6,5 м² (по Свидетельству о регистрации права, кад. №54:35:012621:1170) • Цокольный этаж, удобный отдельный вход по лестнице прямо из подъезда • 600 000 ₽ — напрямую от собственника, без комиссии. Покажем в удобное время. Звоните — согласуем показ и условия.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/00.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/01.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/02.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/03.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/04.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/05.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/06.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/07.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/08.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/09.jpg</image>
+  </offer>
   <offer internal-id="mk110">
     <type>аренда</type>
     <property-type>commercial</property-type>
