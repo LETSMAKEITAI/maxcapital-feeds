@@ -47,6 +47,57 @@
     </Photos>
   </object>
   <object>
+    <ExternalId>mk110</ExternalId>
+    <Category>freeAppointmentObjectRent</Category>
+    <Address>Новосибирск, Октябрьский район, ул. Кирова</Address>
+    <TotalArea>1222.0</TotalArea>
+    <FloorNumber>1</FloorNumber>
+    <Building>
+      <FloorsCount>1</FloorsCount>
+    </Building>
+    <Description>Асфальтированная площадка 1222 м² — Новосибирск, ул. Кирова (Октябрьский р-н, рядом м. «Октябрьская»)
+
+Площадка полностью заасфальтирована, удобный въезд/выезд. Подходит под автомойку, автостоянку, размещение техники, торговые киоски — на площадке стоит ваганчик по продаже питания - удобный заезд и выезд на участок уже сделаны с улицы Кирова 
+• Площадь: 1222 м², асфальт
+• Действующие соседи-арендаторы подтверждают формат (автомойка/сервис)
+• 120 000 ₽/мес, ставка договорная — напрямую от собственника
+• Договор в день обращения
+
+Покажем в удобное время. Звоните — согласуем показ и условия.</Description>
+    <BargainTerms>
+      <Price>120000</Price>
+      <Currency>rur</Currency>
+      <PriceType>all</PriceType>
+      <VatType>usn</VatType>
+    </BargainTerms>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>9858332439</Number>
+      </PhoneSchema>
+    </Phones>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/04.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/05.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/00.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/01.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/02.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/03.jpg</FullUrl>
+      </PhotoSchema>
+    </Photos>
+  </object>
+  <object>
     <ExternalId>mk201</ExternalId>
     <Category>freeAppointmentObjectRent</Category>
     <Address>Купино, ул. Советов, 80А</Address>
