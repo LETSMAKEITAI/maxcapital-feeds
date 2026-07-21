@@ -47,6 +47,60 @@
     </Photos>
   </object>
   <object>
+    <ExternalId>mk107vs</ExternalId>
+    <Category>freeAppointmentObjectSale</Category>
+    <Address>Новосибирск, ул. 25 лет Октября, 9</Address>
+    <TotalArea>6.5</TotalArea>
+    <FloorNumber>-1</FloorNumber>
+    <Building>
+      <FloorsCount>1</FloorsCount>
+    </Building>
+    <Description>Цокольное помещение 6,5 м² — Новосибирск, ул. 25 лет Октября, 9 (Дзержинский район). Удобный отдельный вход — прямая лестница с перилами прямо из подъезда, спускаться недалеко. Техническое помещение под склад, кладовую или иные цели хранения — крепкие стены, сухое. Компактный формат — удобно для хранения вещей, мебели, шин, инструмента. • Площадь: 6,5 м² (по Свидетельству о регистрации права, кад. №54:35:012621:1170) • Цокольный этаж, удобный отдельный вход по лестнице прямо из подъезда • 600 000 ₽ — напрямую от собственника, без комиссии. Покажем в удобное время. Звоните — согласуем показ и условия.</Description>
+    <BargainTerms>
+      <Price>600000</Price>
+      <Currency>rur</Currency>
+      <VatType>usn</VatType>
+    </BargainTerms>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>9858332439</Number>
+      </PhoneSchema>
+    </Phones>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/00.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/01.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/02.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/03.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/04.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/05.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/06.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/07.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/08.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/09.jpg</FullUrl>
+      </PhotoSchema>
+    </Photos>
+  </object>
+  <object>
     <ExternalId>mk110</ExternalId>
     <Category>freeAppointmentObjectRent</Category>
     <Address>Новосибирск, Октябрьский район, ул. Кирова</Address>
