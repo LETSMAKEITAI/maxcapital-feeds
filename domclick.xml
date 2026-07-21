@@ -89,7 +89,7 @@
     <commercial-type>retail</commercial-type>
     <location>
       <country>Россия</country>
-      <address>Новосибирск, Октябрьский район, ул. Кирова</address>
+      <address>Новосибирск, ул. Кирова, 152, Октябрьский р-н</address>
       <latitude>55.0039798</latitude>
       <longitude>82.9748652</longitude>
     </location>
@@ -737,7 +737,7 @@
     <commercial-type>free purpose</commercial-type>
     <location>
       <country>Россия</country>
-      <address>с. Новое, Плёсский р-н, Ивановская обл.</address>
+      <address>с. Новое, Приволжский р-н, Ивановская обл.</address>
       <latitude>57.459187</latitude>
       <longitude>41.511353</longitude>
     </location>
