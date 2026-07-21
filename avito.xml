@@ -38,43 +38,6 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>mk110</Id>
-    <Category>Коммерческая недвижимость</Category>
-    <OperationType>Сдам</OperationType>
-    <PropertyRights>Собственник</PropertyRights>
-    <Address>Новосибирск, Октябрьский район, ул. Кирова</Address>
-    <Title>Асфальтированная площадка 1222 м² под автомойку, стоянку или склад техники с двумя вьездами с Кирова на первой линии</Title>
-    <ObjectType>Помещение свободного назначения</ObjectType>
-    <Description>Асфальтированная площадка 1222 м² — Новосибирск, ул. Кирова (Октябрьский р-н, рядом м. «Октябрьская»)
-
-Площадка полностью заасфальтирована, удобный въезд/выезд. Подходит под автомойку, автостоянку, размещение техники, торговые киоски — на площадке стоит ваганчик по продаже питания - удобный заезд и выезд на участок уже сделаны с улицы Кирова 
-• Площадь: 1222 м², асфальт
-• Действующие соседи-арендаторы подтверждают формат (автомойка/сервис)
-• 120 000 ₽/мес, ставка договорная — напрямую от собственника
-• Договор в день обращения
-
-Покажем в удобное время. Звоните — согласуем показ и условия.</Description>
-    <Price>120000</Price>
-    <Square>1222.0</Square>
-    <Entrance>С улицы</Entrance>
-    <Floor>1</Floor>
-    <Heating>Центральное</Heating>
-    <BuildingType>Другой</BuildingType>
-    <ParkingType>Нет</ParkingType>
-    <Decoration>Без отделки</Decoration>
-    <RentalType>Прямая</RentalType>
-    <ContactPhone>+7 985 833 2439</ContactPhone>
-    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/04.jpg" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/05.jpg" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/00.jpg" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/01.jpg" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/02.jpg" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/03.jpg" />
-    </Images>
-  </Ad>
-  <Ad>
     <Id>mk201</Id>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
@@ -590,6 +553,47 @@
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/02.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/03.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/04.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>mk213</Id>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Сдам</OperationType>
+    <PropertyRights>Собственник</PropertyRights>
+    <Address>с. Новое, Плёсский р-н, Ивановская обл.</Address>
+    <Title>Действующий отель на Волге у Плёса, 29 номеров — передача в управление</Title>
+    <ObjectType>Помещение свободного назначения</ObjectType>
+    <Description>Действующий отель «МАКСРУМС Отель Левитана под Плёсом» — с. Новое, Ивановская обл. (Плёсский р-н), микрорайон Дружба, 12, рядом Плёс на Волге. Бренд MAXROOMS, рейтинг 4.4 на Google.
+
+Отель работает, но показывает слабый результат — собственнику не хватает времени уделять объекту внимание. Ищем профессионального оператора: готовы передать в управление за процент от оборота + небольшую фиксированную арендную плату.
+
+• Действующий гостиничный бизнес, номерной фонд в здании 1205 м² (29 номеров)
+• Локация — рядом туристический Плёс на Волге, сезонный стабильный спрос
+• Условия: % от оборота + небольшая фиксированная аренда — обсуждаются с оператором
+• Напрямую от собственника
+
+Покажем в удобное время. Звоните — обсудим условия управления.</Description>
+    <Price>49995</Price>
+    <Square>1205.0</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>Нет</ParkingType>
+    <Decoration>Без отделки</Decoration>
+    <RentalType>Прямая</RentalType>
+    <ContactPhone>+7 985 833 2439</ContactPhone>
+    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/04.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/05.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/06.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/07.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/08.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/00.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/01.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/02.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/03.jpg" />
     </Images>
   </Ad>
 </Ads>
