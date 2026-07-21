@@ -47,57 +47,6 @@
     </Photos>
   </object>
   <object>
-    <ExternalId>mk110</ExternalId>
-    <Category>freeAppointmentObjectRent</Category>
-    <Address>Новосибирск, Октябрьский район, ул. Кирова</Address>
-    <TotalArea>1222.0</TotalArea>
-    <FloorNumber>1</FloorNumber>
-    <Building>
-      <FloorsCount>1</FloorsCount>
-    </Building>
-    <Description>Асфальтированная площадка 1222 м² — Новосибирск, ул. Кирова (Октябрьский р-н, рядом м. «Октябрьская»)
-
-Площадка полностью заасфальтирована, удобный въезд/выезд. Подходит под автомойку, автостоянку, размещение техники, торговые киоски — на площадке стоит ваганчик по продаже питания - удобный заезд и выезд на участок уже сделаны с улицы Кирова 
-• Площадь: 1222 м², асфальт
-• Действующие соседи-арендаторы подтверждают формат (автомойка/сервис)
-• 120 000 ₽/мес, ставка договорная — напрямую от собственника
-• Договор в день обращения
-
-Покажем в удобное время. Звоните — согласуем показ и условия.</Description>
-    <BargainTerms>
-      <Price>120000</Price>
-      <Currency>rur</Currency>
-      <PriceType>all</PriceType>
-      <VatType>usn</VatType>
-    </BargainTerms>
-    <Phones>
-      <PhoneSchema>
-        <CountryCode>+7</CountryCode>
-        <Number>9858332439</Number>
-      </PhoneSchema>
-    </Phones>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/04.jpg</FullUrl>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/05.jpg</FullUrl>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/00.jpg</FullUrl>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/01.jpg</FullUrl>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/02.jpg</FullUrl>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/03.jpg</FullUrl>
-      </PhotoSchema>
-    </Photos>
-  </object>
-  <object>
     <ExternalId>mk201</ExternalId>
     <Category>freeAppointmentObjectRent</Category>
     <Address>Купино, ул. Советов, 80А</Address>
@@ -846,6 +795,67 @@
       </PhotoSchema>
       <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/04.jpg</FullUrl>
+      </PhotoSchema>
+    </Photos>
+  </object>
+  <object>
+    <ExternalId>mk213</ExternalId>
+    <Category>freeAppointmentObjectRent</Category>
+    <Address>с. Новое, Плёсский р-н, Ивановская обл.</Address>
+    <TotalArea>1205.0</TotalArea>
+    <FloorNumber>1</FloorNumber>
+    <Building>
+      <FloorsCount>1</FloorsCount>
+    </Building>
+    <Description>Действующий отель «МАКСРУМС Отель Левитана под Плёсом» — с. Новое, Ивановская обл. (Плёсский р-н), микрорайон Дружба, 12, рядом Плёс на Волге. Бренд MAXROOMS, рейтинг 4.4 на Google.
+
+Отель работает, но показывает слабый результат — собственнику не хватает времени уделять объекту внимание. Ищем профессионального оператора: готовы передать в управление за процент от оборота + небольшую фиксированную арендную плату.
+
+• Действующий гостиничный бизнес, номерной фонд в здании 1205 м² (29 номеров)
+• Локация — рядом туристический Плёс на Волге, сезонный стабильный спрос
+• Условия: % от оборота + небольшая фиксированная аренда — обсуждаются с оператором
+• Напрямую от собственника
+
+Покажем в удобное время. Звоните — обсудим условия управления.</Description>
+    <BargainTerms>
+      <Price>49995</Price>
+      <Currency>rur</Currency>
+      <PriceType>all</PriceType>
+      <VatType>usn</VatType>
+    </BargainTerms>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>9858332439</Number>
+      </PhoneSchema>
+    </Phones>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/04.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/05.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/06.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/07.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/08.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/00.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/01.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/02.jpg</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/03.jpg</FullUrl>
       </PhotoSchema>
     </Photos>
   </object>
