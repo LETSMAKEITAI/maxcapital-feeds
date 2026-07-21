@@ -43,6 +43,50 @@
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25/02.jpg?v=2</image>
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25/03.jpg?v=2</image>
   </offer>
+  <offer internal-id="mk110">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>retail</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>Новосибирск, Октябрьский район, ул. Кирова</address>
+      <latitude>55.0039798</latitude>
+      <longitude>82.9748652</longitude>
+    </location>
+    <price>
+      <value>120000</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>1222.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>1</floor>
+    <floors-total>1</floors-total>
+    <description>Асфальтированная площадка 1222 м² — Новосибирск, ул. Кирова (Октябрьский р-н, рядом м. «Октябрьская»)
+
+Площадка полностью заасфальтирована, удобный въезд/выезд. Подходит под автомойку, автостоянку, размещение техники, торговые киоски — на площадке стоит ваганчик по продаже питания - удобный заезд и выезд на участок уже сделаны с улицы Кирова 
+• Площадь: 1222 м², асфальт
+• Действующие соседи-арендаторы подтверждают формат (автомойка/сервис)
+• 120 000 ₽/мес, ставка договорная — напрямую от собственника
+• Договор в день обращения
+
+Покажем в удобное время. Звоните — согласуем показ и условия.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/04.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/05.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/00.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/01.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/02.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/03.jpg</image>
+  </offer>
   <offer internal-id="mk201">
     <type>аренда</type>
     <property-type>commercial</property-type>
