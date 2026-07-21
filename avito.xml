@@ -38,6 +38,40 @@
     </Images>
   </Ad>
   <Ad>
+    <Id>mk107vs</Id>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Продам</OperationType>
+    <TransactionType>Продажа</TransactionType>
+    <PropertyRights>Собственник</PropertyRights>
+    <Address>Новосибирск, ул. 25 лет Октября, 9</Address>
+    <Title>Цокольное помещение 6,5 м² - удобный отдельный вход - под склад, кладовую или хранение</Title>
+    <ObjectType>Помещение свободного назначения</ObjectType>
+    <Description>Цокольное помещение 6,5 м² — Новосибирск, ул. 25 лет Октября, 9 (Дзержинский район). Удобный отдельный вход — прямая лестница с перилами прямо из подъезда, спускаться недалеко. Техническое помещение под склад, кладовую или иные цели хранения — крепкие стены, сухое. Компактный формат — удобно для хранения вещей, мебели, шин, инструмента. • Площадь: 6,5 м² (по Свидетельству о регистрации права, кад. №54:35:012621:1170) • Цокольный этаж, удобный отдельный вход по лестнице прямо из подъезда • 600 000 ₽ — напрямую от собственника, без комиссии. Покажем в удобное время. Звоните — согласуем показ и условия.</Description>
+    <Price>600000</Price>
+    <Square>6.5</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>Цокольный</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>Нет</ParkingType>
+    <Decoration>Без отделки</Decoration>
+    <RentalType>Прямая</RentalType>
+    <ContactPhone>+7 985 833 2439</ContactPhone>
+    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/00.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/01.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/02.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/03.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/04.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/05.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/06.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/07.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/08.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/09.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
     <Id>mk110</Id>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
