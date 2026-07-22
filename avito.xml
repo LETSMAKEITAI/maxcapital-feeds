@@ -7,16 +7,16 @@
     <TransactionType>Продажа</TransactionType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Новосибирск, ул. 25 лет Октября, 9</Address>
-    <Title>Аппартаменты на первом высоком этаже две комнаты - 27 м² с санузлом - под офис или проживание</Title>
+    <Title>Апартаменты на первом высоком этаже две комнаты - 27 м² с санузлом - под офис или проживание</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
-    <Description>Полноценные аппартаменты с туалетом прямо на первом этаже с большим окном - уникальная возможность! Два смежных помещения с санузлом, 27,1 м², на 1 этаже — Новосибирск, ул. 25 лет Октября, 9 (Дзержинский район, м. «Берёзовая Роща»), прямо от входа в подъезд, тёплый дом.
+    <Description>Полноценные апартаменты с туалетом прямо на первом этаже с большим окном - уникальная возможность! Два смежных помещения с санузлом, 27,1 м², на 1 этаже — Новосибирск, ул. 25 лет Октября, 9 (Дзержинский район, м. «Берёзовая Роща»), прямо от входа в подъезд, тёплый дом.
 
 Уникальная возможность купить полноценные квадратные метры в этом доме по цене в разы ниже рынка: квартиры здесь продаются от 115 000 до 205 000 ₽/м², а здесь — около 100 000 ₽/м². Два отдельных помещения (11,5 м² и 15,6 м²) смежные — можно пользоваться каждым отдельно (у каждого свой вход) или объединить проёмом в одно пространство. Санузел в наличии. Сейчас в помещениях действует пост консьержей ТСЖ — готовый порядок, дом ухоженный, всё функционирует.
 
 • Площадь: 27,1 м² (по ЕГРН) — 2 смежных помещения + санузел
 • 1 этаж, прямо от входа в подъезд, тёплый дом
 • Можно пользоваться раздельно или объединить в одно помещение
-• 2 710 000 ₽ — напрямую от собственника, без комиссии
+• 2 710 000 ₽ — напрямую от собственника
 
 Покажем в удобное время. Звоните — согласуем показ и условия.</Description>
     <Price>2710000</Price>
@@ -25,11 +25,16 @@
     <Floor>1</Floor>
     <Heating>Центральное</Heating>
     <BuildingType>Другой</BuildingType>
-    <ParkingType>Нет</ParkingType>
-    <Decoration>Без отделки</Decoration>
+    <ParkingType>На улице</ParkingType>
+    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
+    <Decoration>Чистовая</Decoration>
     <RentalType>Прямая</RentalType>
+    <ContactMethod>Звонки и сообщения</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <AgentSellCommissionPresence>Да</AgentSellCommissionPresence>
+    <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
     <VideoURL>https://rutube.ru/video/private/ae77d647cbb4841a24eac2a921f59cfd/?p=WqeqQU-Vg5qYtqvzTclpcw</VideoURL>
     <Images>
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25/00.jpg?v=2" />
@@ -47,18 +52,24 @@
     <Address>Новосибирск, ул. 25 лет Октября, 9</Address>
     <Title>Цокольное помещение 6,5 м² - удобный отдельный вход - под склад, кладовую или хранение</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
-    <Description>Цокольное помещение 6,5 м² — Новосибирск, ул. 25 лет Октября, 9 (Дзержинский район). Удобный отдельный вход — прямая лестница с перилами прямо из подъезда, спускаться недалеко. Техническое помещение под склад, кладовую или иные цели хранения — крепкие стены, сухое. Компактный формат — удобно для хранения вещей, мебели, шин, инструмента. • Площадь: 6,5 м² (по Свидетельству о регистрации права, кад. №54:35:012621:1170) • Цокольный этаж, удобный отдельный вход по лестнице прямо из подъезда • 600 000 ₽ — напрямую от собственника, без комиссии. Покажем в удобное время. Звоните — согласуем показ и условия.</Description>
+    <Description>Цокольное помещение 6,5 м² — Новосибирск, ул. 25 лет Октября, 9 (Дзержинский район). Удобный отдельный вход — прямая лестница с перилами прямо из подъезда, спускаться недалеко. Техническое помещение под склад, кладовую или иные цели хранения — крепкие стены, сухое. Компактный формат — удобно для хранения вещей, мебели, шин, инструмента. • Площадь: 6,5 м² (по Свидетельству о регистрации права, кад. №54:35:012621:1170) • Цокольный этаж, удобный отдельный вход по лестнице прямо из подъезда • 600 000 ₽ — напрямую от собственника. Покажем в удобное время. Звоните — согласуем показ и условия.</Description>
     <Price>600000</Price>
     <Square>6.5</Square>
     <Entrance>С улицы</Entrance>
     <Floor>Цокольный</Floor>
     <Heating>Центральное</Heating>
     <BuildingType>Другой</BuildingType>
-    <ParkingType>Нет</ParkingType>
+    <ParkingType>На улице</ParkingType>
+    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
     <Decoration>Без отделки</Decoration>
     <RentalType>Прямая</RentalType>
+    <ContactMethod>Звонки и сообщения</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <AgentSellCommissionPresence>Да</AgentSellCommissionPresence>
+    <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
+    <VideoURL>https://rutube.ru/video/private/43cced081abeb70ddffa1e56a9bfe25c/?p=xruecVxTKRgRL4gLUQ1HPQ</VideoURL>
     <Images>
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/00.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/01.jpg" />
@@ -95,11 +106,16 @@
     <Floor>1</Floor>
     <Heating>Центральное</Heating>
     <BuildingType>Другой</BuildingType>
-    <ParkingType>Нет</ParkingType>
-    <Decoration>Без отделки</Decoration>
+    <ParkingType>На улице</ParkingType>
+    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
+    <Decoration>Чистовая</Decoration>
     <RentalType>Прямая</RentalType>
+    <ContactMethod>Звонки и сообщения</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <AgentSellCommissionPresence>Да</AgentSellCommissionPresence>
+    <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
     <Images>
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/04.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/05.jpg" />
@@ -124,11 +140,17 @@
     <Floor>1</Floor>
     <Heating>Центральное</Heating>
     <BuildingType>Другой</BuildingType>
-    <ParkingType>Нет</ParkingType>
-    <Decoration>Без отделки</Decoration>
+    <ParkingType>На улице</ParkingType>
+    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
+    <Decoration>Чистовая</Decoration>
     <RentalType>Прямая</RentalType>
+    <ContactMethod>Звонки и сообщения</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <AgentSellCommissionPresence>Да</AgentSellCommissionPresence>
+    <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
+    <Layout>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/plans/201_kupino.jpg</Layout>
     <Images>
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kupino/05.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kupino/06.jpg?v=2" />
@@ -165,11 +187,17 @@
     <Floor>1</Floor>
     <Heating>Центральное</Heating>
     <BuildingType>Другой</BuildingType>
-    <ParkingType>Нет</ParkingType>
-    <Decoration>Без отделки</Decoration>
+    <ParkingType>На улице</ParkingType>
+    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
+    <Decoration>Чистовая</Decoration>
     <RentalType>Прямая</RentalType>
+    <ContactMethod>Звонки и сообщения</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <AgentSellCommissionPresence>Да</AgentSellCommissionPresence>
+    <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
+    <Layout>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/plans/202_zdvinsk.jpg</Layout>
     <Images>
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zdvinsk/04.jpg?v=3" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zdvinsk/05.jpg?v=3" />
@@ -195,18 +223,24 @@
 
 Идеально под отель: самый центр города, рядом деловая часть и администрация, а Жирновск — нефтяной райцентр с постоянным потоком вахтовиков и командированных, которым нужно организованное размещение. Есть эскизный дизайн-проект переоборудования под гостиницу/бизнес-центр (визуализация входной группы и планировка этажа под номера — см. фото в галерее).
 
-Рядом на той же улице — пункты выдачи Wildberries и Ozon, трафик подтверждён рынком. Жирновск — нефтяной райцентр (ЖНГДУ «Лукойл», РИТЭК), стабильный спрос на организованные помещения в центре. Продажа строго целиком, напрямую от собственника, без комиссии, возможен торг. 9 999 999 ₽ (≈8 900 ₽/м²).</Description>
+Рядом на той же улице — пункты выдачи Wildberries и Ozon, трафик подтверждён рынком. Жирновск — нефтяной райцентр (ЖНГДУ «Лукойл», РИТЭК), стабильный спрос на организованные помещения в центре. Продажа строго целиком, напрямую от собственника, возможен торг. 9 999 999 ₽ (≈8 900 ₽/м²).</Description>
     <Price>9999999</Price>
     <Square>1123.0</Square>
     <Entrance>С улицы</Entrance>
     <Floor>1</Floor>
     <Heating>Центральное</Heating>
     <BuildingType>Другой</BuildingType>
-    <ParkingType>Нет</ParkingType>
-    <Decoration>Без отделки</Decoration>
+    <ParkingType>На улице</ParkingType>
+    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
+    <Decoration>Чистовая</Decoration>
     <RentalType>Прямая</RentalType>
+    <ContactMethod>Звонки и сообщения</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <AgentSellCommissionPresence>Да</AgentSellCommissionPresence>
+    <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
+    <Layout>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/plans/205_zhirnovsk.jpg</Layout>
     <Images>
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/00.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/01.jpg?v=2" />
@@ -226,23 +260,29 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>г. Жирновск, ул. Ломоносова, 54</Address>
-    <Title>Кабинеты под офисы или аппартаменты — центр Жирновска</Title>
+    <Title>Кабинеты под офисы или апартаменты — центр Жирновска</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Аренда в здании в центре Жирновска (ул. Ломоносова, 54): от кабинета до этажа/здания целиком. Кабинеты 2-го этажа и цоколя — от 20 м², готовы к въезду, с ремонтом и санузлами — от 10 000 ₽/мес за кабинет, подходит малому бизнесу. Этаж или здание целиком — для якорного арендатора (сеть, клиника, гостиничный оператор, производство/склад)
 Идеально под отель: самый центр города, рядом деловая часть и администрация; вахтовики и командированные специалисты (Лукойл, РИТЭК) регулярно нуждаются в организованном размещении рядом с центром. 3-й этаж — черновая отделка, готовый чистый лист под номера. Есть эскизный дизайн-проект переоборудования под гостиницу/бизнес-центр (см. фото в галерее). Также рассматриваем формат «апартаменты» — за % от выручки, с партнёром-оператором.
 
-Отопление и электричество в порядке, заезд под кабинет/офис — сразу; для гостиницы/общепита/производства потребуется дооборудование канализации — компенсируем арендными каникулами на срок работ. Напрямую от собственника, без комиссии.</Description>
+Отопление и электричество в порядке, заезд под кабинет/офис — сразу; для гостиницы/общепита/производства потребуется дооборудование канализации — компенсируем арендными каникулами на срок работ. Напрямую от собственника.</Description>
     <Price>9995</Price>
     <Square>1123.0</Square>
     <Entrance>С улицы</Entrance>
     <Floor>1</Floor>
     <Heating>Центральное</Heating>
     <BuildingType>Другой</BuildingType>
-    <ParkingType>Нет</ParkingType>
-    <Decoration>Без отделки</Decoration>
+    <ParkingType>На улице</ParkingType>
+    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
+    <Decoration>Чистовая</Decoration>
     <RentalType>Прямая</RentalType>
+    <ContactMethod>Звонки и сообщения</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <AgentSellCommissionPresence>Да</AgentSellCommissionPresence>
+    <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
+    <Layout>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/plans/205_zhirnovsk.jpg</Layout>
     <Images>
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/00.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/01.jpg?v=2" />
@@ -265,18 +305,24 @@
     <Address>Новоуральск, ул. М. Горького, 2а</Address>
     <Title>Здание под гостиницу, частную клинику или спортцентр, 861 м²</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
-    <Description>Отдельное здание в Новоуральске (ул. М. Горького, 2а) под хостел, мини-отель, спортивный или сервисный объект. Цельный объект в центре ЗАТО. Напрямую от собственника, без комиссии. Участок ≈47,7 сотки (4771 м², по ЕГРН).</Description>
+    <Description>Отдельное здание в Новоуральске (ул. М. Горького, 2а) под хостел, мини-отель, спортивный или сервисный объект. Цельный объект в центре ЗАТО. Напрямую от собственника. Участок ≈47,7 сотки (4771 м², по ЕГРН).</Description>
     <Price>7500000</Price>
     <Square>861.0</Square>
     <Entrance>С улицы</Entrance>
     <Floor>1</Floor>
     <Heating>Центральное</Heating>
     <BuildingType>Другой</BuildingType>
-    <ParkingType>Нет</ParkingType>
-    <Decoration>Без отделки</Decoration>
+    <ParkingType>На улице</ParkingType>
+    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
+    <Decoration>Чистовая</Decoration>
     <RentalType>Прямая</RentalType>
+    <ContactMethod>Звонки и сообщения</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <AgentSellCommissionPresence>Да</AgentSellCommissionPresence>
+    <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
+    <Layout>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/plans/206_novouralsk_gorkogo.jpg</Layout>
     <Images>
       <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ALveGkjruDsCOy6vvLioH0M/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%207%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
       <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ABGlc25iZkc6d4NRnmdRx3k/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%208%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
@@ -296,18 +342,24 @@
     <Address>Новоуральск, ул. Л. Толстого, 8а</Address>
     <Title>Здание под хостел, клинику или спортивный центр, 943 м²</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
-    <Description>Отдельное здание в Новоуральске (ул. Л. Толстого, 8а) под хостел, мини-отель, спортивный или сервисный объект. Цельный объект в центре ЗАТО. Напрямую от собственника, без комиссии. Участок ≈49,3 сотки (4929 м², по ЕГРН).</Description>
+    <Description>Отдельное здание в Новоуральске (ул. Л. Толстого, 8а) под хостел, мини-отель, спортивный или сервисный объект. Цельный объект в центре ЗАТО. Напрямую от собственника. Участок ≈49,3 сотки (4929 м², по ЕГРН).</Description>
     <Price>6100000</Price>
     <Square>943.0</Square>
     <Entrance>С улицы</Entrance>
     <Floor>1</Floor>
     <Heating>Центральное</Heating>
     <BuildingType>Другой</BuildingType>
-    <ParkingType>Нет</ParkingType>
-    <Decoration>Без отделки</Decoration>
+    <ParkingType>На улице</ParkingType>
+    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
+    <Decoration>Чистовая</Decoration>
     <RentalType>Прямая</RentalType>
+    <ContactMethod>Звонки и сообщения</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <AgentSellCommissionPresence>Да</AgentSellCommissionPresence>
+    <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
+    <Layout>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/plans/207_novouralsk_tolstogo.jpg</Layout>
     <Images>
       <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ANa_pq2A0t1z2Cu9yHKEBr0/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%206%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
       <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AHGVqWWcfTrDcLcAdKoAefU/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%209%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
@@ -334,11 +386,16 @@
     <Floor>1</Floor>
     <Heating>Центральное</Heating>
     <BuildingType>Другой</BuildingType>
-    <ParkingType>Нет</ParkingType>
+    <ParkingType>На улице</ParkingType>
+    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
     <Decoration>Без отделки</Decoration>
     <RentalType>Прямая</RentalType>
+    <ContactMethod>Звонки и сообщения</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <AgentSellCommissionPresence>Да</AgentSellCommissionPresence>
+    <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
     <Images>
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/04.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/05.jpg" />
@@ -374,11 +431,16 @@
     <Floor>1</Floor>
     <Heating>Центральное</Heating>
     <BuildingType>Другой</BuildingType>
-    <ParkingType>Нет</ParkingType>
-    <Decoration>Без отделки</Decoration>
+    <ParkingType>На улице</ParkingType>
+    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
+    <Decoration>Чистовая</Decoration>
     <RentalType>Прямая</RentalType>
+    <ContactMethod>Звонки и сообщения</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <AgentSellCommissionPresence>Да</AgentSellCommissionPresence>
+    <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
     <Images>
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/04.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/05.jpg?v=2" />
@@ -415,11 +477,16 @@
     <Floor>1</Floor>
     <Heating>Центральное</Heating>
     <BuildingType>Другой</BuildingType>
-    <ParkingType>Нет</ParkingType>
-    <Decoration>Без отделки</Decoration>
+    <ParkingType>На улице</ParkingType>
+    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
+    <Decoration>Чистовая</Decoration>
     <RentalType>Прямая</RentalType>
+    <ContactMethod>Звонки и сообщения</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <AgentSellCommissionPresence>Да</AgentSellCommissionPresence>
+    <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
     <Images>
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/04.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/05.jpg?v=2" />
@@ -448,7 +515,7 @@
 • Отдельный вход — широкая лестница, несколько ступеней спуска в цоколь
 • Качественный ремонт (ранее — студия музыкальных инструментов)
 • 2 минуты пешком до метро «Беговая», большая парковка во дворе
-• 235 000 ₽/мес — напрямую от собственника, без комиссии
+• 235 000 ₽/мес — напрямую от собственника
 • Договор в день обращения
 
 Покажем в удобное время. Звоните — согласуем показ и условия.</Description>
@@ -458,11 +525,17 @@
     <Floor>1</Floor>
     <Heating>Центральное</Heating>
     <BuildingType>Другой</BuildingType>
-    <ParkingType>Нет</ParkingType>
+    <ParkingType>На улице</ParkingType>
+    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
     <Decoration>Чистовая</Decoration>
     <RentalType>Прямая</RentalType>
+    <ContactMethod>Звонки и сообщения</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <AgentSellCommissionPresence>Да</AgentSellCommissionPresence>
+    <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
+    <Layout>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/plans/001_horoshevsky.jpg</Layout>
     <Images>
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/00.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/01.jpg?v=2" />
@@ -483,18 +556,24 @@
     <Address>Москва, ул. Енисейская, 16/21</Address>
     <Title>Готовая квартира-цоколь 79 м² с санузлом — под апартаменты или офис</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
-    <Description>Свободного назначения 79,3 м² (цоколь) — Москва, ул. Енисейская, д. 16/21 (Бабушкинский район). Полноценно готовое помещение: планировка повторяет квартиру этажом выше, тёплое, со своими окнами и готовым санузлом. Вход через просторный подъезд-«колодец», перед помещением тамбур отсекает шум из подъезда. Идеально под апартаменты или офис. Метро «Бабушкинская» ~5 мин. Напрямую от собственника, без комиссии.</Description>
+    <Description>Свободного назначения 79,3 м² (цоколь) — Москва, ул. Енисейская, д. 16/21 (Бабушкинский район). Полноценно готовое помещение: планировка повторяет квартиру этажом выше, тёплое, со своими окнами и готовым санузлом. Вход через просторный подъезд-«колодец», перед помещением тамбур отсекает шум из подъезда. Идеально под апартаменты или офис. Метро «Бабушкинская» ~5 мин. Напрямую от собственника.</Description>
     <Price>12000000</Price>
     <Square>79.0</Square>
     <Entrance>С улицы</Entrance>
     <Floor>1</Floor>
     <Heating>Центральное</Heating>
     <BuildingType>Другой</BuildingType>
-    <ParkingType>Нет</ParkingType>
-    <Decoration>Без отделки</Decoration>
+    <ParkingType>На улице</ParkingType>
+    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
+    <Decoration>Чистовая</Decoration>
     <RentalType>Прямая</RentalType>
+    <ContactMethod>Звонки и сообщения</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <AgentSellCommissionPresence>Да</AgentSellCommissionPresence>
+    <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
+    <Layout>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/plans/002_eniseyskaya.jpg</Layout>
     <Images>
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/01.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/02.jpg?v=2" />
@@ -521,7 +600,7 @@
 
 Возможна долгосрочная аренда — стабильные условия для тех, кто планирует развивать пространство под себя.
 
-300 000 ₽/мес — напрямую от собственника, без комиссии. Договор в день обращения.
+300 000 ₽/мес — напрямую от собственника. Договор в день обращения.
 
 Покажем в удобное время. Звоните — согласуем показ и условия.</Description>
     <Price>300001</Price>
@@ -530,11 +609,17 @@
     <Floor>1</Floor>
     <Heating>Центральное</Heating>
     <BuildingType>Другой</BuildingType>
-    <ParkingType>Нет</ParkingType>
-    <Decoration>Без отделки</Decoration>
+    <ParkingType>На улице</ParkingType>
+    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
+    <Decoration>Чистовая</Decoration>
     <RentalType>Прямая</RentalType>
+    <ContactMethod>Звонки и сообщения</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <AgentSellCommissionPresence>Да</AgentSellCommissionPresence>
+    <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
+    <Layout>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/plans/007_shmitovsky.jpg</Layout>
     <Images>
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/04.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/05.jpg?v=2" />
@@ -571,11 +656,17 @@
     <Floor>1</Floor>
     <Heating>Центральное</Heating>
     <BuildingType>Другой</BuildingType>
-    <ParkingType>Нет</ParkingType>
+    <ParkingType>На улице</ParkingType>
+    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
     <Decoration>Чистовая</Decoration>
     <RentalType>Прямая</RentalType>
+    <ContactMethod>Звонки и сообщения</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <AgentSellCommissionPresence>Да</AgentSellCommissionPresence>
+    <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
+    <Layout>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/plans/004_bronnitsky.jpg</Layout>
     <Images>
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/04.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/05.jpg?v=2" />
@@ -602,7 +693,7 @@
 
 • Площадь: 192 м², цоколь, потолки ~4 м, тёплое
 • Сейчас черновая стадия (демонтаж перегородок, санузлы в работе); есть готовый дизайн-проект чистовой отделки под VIP-офис
-• 380 000 ₽/мес — каникулы на отделку: мес. 1–2 — 0 ₽, мес. 3 — 190 000 ₽ (50%), с мес. 4 — 380 000 ₽/мес. Напрямую от собственника, без комиссии
+• 380 000 ₽/мес — каникулы на отделку: мес. 1–2 — 0 ₽, мес. 3 — 190 000 ₽ (50%), с мес. 4 — 380 000 ₽/мес. Напрямую от собственника
 • Договор в день обращения
 
 Покажем в удобное время. Звоните — согласуем показ и условия.</Description>
@@ -612,11 +703,18 @@
     <Floor>Цокольный</Floor>
     <Heating>Центральное</Heating>
     <BuildingType>Другой</BuildingType>
-    <ParkingType>Нет</ParkingType>
-    <Decoration>Без отделки</Decoration>
+    <ParkingType>На улице</ParkingType>
+    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
+    <Decoration>Чистовая</Decoration>
     <RentalType>Прямая</RentalType>
+    <ContactMethod>Звонки и сообщения</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <AgentSellCommissionPresence>Да</AgentSellCommissionPresence>
+    <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
+    <VideoURL>https://rutube.ru/video/private/85110d9602b9bc3d9154df9ace98f4c0/?p=CvPHlbkX6wfFvZSk5QeXxw</VideoURL>
+    <Layout>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/plans/008_rochdelskaya.jpg</Layout>
     <Images>
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/05.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/06.jpg?v=2" />
@@ -653,11 +751,17 @@
     <Floor>1</Floor>
     <Heating>Центральное</Heating>
     <BuildingType>Другой</BuildingType>
-    <ParkingType>Нет</ParkingType>
-    <Decoration>Без отделки</Decoration>
+    <ParkingType>На улице</ParkingType>
+    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
+    <Decoration>Чистовая</Decoration>
     <RentalType>Прямая</RentalType>
+    <ContactMethod>Звонки и сообщения</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <AgentSellCommissionPresence>Да</AgentSellCommissionPresence>
+    <AgentLeaseCommissionPresence>Да</AgentLeaseCommissionPresence>
+    <VideoURL>https://rutube.ru/video/private/66ee122554e8b8f4e60a9f4f5d151cad/?p=4ouz1zJTwtfj6PjKWLfp1g</VideoURL>
     <Images>
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/04.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/05.jpg" />
