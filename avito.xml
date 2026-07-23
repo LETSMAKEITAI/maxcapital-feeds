@@ -376,6 +376,7 @@
     <InternetCalls>Да</InternetCalls>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <Layout>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/plans/210_privolzhsk.jpg</Layout>
     <Images>
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/04.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/05.jpg" />
