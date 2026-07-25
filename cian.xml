@@ -36,9 +36,6 @@
     </Phones>
     <Photos>
       <PhotoSchema>
-        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/00.jpg?v=2</FullUrl>
-      </PhotoSchema>
-      <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/01.jpg?v=2</FullUrl>
       </PhotoSchema>
       <PhotoSchema>
@@ -58,6 +55,9 @@
       </PhotoSchema>
       <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/07.jpg?v=2</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/00.jpg?v=2</FullUrl>
       </PhotoSchema>
     </Photos>
   </object>
@@ -84,13 +84,13 @@
     </Phones>
     <Photos>
       <PhotoSchema>
-        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/01.jpg?v=2</FullUrl>
-      </PhotoSchema>
-      <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/02.jpg?v=2</FullUrl>
       </PhotoSchema>
       <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/00.jpg?v=2</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/01.jpg?v=2</FullUrl>
       </PhotoSchema>
     </Photos>
   </object>
@@ -132,9 +132,6 @@
     </Phones>
     <Photos>
       <PhotoSchema>
-        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/04.jpg?v=2</FullUrl>
-      </PhotoSchema>
-      <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/05.jpg?v=2</FullUrl>
       </PhotoSchema>
       <PhotoSchema>
@@ -157,6 +154,9 @@
       </PhotoSchema>
       <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/03.jpg?v=2</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/04.jpg?v=2</FullUrl>
       </PhotoSchema>
     </Photos>
   </object>
@@ -193,9 +193,6 @@
     </Phones>
     <Photos>
       <PhotoSchema>
-        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/04.jpg?v=2</FullUrl>
-      </PhotoSchema>
-      <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/05.jpg?v=2</FullUrl>
       </PhotoSchema>
       <PhotoSchema>
@@ -218,6 +215,9 @@
       </PhotoSchema>
       <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/03.jpg?v=2</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/bronnickiy/04.jpg?v=2</FullUrl>
       </PhotoSchema>
     </Photos>
   </object>
@@ -254,9 +254,6 @@
     </Phones>
     <Photos>
       <PhotoSchema>
-        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/05.jpg?v=2</FullUrl>
-      </PhotoSchema>
-      <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/06.jpg?v=2</FullUrl>
       </PhotoSchema>
       <PhotoSchema>
@@ -273,6 +270,9 @@
       </PhotoSchema>
       <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/04.jpg?v=2</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/05.jpg?v=2</FullUrl>
       </PhotoSchema>
       <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/07.jpg?v=2</FullUrl>
