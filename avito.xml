@@ -363,6 +363,53 @@
     </Images>
   </Ad>
   <Ad>
+    <Id>mk209s</Id>
+    <ListingFee>PackageSingle</ListingFee>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Продам</OperationType>
+    <TransactionType>Продажа</TransactionType>
+    <PropertyRights>Собственник</PropertyRights>
+    <Address>Ивановская область, Плес, улица Никанорка</Address>
+    <Title>Действующий отель на Волге у Плёса, 29 номеров, 1205 м²</Title>
+    <ObjectType>Помещение свободного назначения</ObjectType>
+    <Description>Действующий отель «МАКСРУМС Отель Левитана под Плёсом» — с. Новое, Ивановская обл. (Плёсский р-н), микрорайон Дружба, 12. Рядом Плёс на Волге — один из самых известных туристических городов Верхней Волги.
+
+Продаётся как готовый объект: здание 1205 м², номерной фонд 29 номеров, отель работает. Бренд MAXROOMS, рейтинг 4.4 на Google.
+
+• Здание 1205 м², 29 номеров
+• Хорошие подъездные пути, подъезд круглый год
+• Сезонный турпоток Плёса — Волга, Левитан, музеи
+• Подходит под отель, базу отдыха, санаторно-оздоровительный формат, корпоративную базу
+• 34 000 000 ₽ — напрямую от собственника, без комиссии
+
+Покажем объект в удобное время, документы готовы. Звоните — согласуем просмотр.</Description>
+    <Price>34000000</Price>
+    <Square>1205.0</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>На улице</ParkingType>
+    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
+    <Decoration>Чистовая</Decoration>
+    <RentalType>Прямая</RentalType>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
+    <ContactPhone>+7 985 833 2439</ContactPhone>
+    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/08.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/00.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/01.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/02.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/03.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/04.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/05.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/06.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/07.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
     <Id>mk210s</Id>
     <ListingFee>PackageSingle</ListingFee>
     <Category>Коммерческая недвижимость</Category>
