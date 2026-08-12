@@ -179,6 +179,13 @@
       <organization>MAXCAPITAL</organization>
       <category>agency</category>
     </sales-agent>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/nekrasova/02.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/nekrasova/03.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/nekrasova/04.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/nekrasova/05.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/nekrasova/06.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/nekrasova/00.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/nekrasova/01.jpg</image>
   </offer>
   <offer internal-id="mk201">
     <type>аренда</type>
@@ -951,5 +958,281 @@
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/05.jpg</image>
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/06.jpg</image>
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/plyos-levitana/07.jpg</image>
+  </offer>
+  <offer internal-id="mk206">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>warehouse</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>Новоуральск, ул. М. Горького, 2а</address>
+      <latitude>57.2583571</latitude>
+      <longitude>60.1094424</longitude>
+    </location>
+    <price>
+      <value>80004</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>861.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>1</floor>
+    <floors-total>3</floors-total>
+    <description>Отдельно стоящее здание 861 м² в Новоуральске — в аренду целиком или частями.
+
+Здание свободно и передаётся сразу. Площадь позволяет развести несколько функций под одной крышей: зал и подсобные помещения, производство и склад, учебные классы и администрацию — без соседей за стеной и без согласований с ними.
+
+Кому подходит: спортивному клубу, производству, оптовику под склад, учебному или медицинскому центру, сетевому оператору, который заходит в город.
+
+80 000 ₽/мес за всё здание — 93 ₽ за метр в месяц. Можно взять часть площади, тогда ставку считаем от занятого объёма. Договор с юридическим лицом, длинный срок обсуждаем.
+
+Новоуральск — закрытый город, въезд по пропускной системе.
+
+Здание также продаётся за 7 500 000 ₽ — если аренда нужна как первый шаг, обсудим зачёт платежей в цену покупки.
+
+🎥 Видео объекта: https://rutube.ru/video/private/f29d0f2ba8ec264b3802c8afdc69898d/?p=faoPbzC38u1B0YQfDnlOig</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AI3FQldNamg9dL6mjVjILMQ/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%203%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
+    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AG2vB2Pk9MR7SaN7vXE4K2g/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%204%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
+    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AHnVToMoaTH_CFcDNvSjqmU/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%205%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
+    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ALveGkjruDsCOy6vvLioH0M/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%207%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
+    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ABGlc25iZkc6d4NRnmdRx3k/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%208%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
+    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ACZtUsNYxmTjiO1WtkLZF6Y/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%201%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
+    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AKibaYuG1156QZrolavuPS8/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%202%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
+  </offer>
+  <offer internal-id="mk207">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>warehouse</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>Новоуральск, ул. Л. Толстого, 8а</address>
+      <latitude>57.2389733</latitude>
+      <longitude>60.0852822</longitude>
+    </location>
+    <price>
+      <value>74997</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>943.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>1</floor>
+    <floors-total>3</floors-total>
+    <description>Отдельно стоящее здание 943 м² в центре Новоуральска — в аренду целиком или блоками.
+
+Центр — главное преимущество: в небольшом городе весь поток людей сосредоточен здесь, и это работает и на торговлю, и на услуги, и на набор сотрудников.
+
+Площадь можно разделить на самостоятельные блоки и взять только то, что нужно: под зал, склад, мастерскую, офис или учебные классы.
+
+75 000 ₽/мес за всё здание — 80 ₽ за метр в месяц. За часть площади ставка считается от занятого объёма. Договор с юридическим лицом.
+
+Новоуральск — закрытый город, въезд по пропускной системе.
+
+Здание также продаётся — если аренда нужна как первый шаг, обсудим зачёт платежей в цену покупки.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AOcBWdM5OH3hZo1hU2eVHXI/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%203%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
+    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AOuWv9_atKVf6f1R_plpZe8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%204%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
+    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AGHrzqpx-QNNtV_ibMecXNc/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%205%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
+    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ANa_pq2A0t1z2Cu9yHKEBr0/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%206%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
+    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AHGVqWWcfTrDcLcAdKoAefU/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%209%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
+    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AGklJyN5q-X4pOQE46pIOi8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%201%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
+    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ADWqU2G4MLkDsscl96HfvN8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%202%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
+  </offer>
+  <offer internal-id="mk210">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>warehouse</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>Ивановская обл., г. Приволжск, ул. Малая Московская, 37Б</address>
+      <latitude>57.3867219</latitude>
+      <longitude>41.2877925</longitude>
+    </location>
+    <price>
+      <value>64999</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>1095.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>1</floor>
+    <floors-total>1</floors-total>
+    <description>Здание 1 095 м² с земельным участком в Приволжске — в аренду под производство, склад или цех.
+
+Собственный участок означает то, ради чего производственники и ищут такие объекты: можно завозить сырьё и вывозить готовое, ставить оборудование и технику, работать в своём ритме.
+
+Приволжск исторически текстильный район — здесь есть кадры для швейного и текстильного производства. Людей не нужно везти издалека, это редкое преимущество при запуске цеха.
+
+65 000 ₽/мес за всё здание с участком — 59 ₽ за метр в месяц. Можно взять часть площади. Договор с юридическим лицом, длинный срок обсуждаем.
+
+Здание также продаётся за 4 999 000 ₽ — если аренда нужна как первый шаг, обсудим зачёт платежей в цену покупки.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/02.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/03.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/04.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/05.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/00.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/01.jpg</image>
+  </offer>
+  <offer internal-id="mkd002">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>warehouse</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>Москва, ул. Енисейская, 16/21</address>
+      <latitude>55.864169</latitude>
+      <longitude>37.6623119</longitude>
+    </location>
+    <price>
+      <value>70000</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>79.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>1</floor>
+    <floors-total>1</floors-total>
+    <description>Помещение 79 м² в Москве, улица Енисейская — цокольный этаж с санузлом, в аренду.
+
+Санузел уже сделан, заезжать можно сразу, без мокрых работ и переделок.
+
+Кому подходит: студии звукозаписи или танцев, мастерской, складу интернет-магазина, кабинетам услуг по записи, тихому офису без потока посетителей.
+
+70 000 ₽/мес — 886 ₽ за метр в месяц, для Москвы это заметно ниже средней ставки по помещениям такого класса. Договор с юридическим лицом.
+
+Помещение также продаётся за 10 500 000 ₽ — если аренда нужна как первый шаг, обсудим зачёт платежей в цену покупки.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/02.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/00.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/01.jpg?v=2</image>
+  </offer>
+  <offer internal-id="mk107v">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>warehouse</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>Новосибирск, ул. 25 лет Октября, 9</address>
+      <latitude>55.071925</latitude>
+      <longitude>82.9656049</longitude>
+    </location>
+    <price>
+      <value>6000</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>6.5</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>0</floor>
+    <floors-total>1</floors-total>
+    <description>Цокольное помещение 6,5 м² с отдельным входом — 25 лет Октября, 9. В аренду.
+
+Маленькая площадь со своим входом: вы платите ровно за то, чем пользуетесь, и не делите вход с соседями.
+
+Что здесь размещают: пункт выдачи заказов, кладовую под товар интернет-магазина, мастерскую по ремонту, кабинет мастера, точку услуг по записи.
+
+6 000 ₽/мес. Договор с юридическим лицом, оплата помесячно.
+
+Помещение также продаётся за 600 000 ₽ — если работаете вдолгую, покупка окупается быстро и снимает вопрос повышения ставки.
+
+🎥 Видео объекта: https://rutube.ru/video/private/43cced081abeb70ddffa1e56a9bfe25c/?p=xruecVxTKRgRL4gLUQ1HPQ</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/04.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/05.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/06.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/07.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/08.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/09.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/00.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/01.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/02.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrya25v/03.jpg</image>
+  </offer>
+  <offer internal-id="mk109">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>free purpose</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>Новосибирск, ул. Садовая, 153, Октябрьский р-н</address>
+    </location>
+    <price>
+      <value>20000</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>387.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>1</floor>
+    <floors-total>1</floors-total>
+    <description>Место под прицеп, вагончик или технику — Новосибирск, Октябрьский район, ул. Садовая, 153. Цена указана ЗА ОДНО МЕСТО, всего мест до восьми.
+
+Огороженный участок 387 м² с домом-сторожкой. Заезд с улицы, место закреплено за вами и не меняется. Здесь уже стояли легковые прицепы и держали лошадь — участок реально используется под такие вещи, а не предлагается «на бумаге».
+
+Кому подходит: владельцу прицепа или лодочного трейлера, которому негде хранить его зимой; строителям под бытовку на время объекта; мастеру, которому нужен вагончик под инструмент; тому, кто ищет место под контейнер или технику в черте города.
+
+20 000 ₽/мес за место, оплата помесячно, договор с юридическим лицом. Можно взять несколько мест сразу или весь участок целиком — по объёму договоримся.
+
+Октябрьский район — это город, а не выезд за черту: добираться к своей технике не полдня.
+
+Покажем участок в любой день, место выберете сами.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/sadovaya/02.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/sadovaya/03.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/sadovaya/04.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/sadovaya/05.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/sadovaya/06.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/sadovaya/00.jpg</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/sadovaya/01.jpg</image>
   </offer>
 </realty-feed>

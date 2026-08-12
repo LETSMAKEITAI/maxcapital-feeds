@@ -293,4 +293,46 @@
       </PhotoSchema>
     </Photos>
   </object>
+  <object>
+    <ExternalId>mkd002</ExternalId>
+    <Category>freeAppointmentObjectRent</Category>
+    <Address>Москва, ул. Енисейская, 16/21</Address>
+    <TotalArea>79.0</TotalArea>
+    <FloorNumber>-1</FloorNumber>
+    <Building>
+      <FloorsCount>1</FloorsCount>
+    </Building>
+    <Description>Помещение 79 м² в Москве, улица Енисейская — цокольный этаж с санузлом, в аренду.
+
+Санузел уже сделан, заезжать можно сразу, без мокрых работ и переделок.
+
+Кому подходит: студии звукозаписи или танцев, мастерской, складу интернет-магазина, кабинетам услуг по записи, тихому офису без потока посетителей.
+
+70 000 ₽/мес — 886 ₽ за метр в месяц, для Москвы это заметно ниже средней ставки по помещениям такого класса. Договор с юридическим лицом.
+
+Помещение также продаётся за 10 500 000 ₽ — если аренда нужна как первый шаг, обсудим зачёт платежей в цену покупки.</Description>
+    <BargainTerms>
+      <Price>70000</Price>
+      <Currency>rur</Currency>
+      <PriceType>all</PriceType>
+      <VatType>usn</VatType>
+    </BargainTerms>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>9858332439</Number>
+      </PhoneSchema>
+    </Phones>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/02.jpg?v=2</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/00.jpg?v=2</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/01.jpg?v=2</FullUrl>
+      </PhotoSchema>
+    </Photos>
+  </object>
 </feed>
