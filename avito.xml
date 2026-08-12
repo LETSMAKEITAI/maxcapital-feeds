@@ -8,6 +8,8 @@
     <TransactionType>Продажа</TransactionType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Новосибирск, ул. 25 лет Октября, 9</Address>
+    <Latitude>55.0719250</Latitude>
+    <Longitude>82.9656049</Longitude>
     <Title>Апартаменты на первом высоком этаже две комнаты - 27 м² с санузлом - под офис или проживание</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Полноценные апартаменты с туалетом прямо на первом этаже с большим окном - уникальная возможность! Два смежных помещения с санузлом, 27,1 м², на 1 этаже — Новосибирск, ул. 25 лет Октября, 9 (Дзержинский район, м. «Берёзовая Роща»), прямо от входа в подъезд, тёплый дом.
@@ -50,6 +52,8 @@
     <TransactionType>Продажа</TransactionType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Новосибирск, ул. 25 лет Октября, 9</Address>
+    <Latitude>55.0719250</Latitude>
+    <Longitude>82.9656049</Longitude>
     <Title>Цокольное помещение 6,5 м² - удобный отдельный вход - под склад, кладовую или хранение</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Цокольное помещение 6,5 м² с отдельным входом — 25 лет Октября, 9. Продажа.
@@ -98,6 +102,8 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Новосибирск, ул. Кирова, 152, Октябрьский р-н</Address>
+    <Latitude>55.0039798</Latitude>
+    <Longitude>82.9748652</Longitude>
     <Title>Асфальтированная площадка 1222 м² под автомойку, стоянку или склад техники с двумя вьездами с Кирова на первой линии</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Асфальтированная площадка 1 222 м² в Новосибирске, Кирова 162 — под открытое хранение техники, автомобилей и оборудования.
@@ -141,6 +147,8 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Новосибирск, ул. Некрасова, 48</Address>
+    <Latitude>55.0454996</Latitude>
+    <Longitude>82.9270206</Longitude>
     <Title>Офис 39,6 м² на 10 этаже БЦ — с видом на город и удобными условиями для работы</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Офис 39,6 м² в бизнес-центре на Некрасова, 48 — Новосибирск, центр.
@@ -183,6 +191,8 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Купино, ул. Советов, 80А</Address>
+    <Latitude>54.3630213</Latitude>
+    <Longitude>77.2935593</Longitude>
     <Title>Торговые площади на главной площади — под кафе или магазин</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Первый этаж здания гостиницы «МАКСРУМС Сибирь» на центральной площади Купино (ул. Советов, 80А): торговые площади с отдельным входом с улицы + просторный холл под кафе/кофейню. Центральная площадь города — максимальный пешеходный трафик, рядом администрация, полиция, банки, Дом культуры; огромная бесплатная парковка прямо перед зданием. Также в здании: комнаты под офис на 2 этаже и комнаты для проживания на 3 этаже. Половину здания занимает гостиница «МАКСРУМС Сибирь» — дополнительный постоянный поток гостей мимо витрин. Напрямую от собственника.
@@ -226,6 +236,8 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Здвинск, ул. Карла Маркса, 11</Address>
+    <Latitude>54.7004642</Latitude>
+    <Longitude>78.6595087</Longitude>
     <Title>Помещение в центре Здвинска — под магазин, бар или сервис с удобной большой парковкой</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Помещение с отдельным входом ~50 м² + подвал 26 м² — Здвинск (Новосибирская обл.), ул. Карла Маркса, 11, центр села, в здании гостиницы «Отель Сибирия Инн» (сеть MAXROOMS, действующий отель работает в этом же здании).
@@ -282,6 +294,8 @@
     <TransactionType>Продажа</TransactionType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>г. Жирновск, ул. Ломоносова, 54</Address>
+    <Latitude>50.9757641</Latitude>
+    <Longitude>44.7777224</Longitude>
     <Title>Здание 1123 м² под отель, медицинский центр, торговые офисы — центр Жирновска первая линия</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Отдельно стоящее 3-этажное здание 1123 м² в самом центре Жирновска — над отделением Почты России, на ул. Ломоносова, 54. 2-й этаж и цоколь — с ремонтом, тёплые, часть кабинетов уже сдаётся малому бизнесу — действующий денежный поток с первого дня владения. 3-й этаж — черновая отделка (бетон), апсайд под гостиницу, апартаменты или доп. офисы.
@@ -326,6 +340,8 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>г. Жирновск, ул. Ломоносова, 54</Address>
+    <Latitude>50.9757641</Latitude>
+    <Longitude>44.7777224</Longitude>
     <Title>Кабинеты под офисы или апартаменты — центр Жирновска</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Аренда в здании в центре Жирновска (ул. Ломоносова, 54): от кабинета до этажа/здания целиком. Кабинеты 2-го этажа и цоколя — от 20 м², готовы к въезду, с ремонтом и санузлами — от 10 000 ₽/мес за кабинет, подходит малому бизнесу. Этаж или здание целиком — для якорного арендатора (сеть, клиника, гостиничный оператор, производство/склад)
@@ -375,6 +391,8 @@
     <TransactionType>Продажа</TransactionType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Новоуральск, ул. М. Горького, 2а</Address>
+    <Latitude>57.2583571</Latitude>
+    <Longitude>60.1094424</Longitude>
     <Title>Здание под гостиницу, частную клинику или спортцентр, 861 м²</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Отдельно стоящее здание 861 м² в Новоуральске — под гостиницу, клинику, спортивный центр или образовательный проект.
@@ -422,6 +440,8 @@
     <TransactionType>Продажа</TransactionType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Новоуральск, ул. Л. Толстого, 8а</Address>
+    <Latitude>57.2389733</Latitude>
+    <Longitude>60.0852822</Longitude>
     <Title>Здание под хостел, клинику или спортивный центр, 943 м²</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Отдельно стоящее здание 943 м² в центре Новоуральска — под хостел, клинику, спортивный или учебный центр, торговлю.
@@ -466,6 +486,8 @@
     <TransactionType>Продажа</TransactionType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Ивановская область, Плес, улица Никанорка</Address>
+    <Latitude>57.4591870</Latitude>
+    <Longitude>41.5113530</Longitude>
     <Title>Действующий отель на Волге у Плёса, 29 номеров, 1205 м²</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Действующий отель на Волге рядом с Плёсом — 29 номеров, 1 205 м², продаётся целиком.
@@ -513,6 +535,8 @@
     <TransactionType>Продажа</TransactionType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Ивановская обл., г. Приволжск, ул. Малая Московская, 37Б</Address>
+    <Latitude>57.3867219</Latitude>
+    <Longitude>41.2877925</Longitude>
     <Title>Здание под производство, склад или швейный цех — с участком</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Здание 1 095 м² с земельным участком в Приволжске, Ивановская область — под производство, склад или лёгкую промышленность.
@@ -557,6 +581,8 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Ивановская обл., г. Пучеж, ул. Заводская, 3</Address>
+    <Latitude>56.9721346</Latitude>
+    <Longitude>43.1706229</Longitude>
     <Title>Здание 832 м² на Волге — под гостиницу или базу отдыха</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Отдельное здание 1000 м² на берегу Волги — г. Пучеж (Ивановская обл.), ул. Заводская, 3, участок 832 м²
@@ -605,6 +631,8 @@
     <TransactionType>Продажа</TransactionType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Ивановская обл., г. Пучеж, ул. Заводская, 3</Address>
+    <Latitude>56.9721346</Latitude>
+    <Longitude>43.1706229</Longitude>
     <Title>Здание 832 м² на Волге — под усадьбу или гостиницу</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Здание 832 м² в Пучеже на Волге, Ивановская область — под гостиницу, базу отдыха, усадьбу или загородный проект.
@@ -652,6 +680,8 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Москва, 1-й Хорошёвский проезд, 14к2</Address>
+    <Latitude>55.7751047</Latitude>
+    <Longitude>37.5445036</Longitude>
     <Title>Помещение с отдельным входом у метро — под офис или шоурум</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Помещение свободного назначения 128 м² в аренду — Москва, 1-й Хорошёвский проезд, 14к2
@@ -700,6 +730,8 @@
     <TransactionType>Продажа</TransactionType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Москва, ул. Енисейская, 16/21</Address>
+    <Latitude>55.8641690</Latitude>
+    <Longitude>37.6623119</Longitude>
     <Title>Готовая квартира-цоколь 79 м² с санузлом — под апартаменты или офис</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Готовое помещение 79 м² в Москве, улица Енисейская — цокольный этаж с санузлом, под апартаменты, студию или тихий бизнес без потока посетителей.
@@ -741,6 +773,8 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Москва, Шмитовский проезд, 17</Address>
+    <Latitude>55.7573566</Latitude>
+    <Longitude>37.5486015</Longitude>
     <Title>Помещение 287 м² под шоурум, офис или коворкинг на первой линии — Шмитовский проезд</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Свободного назначения 287 м² — в одной из самых растущих локаций центра Москвы.
@@ -792,6 +826,8 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Москва, Бронницкий пер., 2</Address>
+    <Latitude>55.7301235</Latitude>
+    <Longitude>37.7513227</Longitude>
     <Title>Тёплый кабинет с окном — под студию услуг или мини-офис</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Тёплый кабинет 25 м² с окном в Бронницком переулке — Москва, центр.
@@ -839,6 +875,8 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Москва, Рочдельская, 11/5</Address>
+    <Latitude>55.7561961</Latitude>
+    <Longitude>37.5708632</Longitude>
     <Title>VIP-офис или частная резиденция 192 м² у Дома Правительства РФ</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>VIP-офис/ПСН 192 м² — Москва, ул. Рочдельская, 11с5, цоколь (м. «Улица 1905 года», ~10–12 мин пешком)
@@ -886,6 +924,8 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Ивановская область, Плес, улица Никанорка</Address>
+    <Latitude>57.4591870</Latitude>
+    <Longitude>41.5113530</Longitude>
     <Title>Действующий отель на Волге у Плёса, 29 номеров — передача в управление</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Действующий отель «МАКСРУМС Отель Левитана под Плёсом» — с. Новое, Ивановская обл. (Плёсский р-н), микрорайон Дружба, 12, рядом Плёс на Волге. Бренд MAXROOMS, рейтинг 4.4 на Google.
@@ -932,6 +972,8 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Новоуральск, ул. М. Горького, 2а</Address>
+    <Latitude>57.2583571</Latitude>
+    <Longitude>60.1094424</Longitude>
     <Title>Здание 861 м² в аренду — под клуб, склад, производство или учебный центр</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Отдельно стоящее здание 861 м² в Новоуральске — в аренду целиком или частями.
@@ -978,6 +1020,8 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Новоуральск, ул. Л. Толстого, 8а</Address>
+    <Latitude>57.2389733</Latitude>
+    <Longitude>60.0852822</Longitude>
     <Title>Здание 943 м² в центре Новоуральска в аренду — целиком или блоками</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Отдельно стоящее здание 943 м² в центре Новоуральска — в аренду целиком или блоками.
@@ -1023,6 +1067,8 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Ивановская обл., г. Приволжск, ул. Малая Московская, 37Б</Address>
+    <Latitude>57.3867219</Latitude>
+    <Longitude>41.2877925</Longitude>
     <Title>Здание 1 095 м² с участком в аренду — производство, склад, швейный цех</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Здание 1 095 м² с земельным участком в Приволжске — в аренду под производство, склад или цех.
@@ -1065,6 +1111,8 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Москва, ул. Енисейская, 16/21</Address>
+    <Latitude>55.8641690</Latitude>
+    <Longitude>37.6623119</Longitude>
     <Title>Помещение 79 м² с санузлом в аренду — студия, мастерская, тихий офис</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Помещение 79 м² в Москве, улица Енисейская — цокольный этаж с санузлом, в аренду.
@@ -1104,6 +1152,8 @@
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Новосибирск, ул. 25 лет Октября, 9</Address>
+    <Latitude>55.0719250</Latitude>
+    <Longitude>82.9656049</Longitude>
     <Title>Цокольное помещение 6,5 м² с отдельным входом — под ПВЗ, кладовую, мастерскую</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Цокольное помещение 6,5 м² с отдельным входом — 25 лет Октября, 9. В аренду.
