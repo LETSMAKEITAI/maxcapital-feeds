@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-08-17T06:30:00+03:00</generation-date>
+  <generation-date>2026-08-18T06:30:00+03:00</generation-date>
   <offer internal-id="mk107s">
     <type>продажа</type>
     <property-type>commercial</property-type>
@@ -100,12 +100,10 @@
     <type>аренда</type>
     <property-type>commercial</property-type>
     <category>commercial</category>
-    <commercial-type>free purpose</commercial-type>
+    <commercial-type>retail</commercial-type>
     <location>
       <country>Россия</country>
-      <address>Новосибирск, ул. Кирова, 152, Октябрьский р-н</address>
-      <latitude>55.0039798</latitude>
-      <longitude>82.9748652</longitude>
+      <address>110 Кирова 152</address>
     </location>
     <price>
       <value>120000</value>
@@ -118,29 +116,29 @@
     </area>
     <floor>1</floor>
     <floors-total>1</floors-total>
-    <description>Асфальтированная площадка 1 222 м² в Новосибирске, Кирова 162 — под открытое хранение техники, автомобилей и оборудования.
+    <description>Асфальтированная площадка на первой линии ул. Кирова в Новосибирске. Сдаём МЕСТО под ваш объект: павильон, киоск, пункт выдачи, кофейню, мойку самообслуживания. Ставите своё оборудование — платите только за место.
 
-Готовая ровная площадка с твёрдым покрытием: заезжать можно сразу, ничего не надо отсыпать, выравнивать и ждать сезона. Площадь позволяет держать одновременно несколько единиц крупной техники и при этом разъезжаться.
+Свой заезд с Кирова и место под парковку клиентов: точка работает и на пеший, и на автомобильный трафик, а не только на прохожих.
 
-Кому подходит: транспортным и строительным компаниям под стоянку техники, автобизнесу — площадка под разбор, хранение или отстой машин, продавцам крупногабарита, сезонному хранению.
+Участок с видом разрешённого использования «магазины» и «коммунальное обслуживание, стоянки», кадастровый номер 54:35:074505:292. Торговый объект здесь законен по документам — у арендатора не будет спора с администрацией о нецелевом использовании. На часть участка подготовлена межевая схема с координатами границ, поэтому договор на место оформляется официально.
 
-Ставка 120 000 ₽/мес за всю площадку — 98 ₽ за метр в месяц. Для участка с твёрдым покрытием в черте города это дёшево: обычно платят за землю, которую ещё нужно готовить.
+Формат отработан: на площадке уже стоит павильон действующего арендатора.
 
-Договор с юридическим лицом, возможен длинный срок. Готовы обсудить условия под ваш объём и график заезда.
+• Адрес: Новосибирск, ул. Кирова, 152
+• Сдаётся дальняя часть площадки, ближняя занята
+• Место под павильон 15–20 м² со своим заездом — 50 000 ₽/мес
+• Твёрдое асфальтовое покрытие, два въезда прямо с Кирова
+• Первая линия, жилые дома и офисы рядом
+• Электричество — по счётчику, отдельно
+• Напрямую от собственника, без комиссии. Договор в день обращения
 
-Покажем площадку в любой рабочий день.</description>
+Покажем на месте и подскажем, какая точка лучше под ваш формат: под мойку удобнее размещение вдоль забора, под торговлю — ближе к заезду.</description>
     <sales-agent>
       <name>Отдел аренды MAXCAPITAL</name>
       <phone>+7 985 833 2439</phone>
       <organization>MAXCAPITAL</organization>
       <category>agency</category>
     </sales-agent>
-    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/03.jpg</image>
-    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/04.jpg</image>
-    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/05.jpg</image>
-    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/00.jpg</image>
-    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/01.jpg</image>
-    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kirova/02.jpg</image>
   </offer>
   <offer internal-id="mk111">
     <type>аренда</type>
