@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-08-27T06:30:01+03:00</generation-date>
+  <generation-date>2026-08-28T16:10:31+03:00</generation-date>
   <offer internal-id="mk107s">
     <type>продажа</type>
     <property-type>commercial</property-type>
@@ -1238,5 +1238,485 @@
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/sadovaya/02.jpg</image>
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/sadovaya/03.jpg</image>
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/sadovaya/04.jpg</image>
+  </offer>
+  <offer internal-id="mk207d1">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>free purpose</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>207.1 Новоуральск Толстого 8А — блок 75 м² (групповой, 1 эт)</address>
+    </location>
+    <price>
+      <value>18775</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>75.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>1</floor>
+    <floors-total>1</floors-total>
+    <description>Блок 75,1 м² на 1 этаже: зал 49,6 м², приёмная 13,7 м², санузел. 250–350 м до ул. Ленина, рядом гимназия №41, детсады, Монетка, Пятёрочка, три остановки. Отопление от ТЭЦ, вода, канализация, ГВС.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+  </offer>
+  <offer internal-id="mk207d2">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>free purpose</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>207.2 Новоуральск Толстого 8А — зал 69 м² (музыкальный, 2 эт)</address>
+    </location>
+    <price>
+      <value>12438</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>69.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>1</floor>
+    <floors-total>1</floors-total>
+    <description>Блок 69,1 м²: зал 58,9 м² без внутренних перегородок, кабинет 7,5 м². Бывший музыкальный зал детского сада. Рядом гимназия №41, Станция юных техников, Центр внешкольной работы, театр.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+  </offer>
+  <offer internal-id="mk207d3">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>free purpose</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>207.3 Новоуральск Толстого 8А — блок 77 м² (групповой, 2 эт)</address>
+    </location>
+    <price>
+      <value>13986</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>77.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>1</floor>
+    <floors-total>1</floors-total>
+    <description>Блок 77,7 м² на 2 этаже: зал 49,5 м², приёмная 16,6 м², санузел. Центр города, плотная жилая застройка, три остановки в 300–400 м, дворовая парковка.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+  </offer>
+  <offer internal-id="mk207d4">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>free purpose</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>207.4 Новоуральск Толстого 8А — кабинет 38 м²</address>
+    </location>
+    <price>
+      <value>6894</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>38.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>1</floor>
+    <floors-total>1</floors-total>
+    <description>Помещение 37,7 м²: комната 23,9 м² и подсобное 13,8 м² с подводкой воды. Центр Новоуральска, 250–350 м до ул. Ленина.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+  </offer>
+  <offer internal-id="mk207d5">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>office</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>207.5 Новоуральск Толстого 8А — кабинет 44 м² (офисный)</address>
+    </location>
+    <price>
+      <value>10875</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>44.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>1</floor>
+    <floors-total>1</floors-total>
+    <description>Блок 43,5 м² из четырёх смежных кабинетов 7,5–10,6 м². Отопление от ТЭЦ, санузлы на этаже, парковка во дворе.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+  </offer>
+  <offer internal-id="mk207d7">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>free purpose</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>207.7 Новоуральск Толстого 8А — кухонный блок 32 м²</address>
+    </location>
+    <price>
+      <value>8025</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>32.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>1</floor>
+    <floors-total>1</floors-total>
+    <description>Блок 32,1 м²: кухня 20,4 м² с подводкой воды и канализации, кладовая 6,5 м². Готовая инженерия под пищевое производство.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+  </offer>
+  <offer internal-id="mk205dк">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>free purpose</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>г. Жирновск, ул. Ломоносова, 54</address>
+      <latitude>50.9757641</latitude>
+      <longitude>44.7777224</longitude>
+    </location>
+    <price>
+      <value>7800</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>13.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>1</floor>
+    <floors-total>3</floors-total>
+    <description>Кабинет с ремонтом и санузлом на этаже, 2 этаж или цоколь. Центр города, ул. Ломоносова, 54. Свободно 12 таких кабинетов.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/07.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/08.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/09.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/00.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/01.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/02.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/03.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/04.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/05.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/06.jpg?v=2</image>
+  </offer>
+  <offer internal-id="mk205dк">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>free purpose</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>г. Жирновск, ул. Ломоносова, 54</address>
+      <latitude>50.9757641</latitude>
+      <longitude>44.7777224</longitude>
+    </location>
+    <price>
+      <value>10000</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>20.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>1</floor>
+    <floors-total>3</floors-total>
+    <description>Готовый кабинет с ремонтом и санузлом. Под офис, ПВЗ, услуги. Свободно 18 таких помещений — можно взять смежные.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/07.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/08.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/09.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/00.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/01.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/02.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/03.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/04.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/05.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/06.jpg?v=2</image>
+  </offer>
+  <offer internal-id="mk205dк">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>free purpose</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>г. Жирновск, ул. Ломоносова, 54</address>
+      <latitude>50.9757641</latitude>
+      <longitude>44.7777224</longitude>
+    </location>
+    <price>
+      <value>13500</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>30.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>1</floor>
+    <floors-total>3</floors-total>
+    <description>Помещение под офис на 3–4 рабочих места, студию или учебный класс. Отопление, вода, канализация, электричество.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/07.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/08.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/09.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/00.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/01.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/02.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/03.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/04.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/05.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/06.jpg?v=2</image>
+  </offer>
+  <offer internal-id="mk205dк">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>free purpose</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>г. Жирновск, ул. Ломоносова, 54</address>
+      <latitude>50.9757641</latitude>
+      <longitude>44.7777224</longitude>
+    </location>
+    <price>
+      <value>20000</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>50.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>1</floor>
+    <floors-total>3</floors-total>
+    <description>Свободная планировка, центр города. Подходит под торговую точку, зал или коворкинг.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/07.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/08.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/09.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/00.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/01.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/02.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/03.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/04.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/05.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/06.jpg?v=2</image>
+  </offer>
+  <offer internal-id="mk205dк">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>free purpose</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>г. Жирновск, ул. Ломоносова, 54</address>
+      <latitude>50.9757641</latitude>
+      <longitude>44.7777224</longitude>
+    </location>
+    <price>
+      <value>36400</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>104.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>1</floor>
+    <floors-total>3</floors-total>
+    <description>Самое крупное свободное помещение здания. Отопление, вода, канализация, электричество.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/07.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/08.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/09.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/00.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/01.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/02.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/03.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/04.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/05.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/06.jpg?v=2</image>
+  </offer>
+  <offer internal-id="mk203da">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>free purpose</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>203.а Рыбинск Переборы — помещение 71 м²</address>
+    </location>
+    <price>
+      <value>28000</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>71.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>1</floor>
+    <floors-total>1</floors-total>
+    <description>Отдельное помещение 71 м² в здании в Переборах. Отопление, вода, канализация, электричество.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+  </offer>
+  <offer internal-id="mk203db">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>free purpose</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>203.б Рыбинск Переборы — помещение 35 м²</address>
+    </location>
+    <price>
+      <value>14000</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>35.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>1</floor>
+    <floors-total>1</floors-total>
+    <description>Помещение 35 м² с отдельным входом в здании. Инженерные системы в рабочем состоянии.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+  </offer>
+  <offer internal-id="mk203dv">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>free purpose</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>203.в Рыбинск Переборы — кабинет до 20 м²</address>
+    </location>
+    <price>
+      <value>5000</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>13.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>1</floor>
+    <floors-total>1</floors-total>
+    <description>Кабинет под рабочее место, мастера или агента. Свободно шесть таких помещений, можно смежные.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+  </offer>
+  <offer internal-id="mk204da">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>free purpose</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>204.а Рыбинск Строительная 3 — помещение 24 м²</address>
+    </location>
+    <price>
+      <value>8000</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>24.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>1</floor>
+    <floors-total>1</floors-total>
+    <description>Помещение 24 м² в здании на ул. Строительной, 3. Свободно ещё три помещения от 10 до 24 м².</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
   </offer>
 </realty-feed>
