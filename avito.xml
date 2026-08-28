@@ -1277,6 +1277,45 @@
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
   </Ad>
   <Ad>
+    <Id>mk204</Id>
+    <ListingFee>PackageSingle</ListingFee>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Сдам</OperationType>
+    <PropertyRights>Собственник</PropertyRights>
+    <Address>204 Строительная</Address>
+    <Title>Помещение 123,9 м² под склад и производство — 1 этаж, отдельный вход, 202 ₽/м²</Title>
+    <ObjectType>Помещение свободного назначения</ObjectType>
+    <Description>Помещение 123,9 м² на первом этаже — Рыбинск, Переборы, Строительная 3 / Инженерная 7. Отдельный вход с улицы, десять комнат, потолки 3 метра. Сдаём целиком или частями.
+
+Помещение требует отделки: до этого здесь работал пункт выдачи заказов, после залива нужен ремонт стен, полов и дверных блоков. Поэтому ставка вдвое ниже, чем у соседних помещений в Переборах. Готовы обсудить ремонт под ваш формат.
+
+По техпаспорту назначение — торговое, складское, бытовое обслуживание. Подходит под склад, пункт выдачи, мастерскую, производство, магазин.
+
+• Площадь 123,9 м², первый этаж, 10 помещений
+• Потолки 3 метра, отдельный вход
+• Кирпичное здание 1982 года, износ по техпаспорту 21 %
+• Отопление от котельной, вода, канализация, горячее водоснабжение и газ — централизованные
+• Приточно-вытяжная вентиляция
+• 25 000 ₽/мес за всё помещение — это 202 ₽/м²
+• Напрямую от собственника, без комиссии
+
+Покажем в удобное время. Звоните — согласуем показ и условия.</Description>
+    <Price>25000</Price>
+    <Square>124.0</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>На улице</ParkingType>
+    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
+    <Decoration>Чистовая</Decoration>
+    <RentalType>Прямая</RentalType>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
+    <ContactPhone>+7 985 833 2439</ContactPhone>
+    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+  </Ad>
+  <Ad>
     <Id>mk207d1</Id>
     <ListingFee>PackageSingle</ListingFee>
     <Category>Коммерческая недвижимость</Category>
