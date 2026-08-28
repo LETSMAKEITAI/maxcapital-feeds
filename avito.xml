@@ -1236,6 +1236,47 @@
     </Images>
   </Ad>
   <Ad>
+    <Id>mk203</Id>
+    <ListingFee>PackageSingle</ListingFee>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Сдам</OperationType>
+    <PropertyRights>Собственник</PropertyRights>
+    <Address>203 Рыбинск, Переборы</Address>
+    <Title>СПА-этаж целиком в гостинице — семь кабинетов и готовый поток гостей</Title>
+    <ObjectType>Помещение свободного назначения</ObjectType>
+    <Description>СПА-этаж целиком в действующей гостинице — Рыбинск, Переборы. 73 м², семь отдельных кабинетов 9–17 м² на одном этаже.
+
+Готовый салонный этаж, а не пустые стены: три кабинета уже занимают мастера, которые здесь работают и платят. Новому оператору они достаются вместе с этажом — доход идёт с первого месяца, пока набираются остальные кабинеты.
+
+Кому подходит: салон красоты, СПА-оператор, массажный кабинет, косметология, барбершоп, студия маникюра, мастер с командой.
+
+Почему здесь идёт запись: гостиница работает круглый год, гости живут прямо над кабинетами, а в Переборах салон такого формата один. Поток не нужно покупать рекламой — он в здании.
+
+Условия:
+• этаж целиком, 73 м², семь кабинетов — 70 000 ₽/мес;
+• отдельный кабинет 9–11 м² — 10 000 ₽/мес, если этаж целиком пока много;
+• отопление, вода, электричество — круглый год, здание жилое и работающее;
+• напрямую от собственника, без комиссии.
+
+Под длинный договор условия обсуждаем — скажите, на какой срок смотрите.
+
+Покажем в удобное время.</Description>
+    <Price>70000</Price>
+    <Square>73.0</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>На улице</ParkingType>
+    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
+    <Decoration>Чистовая</Decoration>
+    <RentalType>Прямая</RentalType>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
+    <ContactPhone>+7 985 833 2439</ContactPhone>
+    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+  </Ad>
+  <Ad>
     <Id>mk207d1</Id>
     <ListingFee>PackageSingle</ListingFee>
     <Category>Коммерческая недвижимость</Category>
@@ -1697,6 +1738,41 @@
     <Description>Помещение 24 м² в здании на ул. Строительной, 3. Свободно ещё три помещения от 10 до 24 м².</Description>
     <Price>8000</Price>
     <Square>24.0</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>На улице</ParkingType>
+    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
+    <Decoration>Чистовая</Decoration>
+    <RentalType>Прямая</RentalType>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
+    <ContactPhone>+7 985 833 2439</ContactPhone>
+    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+  </Ad>
+  <Ad>
+    <Id>mk203d11</Id>
+    <ListingFee>PackageSingle</ListingFee>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Сдам</OperationType>
+    <PropertyRights>Собственник</PropertyRights>
+    <Address>203.11 Рыбинск, цоколь 371,9 м² — СПА-центр с сауной (50 лет Октября, 32а)</Address>
+    <Title>Целый этаж с готовой сауной под СПА-центр — 371,9 м² в здании гостиницы</Title>
+    <ObjectType>Помещение свободного назначения</ObjectType>
+    <Description>Цокольный этаж 371,9 м² под СПА-центр — Рыбинск, пр-кт 50 лет Октября, 32а
+
+Целый этаж в здании действующей гостиницы: 371,9 м² общей площади, 322,4 м² помещений. В здании есть сауна — она входит в состав того, что передаётся арендатору. Заглубление цоколя всего 0,5 м по техпаспорту, это не подвал.
+
+• Площадь: 371,9 м² (помещений 322,4 м²), техпаспорт БТИ от 07.02.2025
+• Назначение: только СПА-центр — этаж сдаётся целиком, вместе с сауной
+• Часть кабинетов сейчас занята парикмахерскими — состав уточняется при показе
+• 145 000 ₽/мес, коммунальные платежи оплачивает арендатор
+• Напрямую от собственника, без комиссии. Договор в день обращения
+
+Покажем в удобное время. Звоните — согласуем показ и условия.</Description>
+    <Price>145000</Price>
+    <Square>371.9</Square>
     <Entrance>С улицы</Entrance>
     <Floor>1</Floor>
     <Heating>Центральное</Heating>

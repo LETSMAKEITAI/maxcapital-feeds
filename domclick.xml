@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-08-28T16:13:36+03:00</generation-date>
+  <generation-date>2026-08-28T16:16:47+03:00</generation-date>
   <offer internal-id="mk107s">
     <type>продажа</type>
     <property-type>commercial</property-type>
@@ -1239,6 +1239,50 @@
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/sadovaya/03.jpg</image>
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/sadovaya/04.jpg</image>
   </offer>
+  <offer internal-id="mk203">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>hotel</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>203 Рыбинск, Переборы</address>
+    </location>
+    <price>
+      <value>70000</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>73.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>1</floor>
+    <floors-total>1</floors-total>
+    <description>СПА-этаж целиком в действующей гостинице — Рыбинск, Переборы. 73 м², семь отдельных кабинетов 9–17 м² на одном этаже.
+
+Готовый салонный этаж, а не пустые стены: три кабинета уже занимают мастера, которые здесь работают и платят. Новому оператору они достаются вместе с этажом — доход идёт с первого месяца, пока набираются остальные кабинеты.
+
+Кому подходит: салон красоты, СПА-оператор, массажный кабинет, косметология, барбершоп, студия маникюра, мастер с командой.
+
+Почему здесь идёт запись: гостиница работает круглый год, гости живут прямо над кабинетами, а в Переборах салон такого формата один. Поток не нужно покупать рекламой — он в здании.
+
+Условия:
+• этаж целиком, 73 м², семь кабинетов — 70 000 ₽/мес;
+• отдельный кабинет 9–11 м² — 10 000 ₽/мес, если этаж целиком пока много;
+• отопление, вода, электричество — круглый год, здание жилое и работающее;
+• напрямую от собственника, без комиссии.
+
+Под длинный договор условия обсуждаем — скажите, на какой срок смотрите.
+
+Покажем в удобное время.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+  </offer>
   <offer internal-id="mk207d1">
     <type>аренда</type>
     <property-type>commercial</property-type>
@@ -1740,6 +1784,44 @@
     <floor>1</floor>
     <floors-total>1</floors-total>
     <description>Помещение 24 м² в здании на ул. Строительной, 3. Свободно ещё три помещения от 10 до 24 м².</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+  </offer>
+  <offer internal-id="mk203d11">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>hotel</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>203.11 Рыбинск, цоколь 371,9 м² — СПА-центр с сауной (50 лет Октября, 32а)</address>
+    </location>
+    <price>
+      <value>145000</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>371.9</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>1</floor>
+    <floors-total>1</floors-total>
+    <description>Цокольный этаж 371,9 м² под СПА-центр — Рыбинск, пр-кт 50 лет Октября, 32а
+
+Целый этаж в здании действующей гостиницы: 371,9 м² общей площади, 322,4 м² помещений. В здании есть сауна — она входит в состав того, что передаётся арендатору. Заглубление цоколя всего 0,5 м по техпаспорту, это не подвал.
+
+• Площадь: 371,9 м² (помещений 322,4 м²), техпаспорт БТИ от 07.02.2025
+• Назначение: только СПА-центр — этаж сдаётся целиком, вместе с сауной
+• Часть кабинетов сейчас занята парикмахерскими — состав уточняется при показе
+• 145 000 ₽/мес, коммунальные платежи оплачивает арендатор
+• Напрямую от собственника, без комиссии. Договор в день обращения
+
+Покажем в удобное время. Звоните — согласуем показ и условия.</description>
     <sales-agent>
       <name>Отдел аренды MAXCAPITAL</name>
       <phone>+7 985 833 2439</phone>
