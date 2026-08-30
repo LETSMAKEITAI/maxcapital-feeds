@@ -1441,6 +1441,31 @@
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
   </Ad>
   <Ad>
+    <Id>mk207d6</Id>
+    <ListingFee>PackageSingle</ListingFee>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Сдам</OperationType>
+    <PropertyRights>Собственник</PropertyRights>
+    <Address>207.6 Новоуральск Толстого 8А — склад 43 м² (подвал)</Address>
+    <Title>Склад 43 м² в центре — сухой подвал с отдельным входом</Title>
+    <ObjectType>Помещение свободного назначения</ObjectType>
+    <Description>Помещение 43,7 м² в цокольном этаже: основное 36,4 м² и кладовая 7,3 м². Отопление, электричество.</Description>
+    <Price>5244</Price>
+    <Square>43.0</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>На улице</ParkingType>
+    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
+    <Decoration>Чистовая</Decoration>
+    <RentalType>Прямая</RentalType>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
+    <ContactPhone>+7 985 833 2439</ContactPhone>
+    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+  </Ad>
+  <Ad>
     <Id>mk207d7</Id>
     <ListingFee>PackageSingle</ListingFee>
     <Category>Коммерческая недвижимость</Category>
@@ -1466,7 +1491,7 @@
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
   </Ad>
   <Ad>
-    <Id>mk205dк</Id>
+    <Id>mk205dк1</Id>
     <ListingFee>PackageSingle</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
@@ -1506,7 +1531,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>mk205dк</Id>
+    <Id>mk205dк2</Id>
     <ListingFee>PackageSingle</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
@@ -1546,7 +1571,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>mk205dк</Id>
+    <Id>mk205dк3</Id>
     <ListingFee>PackageSingle</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
@@ -1586,7 +1611,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>mk205dк</Id>
+    <Id>mk205dк4</Id>
     <ListingFee>PackageSingle</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
@@ -1626,7 +1651,7 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>mk205dк</Id>
+    <Id>mk205dк5</Id>
     <ListingFee>PackageSingle</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
