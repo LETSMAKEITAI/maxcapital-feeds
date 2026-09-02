@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-09-02T15:12:47+03:00</generation-date>
+  <generation-date>2026-09-02T15:14:16+03:00</generation-date>
   <offer internal-id="mk107s">
     <type>продажа</type>
     <property-type>commercial</property-type>
@@ -105,7 +105,7 @@
     <commercial-type>retail</commercial-type>
     <location>
       <country>Россия</country>
-      <address>110 Кирова 152</address>
+      <address>Новосибирск, ул. Кирова, 152, Октябрьский р-н</address>
     </location>
     <price>
       <value>120000</value>
@@ -344,7 +344,7 @@
     <commercial-type>retail</commercial-type>
     <location>
       <country>Россия</country>
-      <address>Новоуральск, ул. Л. Толстого, 8а</address>
+      <address>Свердловская обл., Новоуральск, ул. Льва Толстого, 8а</address>
       <latitude>57.2389733</latitude>
       <longitude>60.0852822</longitude>
     </location>
@@ -913,7 +913,7 @@
     <commercial-type>free purpose</commercial-type>
     <location>
       <country>Россия</country>
-      <address>207.1 Новоуральск Толстого 8А — блок 75 м² (групповой, 1 эт)</address>
+      <address>Свердловская обл., Новоуральск, ул. Льва Толстого, 8а</address>
     </location>
     <price>
       <value>18775</value>
@@ -941,7 +941,7 @@
     <commercial-type>free purpose</commercial-type>
     <location>
       <country>Россия</country>
-      <address>207.2 Новоуральск Толстого 8А — зал 69 м² (музыкальный, 2 эт)</address>
+      <address>Свердловская обл., Новоуральск, ул. Льва Толстого, 8а</address>
     </location>
     <price>
       <value>12438</value>
@@ -969,7 +969,7 @@
     <commercial-type>free purpose</commercial-type>
     <location>
       <country>Россия</country>
-      <address>207.3 Новоуральск Толстого 8А — блок 77 м² (групповой, 2 эт)</address>
+      <address>Свердловская обл., Новоуральск, ул. Льва Толстого, 8а</address>
     </location>
     <price>
       <value>13986</value>
@@ -997,7 +997,7 @@
     <commercial-type>free purpose</commercial-type>
     <location>
       <country>Россия</country>
-      <address>207.4 Новоуральск Толстого 8А — кабинет 38 м²</address>
+      <address>Свердловская обл., Новоуральск, ул. Льва Толстого, 8а</address>
     </location>
     <price>
       <value>6894</value>
@@ -1025,7 +1025,7 @@
     <commercial-type>office</commercial-type>
     <location>
       <country>Россия</country>
-      <address>207.5 Новоуральск Толстого 8А — кабинет 44 м² (офисный)</address>
+      <address>Свердловская обл., Новоуральск, ул. Льва Толстого, 8а</address>
     </location>
     <price>
       <value>10875</value>
@@ -1053,7 +1053,7 @@
     <commercial-type>warehouse</commercial-type>
     <location>
       <country>Россия</country>
-      <address>207.6 Новоуральск Толстого 8А — склад 43 м² (подвал)</address>
+      <address>Свердловская обл., Новоуральск, ул. Льва Толстого, 8а</address>
     </location>
     <price>
       <value>5244</value>
@@ -1081,7 +1081,7 @@
     <commercial-type>free purpose</commercial-type>
     <location>
       <country>Россия</country>
-      <address>207.7 Новоуральск Толстого 8А — кухонный блок 32 м²</address>
+      <address>Свердловская обл., Новоуральск, ул. Льва Толстого, 8а</address>
     </location>
     <price>
       <value>8025</value>
