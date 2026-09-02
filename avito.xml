@@ -903,47 +903,6 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>mk203</Id>
-    <ListingFee>PackageSingle</ListingFee>
-    <Category>Коммерческая недвижимость</Category>
-    <OperationType>Сдам</OperationType>
-    <PropertyRights>Собственник</PropertyRights>
-    <Address>203 Рыбинск, Переборы</Address>
-    <Title>СПА-этаж целиком в гостинице — семь кабинетов и готовый поток гостей</Title>
-    <ObjectType>Помещение свободного назначения</ObjectType>
-    <Description>СПА-этаж целиком в действующей гостинице — Рыбинск, Переборы. 73 м², семь отдельных кабинетов 9–17 м² на одном этаже.
-
-Готовый салонный этаж, а не пустые стены: три кабинета уже занимают мастера, которые здесь работают и платят. Новому оператору они достаются вместе с этажом — доход идёт с первого месяца, пока набираются остальные кабинеты.
-
-Кому подходит: салон красоты, СПА-оператор, массажный кабинет, косметология, барбершоп, студия маникюра, мастер с командой.
-
-Почему здесь идёт запись: гостиница работает круглый год, гости живут прямо над кабинетами, а в Переборах салон такого формата один. Поток не нужно покупать рекламой — он в здании.
-
-Условия:
-• этаж целиком, 73 м², семь кабинетов — 70 000 ₽/мес;
-• отдельный кабинет 9–11 м² — 10 000 ₽/мес, если этаж целиком пока много;
-• отопление, вода, электричество — круглый год, здание жилое и работающее;
-• напрямую от собственника, без комиссии.
-
-Под длинный договор условия обсуждаем — скажите, на какой срок смотрите.
-
-Покажем в удобное время.</Description>
-    <Price>70000</Price>
-    <Square>73.0</Square>
-    <Entrance>С улицы</Entrance>
-    <Floor>1</Floor>
-    <Heating>Центральное</Heating>
-    <BuildingType>Другой</BuildingType>
-    <ParkingType>На улице</ParkingType>
-    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
-    <Decoration>Чистовая</Decoration>
-    <RentalType>Прямая</RentalType>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <InternetCalls>Да</InternetCalls>
-    <ContactPhone>+7 985 833 2439</ContactPhone>
-    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
-  </Ad>
-  <Ad>
     <Id>mk207d1</Id>
     <ListingFee>PackageSingle</ListingFee>
     <Category>Коммерческая недвижимость</Category>
@@ -1105,81 +1064,6 @@
     <Description>Блок 32,1 м²: кухня 20,4 м² с подводкой воды и канализации, кладовая 6,5 м². Готовая инженерия под пищевое производство.</Description>
     <Price>8025</Price>
     <Square>32.0</Square>
-    <Entrance>С улицы</Entrance>
-    <Floor>1</Floor>
-    <Heating>Центральное</Heating>
-    <BuildingType>Другой</BuildingType>
-    <ParkingType>На улице</ParkingType>
-    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
-    <Decoration>Чистовая</Decoration>
-    <RentalType>Прямая</RentalType>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <InternetCalls>Да</InternetCalls>
-    <ContactPhone>+7 985 833 2439</ContactPhone>
-    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
-  </Ad>
-  <Ad>
-    <Id>mk203da</Id>
-    <ListingFee>PackageSingle</ListingFee>
-    <Category>Коммерческая недвижимость</Category>
-    <OperationType>Сдам</OperationType>
-    <PropertyRights>Собственник</PropertyRights>
-    <Address>203.а Рыбинск Переборы — помещение 71 м²</Address>
-    <Title>Помещение 71 м² в Рыбинске — под услуги, офис или магазин</Title>
-    <ObjectType>Помещение свободного назначения</ObjectType>
-    <Description>Отдельное помещение 71 м² в здании в Переборах. Отопление, вода, канализация, электричество.</Description>
-    <Price>28000</Price>
-    <Square>71.0</Square>
-    <Entrance>С улицы</Entrance>
-    <Floor>1</Floor>
-    <Heating>Центральное</Heating>
-    <BuildingType>Другой</BuildingType>
-    <ParkingType>На улице</ParkingType>
-    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
-    <Decoration>Чистовая</Decoration>
-    <RentalType>Прямая</RentalType>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <InternetCalls>Да</InternetCalls>
-    <ContactPhone>+7 985 833 2439</ContactPhone>
-    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
-  </Ad>
-  <Ad>
-    <Id>mk203db</Id>
-    <ListingFee>PackageSingle</ListingFee>
-    <Category>Коммерческая недвижимость</Category>
-    <OperationType>Сдам</OperationType>
-    <PropertyRights>Собственник</PropertyRights>
-    <Address>203.б Рыбинск Переборы — помещение 35 м²</Address>
-    <Title>Помещение 35 м² в Рыбинске — офис, кабинет услуг, ПВЗ</Title>
-    <ObjectType>Помещение свободного назначения</ObjectType>
-    <Description>Помещение 35 м² с отдельным входом в здании. Инженерные системы в рабочем состоянии.</Description>
-    <Price>14000</Price>
-    <Square>35.0</Square>
-    <Entrance>С улицы</Entrance>
-    <Floor>1</Floor>
-    <Heating>Центральное</Heating>
-    <BuildingType>Другой</BuildingType>
-    <ParkingType>На улице</ParkingType>
-    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
-    <Decoration>Чистовая</Decoration>
-    <RentalType>Прямая</RentalType>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <InternetCalls>Да</InternetCalls>
-    <ContactPhone>+7 985 833 2439</ContactPhone>
-    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
-  </Ad>
-  <Ad>
-    <Id>mk203dv</Id>
-    <ListingFee>PackageSingle</ListingFee>
-    <Category>Коммерческая недвижимость</Category>
-    <OperationType>Сдам</OperationType>
-    <PropertyRights>Собственник</PropertyRights>
-    <Address>203.в Рыбинск Переборы — кабинет до 20 м²</Address>
-    <Title>Кабинет 13 м² в Рыбинске — 5 000 ₽/мес, свободно шесть</Title>
-    <ObjectType>Помещение свободного назначения</ObjectType>
-    <Description>Кабинет под рабочее место, мастера или агента. Свободно шесть таких помещений, можно смежные.</Description>
-    <Price>5000</Price>
-    <Square>13.0</Square>
     <Entrance>С улицы</Entrance>
     <Floor>1</Floor>
     <Heating>Центральное</Heating>
