@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-09-02T14:54:18+03:00</generation-date>
+  <generation-date>2026-09-02T15:02:40+03:00</generation-date>
   <offer internal-id="mk107s">
     <type>продажа</type>
     <property-type>commercial</property-type>
@@ -1307,7 +1307,7 @@
     <commercial-type>hotel</commercial-type>
     <location>
       <country>Россия</country>
-      <address>203.11 Рыбинск, цоколь 371,9 м² — СПА-центр с сауной (50 лет Октября, 32а)</address>
+      <address>Ярославская обл., Рыбинск, проспект 50 лет Октября, 32а</address>
     </location>
     <price>
       <value>145000</value>
@@ -1331,6 +1331,34 @@
 • Напрямую от собственника, без комиссии. Договор в день обращения
 
 Покажем в удобное время. Звоните — согласуем показ и условия.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+  </offer>
+  <offer internal-id="mk203dр">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>free purpose</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>Ярославская обл., Рыбинск, проспект 50 лет Октября, 32а</address>
+    </location>
+    <price>
+      <value>75000</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>157.4</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>1</floor>
+    <floors-total>1</floors-total>
+    <description>Коммерческое помещение 157 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</description>
     <sales-agent>
       <name>Отдел аренды MAXCAPITAL</name>
       <phone>+7 985 833 2439</phone>

@@ -1263,7 +1263,7 @@
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
-    <Address>203.11 Рыбинск, цоколь 371,9 м² — СПА-центр с сауной (50 лет Октября, 32а)</Address>
+    <Address>Ярославская обл., Рыбинск, проспект 50 лет Октября, 32а</Address>
     <Title>Целый этаж с готовой сауной под СПА-центр — 371,9 м² в здании гостиницы</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Цокольный этаж 371,9 м² под СПА-центр — Рыбинск, пр-кт 50 лет Октября, 32а
@@ -1279,6 +1279,31 @@
 Покажем в удобное время. Звоните — согласуем показ и условия.</Description>
     <Price>145000</Price>
     <Square>371.9</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>На улице</ParkingType>
+    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
+    <Decoration>Чистовая</Decoration>
+    <RentalType>Прямая</RentalType>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
+    <ContactPhone>+7 985 833 2439</ContactPhone>
+    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+  </Ad>
+  <Ad>
+    <Id>mk203dр</Id>
+    <ListingFee>PackageSingle</ListingFee>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Сдам</OperationType>
+    <PropertyRights>Собственник</PropertyRights>
+    <Address>Ярославская обл., Рыбинск, проспект 50 лет Октября, 32а</Address>
+    <Title>Ресторан 157 м² с готовой кухней в отеле — зал 88 м², горячий и холодный цех, загрузочная</Title>
+    <ObjectType>Помещение свободного назначения</ObjectType>
+    <Description>Коммерческое помещение 157 м² в аренду напрямую от собственника — MAXCAPITAL — управляющая компания недвижимостью (Private Investment Office). Без комиссии и посредников, договор в день обращения. Гибкие условия по площади. Показ по договорённости.</Description>
+    <Price>75000</Price>
+    <Square>157.4</Square>
     <Entrance>С улицы</Entrance>
     <Floor>1</Floor>
     <Heating>Центральное</Heating>
