@@ -1185,5 +1185,19 @@
     <InternetCalls>Да</InternetCalls>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rybinsk-restoran/01.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rybinsk-restoran/02.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rybinsk-restoran/03.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rybinsk-restoran/04.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rybinsk-restoran/05.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rybinsk-restoran/06.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rybinsk-restoran/07.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rybinsk-restoran/08.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rybinsk-restoran/09.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rybinsk-restoran/10.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rybinsk-restoran/11.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rybinsk-restoran/00.jpg" />
+    </Images>
   </Ad>
 </Ads>
