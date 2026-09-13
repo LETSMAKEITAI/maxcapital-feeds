@@ -626,55 +626,6 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>mkd001</Id>
-    <ListingFee>PackageSingle</ListingFee>
-    <Category>Коммерческая недвижимость</Category>
-    <OperationType>Сдам</OperationType>
-    <PropertyRights>Собственник</PropertyRights>
-    <Address>Москва, 1-й Хорошёвский проезд, 14к2</Address>
-    <Latitude>55.7751047</Latitude>
-    <Longitude>37.5445036</Longitude>
-    <Title>Помещение с отдельным входом у метро — под офис или шоурум</Title>
-    <ObjectType>Помещение свободного назначения</ObjectType>
-    <Description>Помещение свободного назначения 128 м² в аренду — Москва, 1-й Хорошёвский проезд, 14к2
-
-Красивый отдельный вход с улицы — широкая просторная лестница, всего несколько ступеней спуска в цоколь, полностью изолирован от подъезда жилого дома. Внутри — качественный ремонт: ранее здесь располагалась студия музыкальных инструментов, помещение ухоженное и оборудованное. Метро «Беговая» в 2 минутах пешком, дом стоит практически напротив выхода из метро. Большая парковка во дворе. Свободная планировка — под офис, услуги, шоурум.
-
-• Площадь: 128 м²
-• Отдельный вход — широкая лестница, несколько ступеней спуска в цоколь
-• Качественный ремонт (ранее — студия музыкальных инструментов)
-• 2 минуты пешком до метро «Беговая», большая парковка во дворе
-• 235 000 ₽/мес — напрямую от собственника
-• Договор в день обращения
-
-Покажем в удобное время. Звоните — согласуем показ и условия.</Description>
-    <Price>235000</Price>
-    <Square>127.8</Square>
-    <Entrance>С улицы</Entrance>
-    <Floor>1</Floor>
-    <Heating>Центральное</Heating>
-    <BuildingType>Другой</BuildingType>
-    <ParkingType>На улице</ParkingType>
-    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
-    <Decoration>Чистовая</Decoration>
-    <RentalType>Прямая</RentalType>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <InternetCalls>Да</InternetCalls>
-    <ContactPhone>+7 985 833 2439</ContactPhone>
-    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
-    <Layout>https://realestate.maxcapital.ch/property/photos/plany/horoshevskiy.jpg</Layout>
-    <Images>
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/03.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/04.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/05.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/06.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/07.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/00.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/01.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/02.jpg?v=2" />
-    </Images>
-  </Ad>
-  <Ad>
     <Id>mkd002s</Id>
     <ListingFee>PackageSingle</ListingFee>
     <Category>Коммерческая недвижимость</Category>

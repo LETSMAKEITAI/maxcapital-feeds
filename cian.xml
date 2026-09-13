@@ -2,66 +2,6 @@
 <feed>
   <feed_version>2</feed_version>
   <object>
-    <ExternalId>mkd001</ExternalId>
-    <Category>freeAppointmentObjectRent</Category>
-    <Address>Москва, 1-й Хорошёвский проезд, 14к2</Address>
-    <TotalArea>127.8</TotalArea>
-    <FloorNumber>1</FloorNumber>
-    <Building>
-      <FloorsCount>1</FloorsCount>
-    </Building>
-    <Description>Помещение свободного назначения 128 м² в аренду — Москва, 1-й Хорошёвский проезд, 14к2
-
-Красивый отдельный вход с улицы — широкая просторная лестница, всего несколько ступеней спуска в цоколь, полностью изолирован от подъезда жилого дома. Внутри — качественный ремонт: ранее здесь располагалась студия музыкальных инструментов, помещение ухоженное и оборудованное. Метро «Беговая» в 2 минутах пешком, дом стоит практически напротив выхода из метро. Большая парковка во дворе. Свободная планировка — под офис, услуги, шоурум.
-
-• Площадь: 128 м²
-• Отдельный вход — широкая лестница, несколько ступеней спуска в цоколь
-• Качественный ремонт (ранее — студия музыкальных инструментов)
-• 2 минуты пешком до метро «Беговая», большая парковка во дворе
-• 235 000 ₽/мес — напрямую от собственника
-• Договор в день обращения
-
-Покажем в удобное время. Звоните — согласуем показ и условия.</Description>
-    <BargainTerms>
-      <Price>235000</Price>
-      <Currency>rur</Currency>
-      <PriceType>all</PriceType>
-      <VatType>usn</VatType>
-    </BargainTerms>
-    <Phones>
-      <PhoneSchema>
-        <CountryCode>+7</CountryCode>
-        <Number>9858332439</Number>
-      </PhoneSchema>
-    </Phones>
-    <Photos>
-      <PhotoSchema>
-        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/03.jpg?v=2</FullUrl>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/04.jpg?v=2</FullUrl>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/05.jpg?v=2</FullUrl>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/06.jpg?v=2</FullUrl>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/07.jpg?v=2</FullUrl>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/00.jpg?v=2</FullUrl>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/01.jpg?v=2</FullUrl>
-      </PhotoSchema>
-      <PhotoSchema>
-        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/horoshevskiy/02.jpg?v=2</FullUrl>
-      </PhotoSchema>
-    </Photos>
-  </object>
-  <object>
     <ExternalId>mkd002s</ExternalId>
     <Category>freeAppointmentObjectSale</Category>
     <Address>Москва, ул. Енисейская, 16/21</Address>
