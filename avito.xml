@@ -286,6 +286,56 @@
     </Images>
   </Ad>
   <Ad>
+    <Id>mk205</Id>
+    <ListingFee>PackageSingle</ListingFee>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Сдам</OperationType>
+    <PropertyRights>Собственник</PropertyRights>
+    <Address>г. Жирновск, ул. Ломоносова, 54</Address>
+    <Latitude>50.9757641</Latitude>
+    <Longitude>44.7777224</Longitude>
+    <Title>Кабинеты под офисы или апартаменты — центр Жирновска</Title>
+    <ObjectType>Помещение свободного назначения</ObjectType>
+    <Description>Аренда в здании в центре Жирновска (ул. Ломоносова, 54): от кабинета до этажа/здания целиком. Кабинеты 2-го этажа и цоколя — от 20 м², готовы к въезду, с ремонтом и санузлами — от 10 000 ₽/мес за кабинет, подходит малому бизнесу. Этаж или здание целиком — для якорного арендатора (сеть, клиника, гостиничный оператор, производство/склад)
+Идеально под отель: самый центр города, рядом деловая часть и администрация; вахтовики и командированные специалисты (Лукойл, РИТЭК) регулярно нуждаются в организованном размещении рядом с центром. 3-й этаж — черновая отделка, готовый чистый лист под номера. Есть эскизный дизайн-проект переоборудования под гостиницу/бизнес-центр (см. фото в галерее). Также рассматриваем формат «апартаменты» — за % от выручки, с партнёром-оператором.
+
+Отопление и электричество в порядке, заезд под кабинет/офис — сразу; для гостиницы/общепита/производства потребуется дооборудование канализации — компенсируем арендными каникулами на срок работ. Напрямую от собственника.
+
+СВОБОДНО СЕЙЧАС — 42 помещения, 1083 м² на выбор:
+• крупные блоки 104, 68, 61, 60 и 59 м² — производство, склад, спортзал, учебный центр, медцентр;
+• средние 36–41 м² — магазин, офис, салон;
+• кабинеты 20–30 м² (их больше двадцати) — от 7 500 ₽/мес, готовы к въезду, с ремонтом и санузлами.
+Здание в центре города, отопление, отдельные входы у части помещений, парковка.
+Можно взять этаж или здание целиком — обсудим ставку под ваш объём.</Description>
+    <Price>10000</Price>
+    <Square>20.0</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>На улице</ParkingType>
+    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
+    <Decoration>Чистовая</Decoration>
+    <RentalType>Прямая</RentalType>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
+    <ContactPhone>+7 985 833 2439</ContactPhone>
+    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <Layout>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/plans/205_zhirnovsk.jpg</Layout>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/01.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/02.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/03.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/04.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/05.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/06.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/07.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/08.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/09.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/zhirnovsk/00.jpg?v=2" />
+    </Images>
+  </Ad>
+  <Ad>
     <Id>mk206s</Id>
     <ListingFee>PackageSingle</ListingFee>
     <Category>Коммерческая недвижимость</Category>
