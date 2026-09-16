@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
-  <generation-date>2026-09-17T02:15:45+03:00</generation-date>
+  <generation-date>2026-09-17T02:16:37+03:00</generation-date>
   <offer internal-id="mk107s">
     <type>продажа</type>
     <property-type>commercial</property-type>
@@ -208,15 +208,11 @@
     </area>
     <floor>1</floor>
     <floors-total>3</floors-total>
-    <description>Первый этаж здания гостиницы «МАКСРУМС Сибирь» на центральной площади Купино (ул. Советов, 80А): торговые площади с отдельным входом с улицы + просторный холл под кафе/кофейню. Центральная площадь города — максимальный пешеходный трафик, рядом администрация, полиция, банки, Дом культуры; огромная бесплатная парковка прямо перед зданием. Также в здании: комнаты под офис на 2 этаже и комнаты для проживания на 3 этаже. Половину здания занимает гостиница «МАКСРУМС Сибирь» — дополнительный постоянный поток гостей мимо витрин. Напрямую от собственника.
+    <description>Торговое помещение 40 м² с отдельным входом с главной площади Купино, ул. Советов 80А, первый этаж, витринные окна, первая линия, пешеходный поток от площади и рынка.
 
-СВОБОДНО СЕЙЧАС — 41 помещение, 768 м² на выбор:
-• холл 52 м² — под кафе, пекарню, столовую (центральная площадь, поток людей весь день);
-• торговые блоки 70 и 40 м² — магазин, аптека, точка связи, ПВЗ;
-• кабинеты 32–34 м² — офис, учебный класс, салон;
-• кабинеты 11–18 м² (их больше двадцати) — парикмахер, мастер маникюра, страховой агент, нотариус, мастерская, пункт выдачи.
-Ставки от 250 ₽/м² в месяц, для длинного договора — ниже. Отопление, вода, охрана, парковка у входа, помещения готовы к въезду.
-Заезд возможен в течение недели: покажем, согласуем ставку и подпишем договор.</description>
+Подходит под магазин, кафе, пункт выдачи, аптеку, салон. Электричество и отопление есть, санузел в здании. Возможны также иные площади на первом этаже: 70 м² и холл 52 м².
+
+10 000 ₽ в месяц, договор от 11 месяцев с продлением, коммунальные сверх ставки. Показ в любой день.</description>
     <sales-agent>
       <name>Отдел аренды MAXCAPITAL</name>
       <phone>+7 985 833 2439</phone>
@@ -310,17 +306,11 @@
     </area>
     <floor>1</floor>
     <floors-total>3</floors-total>
-    <description>Аренда в здании в центре Жирновска (ул. Ломоносова, 54): от кабинета до этажа/здания целиком. Кабинеты 2-го этажа и цоколя — от 20 м², готовы к въезду, с ремонтом и санузлами — от 10 000 ₽/мес за кабинет, подходит малому бизнесу. Этаж или здание целиком — для якорного арендатора (сеть, клиника, гостиничный оператор, производство/склад)
-Идеально под отель: самый центр города, рядом деловая часть и администрация; вахтовики и командированные специалисты (Лукойл, РИТЭК) регулярно нуждаются в организованном размещении рядом с центром. 3-й этаж — черновая отделка, готовый чистый лист под номера. Есть эскизный дизайн-проект переоборудования под гостиницу/бизнес-центр (см. фото в галерее). Также рассматриваем формат «апартаменты» — за % от выручки, с партнёром-оператором.
+    <description>Кабинет 20 м² в аренду на 2 этаже здания в центре Жирновска, ул. Ломоносова 54. Отдельный кабинет с окном, общий коридор, санузел на этаже, отопление и электричество, вход с улицы через подъезд, парковка у здания.
 
-Отопление и электричество в порядке, заезд под кабинет/офис — сразу; для гостиницы/общепита/производства потребуется дооборудование канализации — компенсируем арендными каникулами на срок работ. Напрямую от собственника.
+Подходит под офис, услуги, представительство, апартаменты для сотрудников. Договор от 11 месяцев, коммунальные сверх ставки. Показ по договорённости, на месте наш партнёр.
 
-СВОБОДНО СЕЙЧАС — 42 помещения, 1083 м² на выбор:
-• крупные блоки 104, 68, 61, 60 и 59 м² — производство, склад, спортзал, учебный центр, медцентр;
-• средние 36–41 м² — магазин, офис, салон;
-• кабинеты 20–30 м² (их больше двадцати) — от 7 500 ₽/мес, готовы к въезду, с ремонтом и санузлами.
-Здание в центре города, отопление, отдельные входы у части помещений, парковка.
-Можно взять этаж или здание целиком — обсудим ставку под ваш объём.</description>
+10 000 ₽ в месяц.</description>
     <sales-agent>
       <name>Отдел аренды MAXCAPITAL</name>
       <phone>+7 985 833 2439</phone>
@@ -967,287 +957,6 @@
       <category>agency</category>
     </sales-agent>
   </offer>
-  <offer internal-id="mk207d1">
-    <type>аренда</type>
-    <property-type>commercial</property-type>
-    <category>commercial</category>
-    <commercial-type>warehouse</commercial-type>
-    <location>
-      <country>Россия</country>
-      <address>Свердловская обл., Новоуральск, ул. Льва Толстого, 8а</address>
-    </location>
-    <price>
-      <value>18775</value>
-      <currency>RUB</currency>
-      <period>month</period>
-    </price>
-    <area>
-      <value>75.0</value>
-      <unit>кв.м</unit>
-    </area>
-    <floor>1</floor>
-    <floors-total>1</floors-total>
-    <description>Сдаём помещения в здании в центре Новоуральска, ул. Л. Толстого, 8А. Берите одно или несколько — можно объединить.
-
-Что свободно сейчас:
-• 77 м² — детский центр, учебный или медцентр — 13 986 ₽/мес
-• 75 м² — ПВЗ, аптека, магазин — 18 775 ₽/мес
-• 69 м² — зал с окнами, студия или детский центр — 12 438 ₽/мес
-• 44 м² — офис: юристы, бухгалтерия, агентство — 10 875 ₽/мес
-• 43 м² — сухой подвал со своим входом, склад — 5 244 ₽/мес
-• 38 м² — кабинет: массаж, косметология, лаборатория — 6 894 ₽/мес
-• 32 м² — блок с водой и канализацией, кулинария или кофейня — 8 025 ₽/мес
-
-Центр города, отдельные входы у части помещений, здание под охраной. Договор с юридическим лицом, документы в порядке.
-
-Напишите, какая площадь нужна и подо что — подберём помещение и покажем в удобный день.</description>
-    <sales-agent>
-      <name>Отдел аренды MAXCAPITAL</name>
-      <phone>+7 985 833 2439</phone>
-      <organization>MAXCAPITAL</organization>
-      <category>agency</category>
-    </sales-agent>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AOuWv9_atKVf6f1R_plpZe8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%204%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AGklJyN5q-X4pOQE46pIOi8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%201%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ADWqU2G4MLkDsscl96HfvN8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%202%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AOcBWdM5OH3hZo1hU2eVHXI/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%203%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-  </offer>
-  <offer internal-id="mk207d2">
-    <type>аренда</type>
-    <property-type>commercial</property-type>
-    <category>commercial</category>
-    <commercial-type>free purpose</commercial-type>
-    <location>
-      <country>Россия</country>
-      <address>Свердловская обл., Новоуральск, ул. Льва Толстого, 8а</address>
-    </location>
-    <price>
-      <value>12438</value>
-      <currency>RUB</currency>
-      <period>month</period>
-    </price>
-    <area>
-      <value>69.0</value>
-      <unit>кв.м</unit>
-    </area>
-    <floor>1</floor>
-    <floors-total>1</floors-total>
-    <description>Блок 69,1 м²: зал 58,9 м² без внутренних перегородок, кабинет 7,5 м². Бывший музыкальный зал детского сада. Рядом гимназия №41, Станция юных техников, Центр внешкольной работы, театр.</description>
-    <sales-agent>
-      <name>Отдел аренды MAXCAPITAL</name>
-      <phone>+7 985 833 2439</phone>
-      <organization>MAXCAPITAL</organization>
-      <category>agency</category>
-    </sales-agent>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AOuWv9_atKVf6f1R_plpZe8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%204%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AGklJyN5q-X4pOQE46pIOi8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%201%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ADWqU2G4MLkDsscl96HfvN8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%202%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AOcBWdM5OH3hZo1hU2eVHXI/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%203%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-  </offer>
-  <offer internal-id="mk207d3">
-    <type>аренда</type>
-    <property-type>commercial</property-type>
-    <category>commercial</category>
-    <commercial-type>free purpose</commercial-type>
-    <location>
-      <country>Россия</country>
-      <address>Свердловская обл., Новоуральск, ул. Льва Толстого, 8а</address>
-    </location>
-    <price>
-      <value>13986</value>
-      <currency>RUB</currency>
-      <period>month</period>
-    </price>
-    <area>
-      <value>77.0</value>
-      <unit>кв.м</unit>
-    </area>
-    <floor>1</floor>
-    <floors-total>1</floors-total>
-    <description>Блок 77,7 м² на 2 этаже: зал 49,5 м², приёмная 16,6 м², санузел. Центр города, плотная жилая застройка, три остановки в 300–400 м, дворовая парковка.</description>
-    <sales-agent>
-      <name>Отдел аренды MAXCAPITAL</name>
-      <phone>+7 985 833 2439</phone>
-      <organization>MAXCAPITAL</organization>
-      <category>agency</category>
-    </sales-agent>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AOuWv9_atKVf6f1R_plpZe8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%204%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AGklJyN5q-X4pOQE46pIOi8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%201%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ADWqU2G4MLkDsscl96HfvN8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%202%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AOcBWdM5OH3hZo1hU2eVHXI/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%203%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-  </offer>
-  <offer internal-id="mk207d4">
-    <type>аренда</type>
-    <property-type>commercial</property-type>
-    <category>commercial</category>
-    <commercial-type>free purpose</commercial-type>
-    <location>
-      <country>Россия</country>
-      <address>Свердловская обл., Новоуральск, ул. Льва Толстого, 8а</address>
-    </location>
-    <price>
-      <value>6894</value>
-      <currency>RUB</currency>
-      <period>month</period>
-    </price>
-    <area>
-      <value>38.0</value>
-      <unit>кв.м</unit>
-    </area>
-    <floor>1</floor>
-    <floors-total>1</floors-total>
-    <description>Помещение 37,7 м²: комната 23,9 м² и подсобное 13,8 м² с подводкой воды. Центр Новоуральска, 250–350 м до ул. Ленина.</description>
-    <sales-agent>
-      <name>Отдел аренды MAXCAPITAL</name>
-      <phone>+7 985 833 2439</phone>
-      <organization>MAXCAPITAL</organization>
-      <category>agency</category>
-    </sales-agent>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AOuWv9_atKVf6f1R_plpZe8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%204%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AGklJyN5q-X4pOQE46pIOi8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%201%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ADWqU2G4MLkDsscl96HfvN8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%202%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AOcBWdM5OH3hZo1hU2eVHXI/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%203%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-  </offer>
-  <offer internal-id="mk207d5">
-    <type>аренда</type>
-    <property-type>commercial</property-type>
-    <category>commercial</category>
-    <commercial-type>office</commercial-type>
-    <location>
-      <country>Россия</country>
-      <address>Свердловская обл., Новоуральск, ул. Льва Толстого, 8а</address>
-    </location>
-    <price>
-      <value>10875</value>
-      <currency>RUB</currency>
-      <period>month</period>
-    </price>
-    <area>
-      <value>44.0</value>
-      <unit>кв.м</unit>
-    </area>
-    <floor>1</floor>
-    <floors-total>1</floors-total>
-    <description>Блок 43,5 м² из четырёх смежных кабинетов 7,5–10,6 м². Отопление от ТЭЦ, санузлы на этаже, парковка во дворе.</description>
-    <sales-agent>
-      <name>Отдел аренды MAXCAPITAL</name>
-      <phone>+7 985 833 2439</phone>
-      <organization>MAXCAPITAL</organization>
-      <category>agency</category>
-    </sales-agent>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AOuWv9_atKVf6f1R_plpZe8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%204%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AGklJyN5q-X4pOQE46pIOi8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%201%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ADWqU2G4MLkDsscl96HfvN8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%202%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AOcBWdM5OH3hZo1hU2eVHXI/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%203%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-  </offer>
-  <offer internal-id="mk207d6">
-    <type>аренда</type>
-    <property-type>commercial</property-type>
-    <category>commercial</category>
-    <commercial-type>warehouse</commercial-type>
-    <location>
-      <country>Россия</country>
-      <address>Свердловская обл., Новоуральск, ул. Льва Толстого, 8а</address>
-    </location>
-    <price>
-      <value>5244</value>
-      <currency>RUB</currency>
-      <period>month</period>
-    </price>
-    <area>
-      <value>43.0</value>
-      <unit>кв.м</unit>
-    </area>
-    <floor>1</floor>
-    <floors-total>1</floors-total>
-    <description>Помещение 43,7 м² в цокольном этаже: основное 36,4 м² и кладовая 7,3 м². Отопление, электричество.</description>
-    <sales-agent>
-      <name>Отдел аренды MAXCAPITAL</name>
-      <phone>+7 985 833 2439</phone>
-      <organization>MAXCAPITAL</organization>
-      <category>agency</category>
-    </sales-agent>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AOuWv9_atKVf6f1R_plpZe8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%204%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AGklJyN5q-X4pOQE46pIOi8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%201%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ADWqU2G4MLkDsscl96HfvN8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%202%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AOcBWdM5OH3hZo1hU2eVHXI/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%203%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-  </offer>
-  <offer internal-id="mk207d7">
-    <type>аренда</type>
-    <property-type>commercial</property-type>
-    <category>commercial</category>
-    <commercial-type>free purpose</commercial-type>
-    <location>
-      <country>Россия</country>
-      <address>Свердловская обл., Новоуральск, ул. Льва Толстого, 8а</address>
-    </location>
-    <price>
-      <value>8025</value>
-      <currency>RUB</currency>
-      <period>month</period>
-    </price>
-    <area>
-      <value>32.0</value>
-      <unit>кв.м</unit>
-    </area>
-    <floor>1</floor>
-    <floors-total>1</floors-total>
-    <description>Блок 32,1 м²: кухня 20,4 м² с подводкой воды и канализации, кладовая 6,5 м². Готовая инженерия под пищевое производство.</description>
-    <sales-agent>
-      <name>Отдел аренды MAXCAPITAL</name>
-      <phone>+7 985 833 2439</phone>
-      <organization>MAXCAPITAL</organization>
-      <category>agency</category>
-    </sales-agent>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AOuWv9_atKVf6f1R_plpZe8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%204%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AGklJyN5q-X4pOQE46pIOi8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%201%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ADWqU2G4MLkDsscl96HfvN8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%202%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AOcBWdM5OH3hZo1hU2eVHXI/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%203%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
-  </offer>
-  <offer internal-id="mk204da">
-    <type>аренда</type>
-    <property-type>commercial</property-type>
-    <category>commercial</category>
-    <commercial-type>warehouse</commercial-type>
-    <location>
-      <country>Россия</country>
-      <address>Ярославская обл., г. Рыбинск, ул. Строительная, 3</address>
-    </location>
-    <price>
-      <value>8000</value>
-      <currency>RUB</currency>
-      <period>month</period>
-    </price>
-    <area>
-      <value>24.0</value>
-      <unit>кв.м</unit>
-    </area>
-    <floor>1</floor>
-    <floors-total>1</floors-total>
-    <description>Помещения на первом этаже — Рыбинск, улица Строительная, 3. Дом угловой, второй адрес по Инженерной, 7: вход и вывеска видны с двух улиц сразу, а не из глубины двора.
-
-Наш блок — 123,9 м², десять помещений. Берите часть под точку от 10 м² за 8 000 ₽/мес или весь блок целиком за 25 000 ₽/мес. Смежные помещения объединяются без ремонта и по одному договору: перегородки уже стоят, ломать и восстанавливать ничего не нужно.
-
-Назначение по документам БТИ — торговое, складское и бытовое обслуживание. Магазин, пункт выдачи, склад, мастерская, парикмахерская, ремонт одежды или обуви здесь законны: менять назначение и согласовывать с администрацией не придётся.
-
-Инженерия городская, а не автономная: отопление от групповой котельной, холодная и горячая вода, канализация, газ, приточно-вытяжная вентиляция. Для бытовых услуг и небольшого производства это решающее — не нужно ставить бойлер и тянуть воду.
-
-Десять помещений позволяют развести грязную зону и клиентскую часть, не мешая друг другу: под выдачу заказов ближе к входу, под мастерскую и склад — вглубь блока.
-
-• Адрес: Ярославская область, Рыбинск, Строительная 3 / Инженерная 7
-• Блок 123,9 м², первый этаж, десять помещений
-• Часть от 10 м² — от 8 000 ₽/мес; весь блок — 25 000 ₽/мес
-• Отопление, вода, горячая вода, канализация, газ, вентиляция
-• Напрямую от собственника, без комиссии
-
-Покажем в удобное время и на месте подскажем, как разложить площадь под ваш формат.</description>
-    <sales-agent>
-      <name>Отдел аренды MAXCAPITAL</name>
-      <phone>+7 985 833 2439</phone>
-      <organization>MAXCAPITAL</organization>
-      <category>agency</category>
-    </sales-agent>
-  </offer>
   <offer internal-id="mk203d11">
     <type>аренда</type>
     <property-type>commercial</property-type>
@@ -1363,5 +1072,89 @@
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rybinsk-restoran/08.jpg</image>
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rybinsk-restoran/09.jpg</image>
     <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rybinsk-restoran/10.jpg</image>
+  </offer>
+  <offer internal-id="mk207da">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>warehouse</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>Свердловская обл., Новоуральск, ул. Льва Толстого, 8а</address>
+      <latitude>57.2389733</latitude>
+      <longitude>60.0852822</longitude>
+    </location>
+    <price>
+      <value>25000</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>100.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>1</floor>
+    <floors-total>3</floors-total>
+    <description>Помещения в аренду в центре Новоуральска, два соседних здания: Льва Толстого 8а (943 м², 2 этажа) и Максима Горького 2а (861 м², 2 этажа и подвал). Отдельный вход, высокие потолки, окна на две стороны, парковка у входа, рядом гимназия и жилые кварталы.
+
+Базовый блок от 100 м² с отдельным входом. Возможны также иные площади: отдельные кабинеты от 32 м², залы 59–77 м², этаж целиком или здание целиком до 943 м². Подберём конфигурацию под ваш формат: медицинский или учебный центр, офисы, салон, склад, кулинария (есть помещения с водой и канализацией).
+
+Ставка от 25 000 ₽ в месяц за блок 100 м², для других площадей — по расчёту. Договор от 11 месяцев с продлением, коммунальные сверх ставки. Показ в любой день, на месте наш сотрудник.
+
+🎥 Видео объекта: https://rutube.ru/video/private/f29d0f2ba8ec264b3802c8afdc69898d/?p=faoPbzC38u1B0YQfDnlOig</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AI3FQldNamg9dL6mjVjILMQ/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%203%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
+    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AG2vB2Pk9MR7SaN7vXE4K2g/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%204%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
+    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AHnVToMoaTH_CFcDNvSjqmU/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%205%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
+    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ALveGkjruDsCOy6vvLioH0M/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%207%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
+    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ABGlc25iZkc6d4NRnmdRx3k/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%208%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
+    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ACZtUsNYxmTjiO1WtkLZF6Y/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%201%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
+    <image>https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AKibaYuG1156QZrolavuPS8/206%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%202%20%D0%9C.%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE%2C2%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1</image>
+  </offer>
+  <offer internal-id="mk201da">
+    <type>аренда</type>
+    <property-type>commercial</property-type>
+    <category>commercial</category>
+    <commercial-type>office</commercial-type>
+    <location>
+      <country>Россия</country>
+      <address>Купино, ул. Советов, 80А</address>
+      <latitude>54.3630213</latitude>
+      <longitude>77.2935593</longitude>
+    </location>
+    <price>
+      <value>3000</value>
+      <currency>RUB</currency>
+      <period>month</period>
+    </price>
+    <area>
+      <value>15.0</value>
+      <unit>кв.м</unit>
+    </area>
+    <floor>1</floor>
+    <floors-total>3</floors-total>
+    <description>Кабинеты на втором этаже здания на главной площади Купино, ул. Советов 80А: 14, 15, 17 и 18 м², свободны несколько соседних, можно взять один или объединить два-три.
+
+Тёплое здание, общий коридор, санузел на этаже, вход через центральный холл, парковка перед зданием. Подходит под офис, бухгалтерию, юристов, страхование, услуги.
+
+Ставка от 3 000 ₽ в месяц за кабинет, договор от 11 месяцев, коммунальные сверх ставки. Показ в любой день.</description>
+    <sales-agent>
+      <name>Отдел аренды MAXCAPITAL</name>
+      <phone>+7 985 833 2439</phone>
+      <organization>MAXCAPITAL</organization>
+      <category>agency</category>
+    </sales-agent>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kupino/02.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kupino/03.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kupino/04.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kupino/05.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kupino/06.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kupino/00.jpg?v=2</image>
+    <image>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/kupino/01.jpg?v=2</image>
   </offer>
 </realty-feed>
