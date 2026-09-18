@@ -34,9 +34,6 @@
     </Phones>
     <Photos>
       <PhotoSchema>
-        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/06.jpg?v=3</FullUrl>
-      </PhotoSchema>
-      <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/07.jpg?v=3</FullUrl>
       </PhotoSchema>
       <PhotoSchema>
@@ -59,6 +56,9 @@
       </PhotoSchema>
       <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/05.jpg?v=3</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/06.jpg?v=3</FullUrl>
       </PhotoSchema>
     </Photos>
   </object>
@@ -100,9 +100,6 @@
     </Phones>
     <Photos>
       <PhotoSchema>
-        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/06.jpg?v=2</FullUrl>
-      </PhotoSchema>
-      <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/07.jpg?v=2</FullUrl>
       </PhotoSchema>
       <PhotoSchema>
@@ -125,6 +122,9 @@
       </PhotoSchema>
       <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/05.jpg?v=2</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/06.jpg?v=2</FullUrl>
       </PhotoSchema>
     </Photos>
   </object>
@@ -161,9 +161,6 @@
     </Phones>
     <Photos>
       <PhotoSchema>
-        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/02.jpg?v=2</FullUrl>
-      </PhotoSchema>
-      <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/03.jpg?v=2</FullUrl>
       </PhotoSchema>
       <PhotoSchema>
@@ -180,6 +177,9 @@
       </PhotoSchema>
       <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/01.jpg?v=2</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/02.jpg?v=2</FullUrl>
       </PhotoSchema>
       <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/07.jpg?v=2</FullUrl>
@@ -225,9 +225,6 @@
     </Phones>
     <Photos>
       <PhotoSchema>
-        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/06.jpg?v=3</FullUrl>
-      </PhotoSchema>
-      <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/07.jpg?v=3</FullUrl>
       </PhotoSchema>
       <PhotoSchema>
@@ -250,6 +247,9 @@
       </PhotoSchema>
       <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/05.jpg?v=3</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/06.jpg?v=3</FullUrl>
       </PhotoSchema>
     </Photos>
   </object>
