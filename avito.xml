@@ -920,6 +920,36 @@
     </Images>
   </Ad>
   <Ad>
+    <Id>mk102</Id>
+    <ListingFee>PackageSingle</ListingFee>
+    <Category>Коммерческая недвижимость</Category>
+    <OperationType>Сдам</OperationType>
+    <PropertyRights>Собственник</PropertyRights>
+    <Address>Новосибирск, ул. Октябрьская, 16а</Address>
+    <Title>Помещение 31,6 м² на Октябрьской 16а — под офис, студию или услуги</Title>
+    <ObjectType>Помещение свободного назначения</ObjectType>
+    <Description>Сдаётся помещение 31,6 м² в Новосибирске, ул. Октябрьская, 16а. Помещение свободно, заезд сразу после подписания договора. Подойдёт под офис, студию, приём клиентов или услуги. Аренда от 30 000 ₽ в месяц, коммунальные платежи оплачиваются отдельно. Показ в будни по договорённости.</Description>
+    <Price>30000</Price>
+    <Square>31.6</Square>
+    <Entrance>С улицы</Entrance>
+    <Floor>1</Floor>
+    <Heating>Центральное</Heating>
+    <BuildingType>Другой</BuildingType>
+    <ParkingType>На улице</ParkingType>
+    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
+    <Decoration>Чистовая</Decoration>
+    <RentalType>Прямая</RentalType>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <InternetCalls>Да</InternetCalls>
+    <ContactPhone>+7 983 000 2065</ContactPhone>
+    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrskaya16a/01.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrskaya16a/02.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/oktyabrskaya16a/00.jpg" />
+    </Images>
+  </Ad>
+  <Ad>
     <Id>mk204</Id>
     <ListingFee>PackageSingle</ListingFee>
     <Category>Коммерческая недвижимость</Category>
