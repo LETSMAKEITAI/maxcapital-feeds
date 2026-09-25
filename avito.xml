@@ -512,12 +512,12 @@
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
     <Layout>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/plans/210_privolzhsk.jpg</Layout>
     <Images>
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/05.jpg" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/00.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/01.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/02.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/03.jpg" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/00.jpg" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/04.jpg" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/privolzhsk/05.jpg" />
     </Images>
   </Ad>
   <Ad>
@@ -551,8 +551,8 @@
 
 Приезжайте, покажем здание и участок в любой день — договоримся о времени по звонку или в сообщении.</Description>
     <Price>50000</Price>
-    <Square>832.0</Square>
-    <LandArea>4610</LandArea>
+    <Square>1000.0</Square>
+    <LandArea>832</LandArea>
     <Entrance>С улицы</Entrance>
     <Floor>1</Floor>
     <Heating>Центральное</Heating>
@@ -566,15 +566,15 @@
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
     <Images>
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/05.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/06.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/07.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/08.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/00.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/01.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/02.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/03.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/04.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/08.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/05.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/06.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/07.jpg?v=2" />
     </Images>
   </Ad>
   <Ad>
@@ -603,8 +603,8 @@
 
 Земельный участок 4 610 м² в собственности, продаётся вместе со зданием: первая линия к Волге, центральные сети подключены.</Description>
     <Price>7000000</Price>
-    <Square>832.0</Square>
-    <LandArea>4610</LandArea>
+    <Square>1000.0</Square>
+    <LandArea>832</LandArea>
     <Entrance>С улицы</Entrance>
     <Floor>1</Floor>
     <Heating>Центральное</Heating>
@@ -618,15 +618,15 @@
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
     <Images>
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/05.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/06.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/07.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/08.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/00.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/01.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/02.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/03.jpg?v=2" />
       <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/04.jpg?v=2" />
-      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/08.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/05.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/06.jpg?v=2" />
+      <Image url="https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/puchezh/07.jpg?v=2" />
     </Images>
   </Ad>
   <Ad>
