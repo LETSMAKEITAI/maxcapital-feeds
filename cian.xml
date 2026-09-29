@@ -150,7 +150,7 @@
 
 Ставка 200 000 ₽/мес — за помещение в текущем состоянии. Ремонт под арендатора обсуждаем отдельно: сделаем под ваш профиль, но ставка после ремонта другая — считаем от объёма работ.</Description>
     <BargainTerms>
-      <Price>380000</Price>
+      <Price>200000</Price>
       <Currency>rur</Currency>
       <PriceType>all</PriceType>
       <VatType>usn</VatType>
