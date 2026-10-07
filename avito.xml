@@ -2,7 +2,7 @@
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
     <Id>mk107s</Id>
-    <ListingFee>Package</ListingFee>
+    <ListingFee>Single</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Продам</OperationType>
     <TransactionType>Продажа</TransactionType>
@@ -531,7 +531,7 @@
   </Ad>
   <Ad>
     <Id>mkd002s</Id>
-    <ListingFee>Package</ListingFee>
+    <ListingFee>Single</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Продам</OperationType>
     <TransactionType>Продажа</TransactionType>
