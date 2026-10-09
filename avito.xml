@@ -2,7 +2,7 @@
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
     <Id>mk107s</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Single</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Продам</OperationType>
     <TransactionType>Продажа</TransactionType>
@@ -48,7 +48,7 @@
   </Ad>
   <Ad>
     <Id>mk110</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -98,7 +98,7 @@
   </Ad>
   <Ad>
     <Id>mk111</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -134,7 +134,7 @@
   </Ad>
   <Ad>
     <Id>mk201</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -175,7 +175,7 @@
   </Ad>
   <Ad>
     <Id>mk202</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -232,7 +232,7 @@
   </Ad>
   <Ad>
     <Id>mk205</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -276,7 +276,7 @@
   </Ad>
   <Ad>
     <Id>mk207s</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Продам</OperationType>
     <TransactionType>Продажа</TransactionType>
@@ -322,7 +322,7 @@
   </Ad>
   <Ad>
     <Id>mk209s</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Продам</OperationType>
     <TransactionType>Продажа</TransactionType>
@@ -373,7 +373,7 @@
   </Ad>
   <Ad>
     <Id>mk210s</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Продам</OperationType>
     <TransactionType>Продажа</TransactionType>
@@ -422,7 +422,7 @@
   </Ad>
   <Ad>
     <Id>mk211</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -479,7 +479,7 @@
   </Ad>
   <Ad>
     <Id>mk211s</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Продам</OperationType>
     <TransactionType>Продажа</TransactionType>
@@ -531,7 +531,7 @@
   </Ad>
   <Ad>
     <Id>mkd002s</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Single</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Продам</OperationType>
     <TransactionType>Продажа</TransactionType>
@@ -581,7 +581,7 @@
   </Ad>
   <Ad>
     <Id>mkd007</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -634,7 +634,7 @@
   </Ad>
   <Ad>
     <Id>mkd008</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -685,7 +685,7 @@
   </Ad>
   <Ad>
     <Id>mk213</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -730,7 +730,7 @@
   </Ad>
   <Ad>
     <Id>mk107v</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -778,7 +778,7 @@
   </Ad>
   <Ad>
     <Id>mk102</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -808,7 +808,7 @@
   </Ad>
   <Ad>
     <Id>mk204</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -849,7 +849,7 @@
   </Ad>
   <Ad>
     <Id>mk203d11</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -901,18 +901,18 @@
   </Ad>
   <Ad>
     <Id>mk207da</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Свердловская обл., Новоуральск, ул. Льва Толстого, 8а</Address>
     <Latitude>57.2389733</Latitude>
     <Longitude>60.0852822</Longitude>
-    <Title>Помещения от 100 м² с отдельным входом в центре Новоуральска — под клинику, учебный центр, офисы, склад</Title>
+    <Title>Кабинеты и залы 32–77 м² в центре Новоуральска — от 6 900 ₽/мес, отдельный вход, парковка</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Помещения в аренду в центре Новоуральска, два соседних здания: Льва Толстого 8а (943 м², 2 этажа) и Максима Горького 2а (861 м², 2 этажа и подвал). Отдельный вход, высокие потолки, окна на две стороны, парковка у входа, рядом гимназия и жилые кварталы.
 
-Базовый блок от 100 м² с отдельным входом. Возможны также иные площади: отдельные кабинеты от 32 м², залы 59–77 м², этаж целиком или здание целиком до 943 м². Подберём конфигурацию под ваш формат: медицинский или учебный центр, офисы, салон, склад, кулинария (есть помещения с водой и канализацией).
+Кабинеты от 32 м² — от 6 900 ₽/мес, залы 59–77 м² — от 12 400 ₽/мес, блоки от 100 м² с отдельным входом — от 25 000 ₽/мес, этаж целиком или здание целиком до 943 м². Подберём конфигурацию под ваш формат: медицинский или учебный центр, офисы, салон, склад, кулинария (есть помещения с водой и канализацией).
 
 Ставка от 25 000 ₽ в месяц за блок 100 м², для других площадей — по расчёту. Договор от 11 месяцев с продлением, коммунальные сверх ставки. Показ в любой день, на месте наш сотрудник.</Description>
     <Price>25000</Price>
@@ -943,20 +943,20 @@
   </Ad>
   <Ad>
     <Id>mk201da</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
     <Address>Купино, ул. Советов, 80А</Address>
     <Latitude>54.3630213</Latitude>
     <Longitude>77.2935593</Longitude>
-    <Title>Кабинет 14–18 м² на 2 этаже в центре Купино — офис, услуги, представительство</Title>
+    <Title>Кабинет 14–18 м² на 2 этаже в центре Купино — 6 500 ₽/мес, офис, услуги, представительство</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Кабинеты на втором этаже здания на главной площади Купино, ул. Советов 80А: 14, 15, 17 и 18 м², свободны несколько соседних, можно взять один или объединить два-три.
 
 Тёплое здание, общий коридор, санузел на этаже, вход через центральный холл, парковка перед зданием. Подходит под офис, бухгалтерию, юристов, страхование, услуги.
 
-Ставка от 3 000 ₽ в месяц за кабинет, договор от 11 месяцев, коммунальные сверх ставки. Показ в любой день.</Description>
+Ставка 6 500 ₽ в месяц за кабинет, договор от 11 месяцев, коммунальные сверх ставки. Показ в любой день.</Description>
     <Price>3000</Price>
     <Square>15.0</Square>
     <Entrance>С улицы</Entrance>
