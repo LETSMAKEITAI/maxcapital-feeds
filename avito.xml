@@ -2,7 +2,7 @@
 <Ads formatVersion="3" target="Avito.ru">
   <Ad>
     <Id>mk107s</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Single</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Продам</OperationType>
     <TransactionType>Продажа</TransactionType>
@@ -48,7 +48,7 @@
   </Ad>
   <Ad>
     <Id>mk110</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -98,7 +98,7 @@
   </Ad>
   <Ad>
     <Id>mk111</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -134,7 +134,7 @@
   </Ad>
   <Ad>
     <Id>mk201</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -175,7 +175,7 @@
   </Ad>
   <Ad>
     <Id>mk202</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -232,7 +232,7 @@
   </Ad>
   <Ad>
     <Id>mk205</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -276,7 +276,7 @@
   </Ad>
   <Ad>
     <Id>mk207s</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Продам</OperationType>
     <TransactionType>Продажа</TransactionType>
@@ -322,7 +322,7 @@
   </Ad>
   <Ad>
     <Id>mk209s</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Продам</OperationType>
     <TransactionType>Продажа</TransactionType>
@@ -373,7 +373,7 @@
   </Ad>
   <Ad>
     <Id>mk210s</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Продам</OperationType>
     <TransactionType>Продажа</TransactionType>
@@ -422,7 +422,7 @@
   </Ad>
   <Ad>
     <Id>mk211</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -479,7 +479,7 @@
   </Ad>
   <Ad>
     <Id>mk211s</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Продам</OperationType>
     <TransactionType>Продажа</TransactionType>
@@ -531,7 +531,7 @@
   </Ad>
   <Ad>
     <Id>mkd002s</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Single</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Продам</OperationType>
     <TransactionType>Продажа</TransactionType>
@@ -581,7 +581,7 @@
   </Ad>
   <Ad>
     <Id>mkd007</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -634,7 +634,7 @@
   </Ad>
   <Ad>
     <Id>mkd008</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -685,7 +685,7 @@
   </Ad>
   <Ad>
     <Id>mk213</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -730,7 +730,7 @@
   </Ad>
   <Ad>
     <Id>mk107v</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -778,7 +778,7 @@
   </Ad>
   <Ad>
     <Id>mk102</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -808,7 +808,7 @@
   </Ad>
   <Ad>
     <Id>mk204</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -849,7 +849,7 @@
   </Ad>
   <Ad>
     <Id>mk203d11</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -901,7 +901,7 @@
   </Ad>
   <Ad>
     <Id>mk207da</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
@@ -943,7 +943,7 @@
   </Ad>
   <Ad>
     <Id>mk201da</Id>
-    <ListingFee>PackageSingle</ListingFee>
+    <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
     <OperationType>Сдам</OperationType>
     <PropertyRights>Собственник</PropertyRights>
