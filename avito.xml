@@ -847,6 +847,17 @@
     <InternetCalls>Да</InternetCalls>
     <ContactPhone>+7 985 833 2439</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
+    <Images>
+      <Image url="https://realestate.maxcapital.ch/property/photos/rybinsk-stroitelnaya/01.jpg" />
+      <Image url="https://realestate.maxcapital.ch/property/photos/rybinsk-stroitelnaya/02.jpg" />
+      <Image url="https://realestate.maxcapital.ch/property/photos/rybinsk-stroitelnaya/03.jpg" />
+      <Image url="https://realestate.maxcapital.ch/property/photos/rybinsk-stroitelnaya/04.jpg" />
+      <Image url="https://realestate.maxcapital.ch/property/photos/rybinsk-stroitelnaya/05.jpg" />
+      <Image url="https://realestate.maxcapital.ch/property/photos/rybinsk-stroitelnaya/06.jpg" />
+      <Image url="https://realestate.maxcapital.ch/property/photos/rybinsk-stroitelnaya/07.jpg" />
+      <Image url="https://realestate.maxcapital.ch/property/photos/rybinsk-stroitelnaya/08.jpg" />
+      <Image url="https://realestate.maxcapital.ch/property/photos/rybinsk-stroitelnaya/09.jpg" />
+    </Images>
   </Ad>
   <Ad>
     <Id>mk203d11</Id>
