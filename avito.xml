@@ -276,52 +276,6 @@
     </Images>
   </Ad>
   <Ad>
-    <Id>mk207s</Id>
-    <ListingFee>Package</ListingFee>
-    <Category>Коммерческая недвижимость</Category>
-    <OperationType>Продам</OperationType>
-    <TransactionType>Продажа</TransactionType>
-    <PropertyRights>Собственник</PropertyRights>
-    <Address>Свердловская обл., Новоуральск, ул. Льва Толстого, 8а</Address>
-    <Latitude>57.2389733</Latitude>
-    <Longitude>60.0852822</Longitude>
-    <Title>Здание под хостел, клинику или спортивный центр, 943 м²</Title>
-    <ObjectType>Помещение свободного назначения</ObjectType>
-    <Description>Отдельно стоящее здание 943 м² в центре Новоуральска — под хостел, клинику, спортивный или учебный центр, торговлю.
-
-Центральное расположение — главное преимущество объекта: в таких городах поток людей сосредоточен в центре, и это работает и на аренду, и на собственный бизнес.
-
-Здание свободно, передаётся целиком. Площадь позволяет разделить на несколько самостоятельных блоков с отдельными входами и сдавать их по частям.
-
-Цена 6 100 000 ₽ — это 6 469 ₽ за квадратный метр, при том что отдельные помещения в городе продаются от 10 600 ₽/м². Здание в центре за цену ниже розничного метра на окраине.
-
-Новоуральск — закрытый город, въезд по пропускной системе. Собственник — юридическое лицо, сделка прямая. Реальному покупателю цена обсуждается.</Description>
-    <Price>6100000</Price>
-    <Square>943.0</Square>
-    <Entrance>С улицы</Entrance>
-    <Floor>1</Floor>
-    <Heating>Центральное</Heating>
-    <BuildingType>Другой</BuildingType>
-    <ParkingType>На улице</ParkingType>
-    <ParkingAdditionally>Бесплатная</ParkingAdditionally>
-    <Decoration>Чистовая</Decoration>
-    <RentalType>Прямая</RentalType>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <InternetCalls>Да</InternetCalls>
-    <ContactPhone>+7 985 833 2439</ContactPhone>
-    <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
-    <Layout>https://realestate.maxcapital.ch/property/photos/plany/tolstogo8a.jpg</Layout>
-    <Images>
-      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AOcBWdM5OH3hZo1hU2eVHXI/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%203%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
-      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AOuWv9_atKVf6f1R_plpZe8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%204%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
-      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AGHrzqpx-QNNtV_ibMecXNc/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%205%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
-      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ANa_pq2A0t1z2Cu9yHKEBr0/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%206%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
-      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AHGVqWWcfTrDcLcAdKoAefU/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%209%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
-      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/AGklJyN5q-X4pOQE46pIOi8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%201%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
-      <Image url="https://www.dropbox.com/scl/fo/rytrctr4sugb10ofvrrvv/ADWqU2G4MLkDsscl96HfvN8/207%20%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B%D1%8C%D0%B2%D0%B0%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%90_/%D0%B3.%20%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%2C%20%D1%83%D0%BB.%20%D0%9B.%20%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%208%D0%90/%D0%A4%D0%BE%D1%82%D0%BE/%D1%84%D0%BE%D1%82%D0%BE%202%20%D0%9B.%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B3%D0%BE%2C8%D0%B0.jpg?rlkey=iopnovrmp4ffv4otdnk30j653&amp;raw=1" />
-    </Images>
-  </Ad>
-  <Ad>
     <Id>mk209s</Id>
     <ListingFee>Package</ListingFee>
     <Category>Коммерческая недвижимость</Category>
@@ -921,15 +875,15 @@
     <Address>Свердловская обл., Новоуральск, ул. Льва Толстого, 8а</Address>
     <Latitude>57.2389733</Latitude>
     <Longitude>60.0852822</Longitude>
-    <Title>Кабинеты и залы 32–77 м² в центре Новоуральска — от 6 900 ₽/мес, отдельный вход, парковка</Title>
+    <Title>Помещения от 100 м² с отдельным входом в центре Новоуральска — под клинику, учебный центр, офисы, склад</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Помещения в аренду в центре Новоуральска, два соседних здания: Льва Толстого 8а (943 м², 2 этажа) и Максима Горького 2а (861 м², 2 этажа и подвал). Отдельный вход, высокие потолки, окна на две стороны, парковка у входа, рядом гимназия и жилые кварталы.
 
-Кабинеты от 32 м² — от 6 900 ₽/мес, залы 59–77 м² — от 12 400 ₽/мес, блоки от 100 м² с отдельным входом — от 25 000 ₽/мес, этаж целиком или здание целиком до 943 м². Подберём конфигурацию под ваш формат: медицинский или учебный центр, офисы, салон, склад, кулинария (есть помещения с водой и канализацией).
+Базовый блок от 100 м² с отдельным входом. Возможны также иные площади: отдельные кабинеты от 32 м², залы 59–77 м², этаж целиком или здание целиком до 943 м². Подберём конфигурацию под ваш формат: медицинский или учебный центр, офисы, салон, склад, кулинария (есть помещения с водой и канализацией).
 
 Ставка от 25 000 ₽ в месяц за блок 100 м², для других площадей — по расчёту. Договор от 11 месяцев с продлением, коммунальные сверх ставки. Показ в любой день, на месте наш сотрудник.</Description>
-    <Price>6900</Price>
-    <Square>32.0</Square>
+    <Price>25000</Price>
+    <Square>100.0</Square>
     <Entrance>С улицы</Entrance>
     <Floor>1</Floor>
     <Heating>Центральное</Heating>
@@ -963,14 +917,14 @@
     <Address>Купино, ул. Советов, 80А</Address>
     <Latitude>54.3630213</Latitude>
     <Longitude>77.2935593</Longitude>
-    <Title>Кабинет 14–18 м² на 2 этаже в центре Купино — 6 500 ₽/мес, офис, услуги, представительство</Title>
+    <Title>Кабинет 14–18 м² на 2 этаже в центре Купино — от 10 000 ₽/мес, офис, услуги, представительство</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
     <Description>Кабинеты на втором этаже здания на главной площади Купино, ул. Советов 80А: 14, 15, 17 и 18 м², свободны несколько соседних, можно взять один или объединить два-три.
 
 Тёплое здание, общий коридор, санузел на этаже, вход через центральный холл, парковка перед зданием. Подходит под офис, бухгалтерию, юристов, страхование, услуги.
 
-Ставка 6 500 ₽ в месяц за кабинет, договор от 11 месяцев, коммунальные сверх ставки. Показ в любой день.</Description>
-    <Price>6500</Price>
+Ставка от 10 000 ₽ в месяц за кабинет, договор от 11 месяцев, коммунальные сверх ставки. Показ в любой день.</Description>
+    <Price>10000</Price>
     <Square>15.0</Square>
     <Entrance>С улицы</Entrance>
     <Floor>1</Floor>
