@@ -108,7 +108,9 @@
     <Longitude>82.9270206</Longitude>
     <Title>Офис 39,6 м² на 10 этаже БЦ — с видом на город и удобными условиями для работы</Title>
     <ObjectType>Помещение свободного назначения</ObjectType>
-    <Description>Офис 39,6 м² в бизнес-центре на Некрасова, 48 — Новосибирск, центр. Это последний свободный офис в здании: остальные 14 заняты арендаторами и работают. Для арендатора это значит живой бизнес-центр с соседями, а не пустой этаж — есть поток людей, охрана и порядок в местах общего пользования. Кому подходит: небольшой компании до 6-8 человек, ИП с приёмом клиентов, проектному бюро, представительству, кабинету услуг.Договор с юридическим лицом, документы в порядке. Покажем в удобное время, для длинного договора обсудим условия въезда.</Description>
+    <Description>Офис 39,6 м² в бизнес-центре на Некрасова, 48 — Новосибирск, центр. Это последний свободный офис в здании: остальные 14 заняты арендаторами и работают. Для арендатора это значит живой бизнес-центр с соседями, а не пустой этаж — есть поток людей, охрана и порядок в местах общего пользования. Кому подходит: небольшой компании до 6-8 человек, ИП с приёмом клиентов, проектному бюро, представительству, кабинету услуг.Договор с юридическим лицом, документы в порядке. Покажем в удобное время, для длинного договора обсудим условия въезда.
+
+В здании свободны два офиса: 39,6 м² — 45 000 ₽/мес и 19 м² — 12 000 ₽/мес.</Description>
     <Price>45000</Price>
     <Square>40.0</Square>
     <Entrance>С улицы</Entrance>
@@ -161,7 +163,7 @@
     <RentalType>Прямая</RentalType>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <InternetCalls>Да</InternetCalls>
-    <ContactPhone>+7 983 000 2065</ContactPhone>
+    <ContactPhone>+7 953 772 0017</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
     <Layout>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/plans/201_kupino.jpg</Layout>
     <Images>
@@ -1022,7 +1024,7 @@
     <RentalType>Прямая</RentalType>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <InternetCalls>Да</InternetCalls>
-    <ContactPhone>+7 983 000 2065</ContactPhone>
+    <ContactPhone>+7 953 772 0017</ContactPhone>
     <ManagerName>Отдел аренды MAXCAPITAL</ManagerName>
     <Layout>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/plans/201_kupino.jpg</Layout>
     <Images>
