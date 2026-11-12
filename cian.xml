@@ -34,9 +34,6 @@
     </Phones>
     <Photos>
       <PhotoSchema>
-        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/08.jpg?v=3</FullUrl>
-      </PhotoSchema>
-      <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/00.jpg?v=3</FullUrl>
       </PhotoSchema>
       <PhotoSchema>
@@ -59,6 +56,9 @@
       </PhotoSchema>
       <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/07.jpg?v=3</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/enisejskaya/08.jpg?v=3</FullUrl>
       </PhotoSchema>
     </Photos>
   </object>
@@ -100,9 +100,6 @@
     </Phones>
     <Photos>
       <PhotoSchema>
-        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/02.jpg?v=3</FullUrl>
-      </PhotoSchema>
-      <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/03.jpg?v=3</FullUrl>
       </PhotoSchema>
       <PhotoSchema>
@@ -134,6 +131,9 @@
       </PhotoSchema>
       <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/01.jpg?v=3</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/shmitovskiy/02.jpg?v=3</FullUrl>
       </PhotoSchema>
     </Photos>
   </object>
@@ -172,9 +172,6 @@
     </Phones>
     <Photos>
       <PhotoSchema>
-        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/06.jpg?v=3</FullUrl>
-      </PhotoSchema>
-      <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/07.jpg?v=3</FullUrl>
       </PhotoSchema>
       <PhotoSchema>
@@ -212,6 +209,9 @@
       </PhotoSchema>
       <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/05.jpg?v=3</FullUrl>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/06.jpg?v=3</FullUrl>
       </PhotoSchema>
       <PhotoSchema>
         <FullUrl>https://raw.githubusercontent.com/LETSMAKEITAI/maxcapital-feeds/main/photos/rochdelskaya/14.jpg?v=3</FullUrl>
